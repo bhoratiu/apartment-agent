@@ -175,4 +175,15 @@ Offer sent for Dambul Rotund, 37 m2, asking price 92,000 EUR stated in descripti
 > Apartamentul a fost închiriat cu 450€ timp de 2 ani
 
 **Context:**
-Alex rejected the 78,000 EUR offer for the Dambul Rotund 37 m2 listing, stated a current price of 2,650 EUR/m2, and gave a past rent claim of 450 EUR/month for two years. No reply was sent.
+Alex rejected the 78,000 EUR offer for the Dambul Rotund 37 m2 listing, stated a current price of 2,650 EUR/m2, and gave a past rent claim of 450 EUR/month for two years.
+
+## 2026-08-21 17:22
+
+**Direction:** Us -> Seller
+
+**Message:**
+
+> Mulțumesc pentru răspuns și pentru informația legată de chirie. La nivelul de 2.650 €/mp, pentru mine nu mai funcționează ca investiție, așa că nu are sens să continuăm negocierea. Dacă pe viitor se schimbă semnificativ prețul, puteți să-mi scrieți. Mult succes cu vânzarea!
+
+**Context:**
+User manually sent the polite close-out to Alex for the Dambul Rotund listing. No further response is needed unless Alex later returns with a materially lower price or other material negotiation information.
