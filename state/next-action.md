@@ -1,6 +1,6 @@
 # Next Action
 
-STATUS: READY
+STATUS: IN_PROGRESS
 
 ## Objective
 Check for new seller replies on the two currently active Manastur negotiations and synchronize any material changes.
@@ -32,4 +32,7 @@ Set `STATUS: NEEDS_DECISION` if:
 User rerun request
 
 ## Generated At
+2026-08-21 15:12 EEST
+
+## Started At
 2026-08-21 15:12 EEST
