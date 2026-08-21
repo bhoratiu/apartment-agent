@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21 14:34 EEST",
+  "last_updated": "2026-08-21 15:27 EEST",
   "listings": [
     {
       "id": "IDkipiM",
@@ -65,7 +65,7 @@
       "estimated_monthly_rent_eur": 425,
       "estimated_total_cost_at_offer_eur": 93000,
       "estimated_gross_yield_at_offer_percent": 5.48,
-      "notes": "Listing page verified active on 2026-08-21 15:15 EEST. No new seller reply visible. Only worth pursuing near 80k because renovation is needed and there is no balcony."
+      "notes": "Listing page verified active on 2026-08-21 15:15 EEST. No new seller reply visible as of 2026-08-21 15:27 EEST. Only worth pursuing near 80k because renovation is needed and there is no balcony."
     },
     {
       "id": "IDkEIU6",
@@ -103,7 +103,7 @@
       "seller": "gutalbertioan2015",
       "owner_or_agency": "Persoana fizica",
       "verified_active_date": "2026-08-21",
-      "status": "NEEDS_DECISION_RECOMMEND_REJECT",
+      "status": "REJECTED_CLOSED_POLITELY",
       "our_last_offer_eur": 82000,
       "seller_last_counter_eur": 100000,
       "estimated_monthly_rent_eur": 405,
@@ -111,7 +111,73 @@
       "estimated_gross_yield_at_offer_percent": 5.46,
       "estimated_total_cost_at_counter_eur": 106500,
       "estimated_gross_yield_at_counter_percent": 4.56,
-      "notes": "Listing page verified active on 2026-08-21 15:15 EEST. Seller stated 100k minimum and proposed viewing; recommendation is reject on yield."
+      "notes": "Listing page verified active on 2026-08-21 15:15 EEST. Seller stated 100k minimum and proposed viewing; polite rejection sent 2026-08-21 15:23 EEST. No viewing arranged."
+    },
+    {
+      "id": "IDjthCr",
+      "url": "https://www.olx.ro/d/oferta/apartament-2-camere-complet-utilat-iris-cluj-napoca-IDjthCr.html",
+      "title": "Apartament 2 camere, complet utilat - Iris, Cluj-Napoca",
+      "neighborhood": "Iris, Cluj-Napoca",
+      "asking_price_eur": 109000,
+      "area_m2": 35,
+      "price_per_m2_eur": 3114,
+      "rooms": 2,
+      "floor": "Parter",
+      "year": "1977-1990",
+      "seller": "Andrei",
+      "owner_or_agency": "Persoana fizica",
+      "verified_active_date": "2026-08-21",
+      "status": "REJECTED_POOR_ECONOMICS",
+      "our_last_offer_eur": null,
+      "seller_last_counter_eur": null,
+      "estimated_monthly_rent_eur": 390,
+      "estimated_total_cost_at_asking_eur": 114000,
+      "estimated_gross_yield_at_asking_percent": 4.11,
+      "notes": "Active OLX page verified. Asking displayed as 541,377.86 lei; estimated ~109k EUR. Parter, 35 m2, Iris, common courtyard/house-style setup; implausible discount needed for target yield."
+    },
+    {
+      "id": "IDkKF2r",
+      "url": "https://www.olx.ro/d/oferta/ap-40-mp-iris-zona-terapia-in-spate-la-elite-residence-IDkKF2r.html",
+      "title": "Ap 40 mp | Iris | Zona Terapia | in spate la ELITE Residence |",
+      "neighborhood": "Iris, zona Terapia / Elite Residence",
+      "asking_price_eur": 102500,
+      "area_m2": 40,
+      "price_per_m2_eur": 2563,
+      "rooms": 2,
+      "floor": "Parter",
+      "year": "2017 per description",
+      "seller": "Vlad",
+      "owner_or_agency": "Persoana fizica",
+      "verified_active_date": "2026-08-21",
+      "status": "WAITING_FOR_SELLER",
+      "our_last_offer_eur": 82000,
+      "seller_last_counter_eur": null,
+      "estimated_monthly_rent_eur": 415,
+      "estimated_total_cost_at_offer_eur": 91500,
+      "estimated_gross_yield_at_offer_percent": 5.44,
+      "notes": "Active OLX page verified at 2026-08-21 15:27 EEST. Asking displayed as 509,841.29 lei; estimated ~102.5k EUR. Seller says price reduced by 10k, block 2017, needs light renovation. 82k offer sent."
+    },
+    {
+      "id": "IDkiB45",
+      "url": "https://www.olx.ro/d/oferta/vanzare-apartament-cu-2-camere-in-cluj-zona-vivo-IDkiB45.html",
+      "title": "Vanzare apartament cu 2 camere in Cluj, zona Vivo",
+      "neighborhood": "Zona Vivo, Cluj-Napoca",
+      "asking_price_eur": 105500,
+      "area_m2": 45,
+      "price_per_m2_eur": 2344,
+      "rooms": 2,
+      "floor": "1",
+      "year": "Dupa 2000",
+      "seller": "ofurnica",
+      "owner_or_agency": "Firma",
+      "verified_active_date": "2026-08-21",
+      "status": "REJECTED_POOR_ECONOMICS",
+      "our_last_offer_eur": null,
+      "seller_last_counter_eur": null,
+      "estimated_monthly_rent_eur": 450,
+      "estimated_total_cost_at_asking_eur": 112000,
+      "estimated_gross_yield_at_asking_percent": 4.82,
+      "notes": "Active OLX page verified. Asking displayed as 525,609.57 lei; description says 100k plus 5k parkings. Current OLX Vivo-edge rental comp at 450 EUR/month; edge location and required discount make this weak."
     }
   ]
 }

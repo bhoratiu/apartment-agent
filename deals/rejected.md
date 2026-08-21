@@ -52,3 +52,21 @@ For every rejection record:
 - Estimated yield at seller floor: ~4.5%-4.6% on total acquisition/light refresh cost
 - Rejection reason: seller will not sell below 100k and proposed viewing; this is far below the 5.5% target and should not be pursued unless the user explicitly overrides the investment screen.
 - Date checked: 2026-08-21
+
+## 2026-08-21 - Iris, Cluj-Napoca - 35 m2 - asking price too high for rent ceiling
+
+- Listing URL: https://www.olx.ro/d/oferta/apartament-2-camere-complet-utilat-iris-cluj-napoca-IDjthCr.html
+- Asking price: ~109,000 EUR, displayed as 541,377.86 lei on OLX
+- Estimated rent: 380-400 EUR/month
+- Estimated yield: ~4.1%-4.3% on estimated total acquisition cost at asking
+- Rejection reason: parter, only 35 m2, Iris location, common courtyard/house-style setup, and asking price requires an implausibly large discount to meet the 5.5% target.
+- Date checked: 2026-08-21
+
+## 2026-08-21 - Zona Vivo, Cluj-Napoca - 45 m2 - asking price too high for edge location
+
+- Listing URL: https://www.olx.ro/d/oferta/vanzare-apartament-cu-2-camere-in-cluj-zona-vivo-IDkiB45.html
+- Asking price: ~105,500 EUR, displayed as 525,609.57 lei on OLX; description says 100,000 EUR plus 5,000 EUR parkings
+- Estimated rent: ~450 EUR/month based on current OLX rental comp "Apartament 2 camere 50mp + 13 mp balcon, in spate la Vivo" listed at 450 EUR/month
+- Estimated yield: ~4.8% on estimated total acquisition cost at asking
+- Rejection reason: behind Vivo is weaker rental demand than target areas, likely all-in cost is too high, and the needed discount toward ~88,000-90,000 EUR is not plausible enough to prioritize over better locations.
+- Date checked: 2026-08-21
