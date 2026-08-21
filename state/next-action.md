@@ -1,31 +1,31 @@
 # Next Action
 
-STATUS: DONE
+STATUS: READY
 
 ## Objective
-Close the Edgar Quinet negotiation politely and search for new high-quality 2-room apartment investment candidates in Cluj-Napoca.
+Search for additional high-quality 2-room apartment investment candidates in Cluj-Napoca and open new non-binding negotiations only where the investment economics can plausibly meet the target.
 
 ## Instructions
-- Reply to the seller for Manastur, Str. Edgar Quinet 20 in Romanian with a short, polite rejection. Make clear that at 100,000 EUR the property does not meet the investment economics and that no viewing is needed. Do not reveal the user's maximum budget and do not increase the 82,000 EUR offer.
-- Suggested seller message: `Mulțumesc pentru răspuns și pentru detalii. La 100.000 EUR, pentru mine nu mai funcționează investițional raportat la chiria realistă și costurile totale, așa că nu are sens să vă răpesc timpul cu o vizionare. Dacă situația se schimbă semnificativ ca preț, puteți să-mi scrieți. Mult succes cu vânzarea!`
-- Preserve the exact sent message in `negotiations/2026-08-21-manastur-edgar-quinet-101700.md` and leave the property rejected unless the seller later returns with a materially lower price.
-- Continue waiting for any reply on Manastur, Str. Bucegi 8. Do not send a follow-up there unless the seller has replied.
-- Search for new, currently active, individually verified 2-room apartments for sale in Cluj-Napoca using `SEARCH_CRITERIA.md`.
-- Prioritize Gheorgheni, Marasti, Intre Lacuri, Zorilor, Manastur, Central and comparable high-demand areas, but allow other areas only when the investment economics are clearly stronger.
-- For each promising candidate, estimate realistic rent from current comparable rentals, calculate asking price per m2, total acquisition cost, gross yield on total cost, approximate mortgage cash flow, renovation/furnishing allowance, and key risks.
-- Only contact sellers where a plausible negotiated price could reach at least ~5.5% gross yield on all-in cost, preferably 6%+.
-- Negotiate aggressively but non-bindingly. Do not ask only `care este ultimul pret?`; anchor at a price supported by investment economics.
-- Do not reveal maximum budget or emotional interest.
-- Verify the individual listing page is active before treating a candidate as actionable.
-- Update `listings/listings.json`, `deals/active.md`, `deals/rejected.md`, `deals/negotiated.md`, relevant `negotiations/` files, `reports/latest.md`, and `/state` as required by `AGENTS.md`.
+- Search broadly for new, currently active, individually verified 2-room apartments for sale in Cluj-Napoca using `SEARCH_CRITERIA.md`.
+- Prioritize Gheorgheni, Marasti, Intre Lacuri, Zorilor, Manastur, Central and other strong rental-demand areas. Consider weaker/edge areas only if the price-to-rent economics are clearly superior.
+- Do not limit the search to the same OLX result slice as the previous run; explore additional result pages, relevant search variations, and fresh listings.
+- Check for any new replies on the active Bucegi 8 and Iris/Terapia negotiations, but do not send follow-ups if the sellers have not replied.
+- For every promising candidate, verify the individual listing is still active, then estimate realistic current rent from comparable rentals, asking price per m2, all-in acquisition cost, renovation/furnishing allowance, gross yield on total cost, approximate mortgage payment/cash flow, and key legal/building/rental risks.
+- Reject weak candidates quickly and record them in `deals/rejected.md` so they are not reconsidered unnecessarily.
+- Only contact sellers when a plausible negotiated purchase price could produce at least ~5.5% gross yield on all-in cost, preferably 6%+.
+- For candidates worth contacting, use a specific aggressive but reasonable investment-based anchor. Do not ask only `care este ultimul pret?` and do not reveal the user's maximum budget.
+- You may send non-binding seller messages autonomously when the price anchor follows the existing investment criteria and safety limits.
+- Preserve exact sent messages and seller replies in `negotiations/`.
+- Update `listings/listings.json`, `deals/active.md`, `deals/rejected.md`, `deals/negotiated.md`, `reports/latest.md`, and `/state` as required by `AGENTS.md`.
+- Continue searching until you have meaningfully expanded the candidate pool or exhausted the currently useful result set; do not stop after finding only one mediocre candidate.
 
 ## Stop Conditions
 Set `STATUS: NEEDS_DECISION` if:
-- a seller accepts or counters at a level that could plausibly meet the investment target;
+- a seller accepts or counters at a price that could plausibly meet the investment target;
 - a seller asks for a final offer;
 - a seller proposes a viewing for a financially attractive candidate;
+- a candidate looks sufficiently attractive that an in-person viewing should be considered;
 - new information materially changes expected yield or risk;
-- a candidate looks good enough that a viewing should be considered;
 - the requested browser action cannot be completed safely.
 
 ## Safety Limits
@@ -40,18 +40,4 @@ Set `STATUS: NEEDS_DECISION` if:
 ChatGPT orchestrator following explicit user instruction
 
 ## Generated At
-2026-08-21T15:20:00+03:00
-
-## Started At
-2026-08-21 15:27 EEST
-
-## Finished At
-2026-08-21 15:27 EEST
-
-## Result
-- Sent the approved polite rejection to the Manastur, Str. Edgar Quinet 20 seller. No viewing was arranged.
-- Verified Manastur, Str. Bucegi 8 still has no seller reply visible as of 2026-08-21 15:27 EEST.
-- Searched current OLX 2-room sale results under 110,000 EUR and verified selected individual listing pages.
-- Rejected weak new candidates at asking price, including Iris 35 m2 and Vivo-edge 45 m2.
-- Sent one non-binding 82,000 EUR offer for the Iris/Terapia 40 m2 candidate where a low-80s price could barely approach the investment threshold.
-- No seller accepted, countered, asked for final offer, or proposed a financially attractive viewing during this run.
+2026-08-21T15:43:00+03:00
