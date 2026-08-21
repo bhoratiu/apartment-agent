@@ -41,3 +41,14 @@ For every rejection record:
 - Estimated yield at seller counter: ~4.6%-4.8% on total acquisition cost
 - Rejection reason: seller's 123k counter is far above the investment price needed; railway proximity and refresh risk remain.
 - Date checked: 2026-08-21
+
+## 2026-08-21 - Manastur, Str. Edgar Quinet 20 - 38 m2 - seller floor too high
+
+- Listing URL: https://www.olx.ro/d/oferta/vand-apartament-38-mp-IDkOENc.html
+- Asking price: 101,700 EUR
+- Our offer: 82,000 EUR
+- Seller floor: 100,000 EUR
+- Estimated rent: 400-410 EUR/month
+- Estimated yield at seller floor: ~4.5%-4.6% on total acquisition/light refresh cost
+- Rejection reason: seller will not sell below 100k and proposed viewing; this is far below the 5.5% target and should not be pursued unless the user explicitly overrides the investment screen.
+- Date checked: 2026-08-21

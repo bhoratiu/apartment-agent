@@ -65,7 +65,7 @@
       "estimated_monthly_rent_eur": 425,
       "estimated_total_cost_at_offer_eur": 93000,
       "estimated_gross_yield_at_offer_percent": 5.48,
-      "notes": "No seller reply yet. Only worth pursuing near 80k because renovation is needed and there is no balcony."
+      "notes": "Listing page verified active on 2026-08-21 15:15 EEST. No new seller reply visible. Only worth pursuing near 80k because renovation is needed and there is no balcony."
     },
     {
       "id": "IDkEIU6",
@@ -103,13 +103,15 @@
       "seller": "gutalbertioan2015",
       "owner_or_agency": "Persoana fizica",
       "verified_active_date": "2026-08-21",
-      "status": "WAITING_FOR_SELLER",
+      "status": "NEEDS_DECISION_RECOMMEND_REJECT",
       "our_last_offer_eur": 82000,
-      "seller_last_counter_eur": null,
+      "seller_last_counter_eur": 100000,
       "estimated_monthly_rent_eur": 405,
       "estimated_total_cost_at_offer_eur": 89000,
       "estimated_gross_yield_at_offer_percent": 5.46,
-      "notes": "No seller reply yet. Large balcony helps, but rent and location only justify a deep discount."
+      "estimated_total_cost_at_counter_eur": 106500,
+      "estimated_gross_yield_at_counter_percent": 4.56,
+      "notes": "Listing page verified active on 2026-08-21 15:15 EEST. Seller stated 100k minimum and proposed viewing; recommendation is reject on yield."
     }
   ]
 }

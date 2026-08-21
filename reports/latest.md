@@ -1,10 +1,10 @@
 # Latest Apartment Investment Report
 
-Updated: 2026-08-21 14:34 EEST
+Updated: 2026-08-21 15:15 EEST
 
 ## Best Current Opportunity
 
-The best current opportunity is **Manastur, Str. Bucegi 8**, but only if the seller accepts or counters very close to our 80,000 EUR offer. No seller has accepted a financially attractive price yet.
+The best current opportunity remains **Manastur, Str. Bucegi 8**, but only if the seller accepts or counters very close to our 80,000 EUR offer. The listing page is still active, and no new seller reply was visible in OLX buyer chat as of 2026-08-21 15:15 EEST.
 
 - Listing: https://www.olx.ro/d/oferta/apartament-2-camere-cluj-napoca-manastur-str-bucegi-8-IDkRnzv.html
 - Original asking price: 105,000 EUR
@@ -16,21 +16,15 @@ The best current opportunity is **Manastur, Str. Bucegi 8**, but only if the sel
 - Estimated mortgage: ~387 EUR/month, assuming 75% LTV, 25 years, ~6% annual interest
 - Expected monthly cash flow before tax/vacancy/repairs: ~33-43 EUR/month
 
+## New Material Seller Reply
+
+The Manastur, Str. Edgar Quinet 20 seller replied at 14:50 and stated a 100,000 EUR minimum, after saying they had received 95k and 96k cash offers and declined them. They also proposed a viewing. At 100,000 EUR, estimated total investment is ~106,000-107,000 EUR and realistic rent is ~400-410 EUR/month, producing only ~4.5%-4.6% gross yield. This is below the investment target.
+
 ## Main Risks
 
-- No seller acceptance yet.
-- Etaj 4 and no balcony reduce tenant appeal.
-- Older building, before 1977, and classic condition imply renovation risk.
-- Yield only barely meets the 5.5% target even at the 80k offer.
-- Cash flow is thin before tax, vacancy, repairs, insurance, and HOA.
+- Bucegi: no seller acceptance yet, etaj 4, no balcony, older building before 1977, renovation risk, thin cash flow.
+- Edgar Quinet: seller floor is too high, parter, rent ceiling, and proposed viewing before price became attractive.
 
 ## Recommendation
 
-**Continue negotiating / wait for seller reply.** Do not request a viewing yet. Request a viewing only if the seller comes back near 80,000 EUR and confirms clean documents, immediate availability, and no hidden structural/legal issues.
-
-## Other Current Threads
-
-- Manastur, Edgar Quinet 20: still worth waiting on at the 82,000 EUR offer, but slightly weaker than Bucegi because rent is likely lower.
-- Marasti, Rasaritului: reject at seller's 123,000 EUR counter; yield is too poor.
-- Gheorgheni, Str. Busteni 28 m2: seller rejected; do not pursue unless they return unsolicited with a materially lower price.
-- Gheorgheni / Hermes, Str. Busteni 40 m2: seller rejected 86,000 EUR; do not pursue unless they later provide a concrete counter below ~92,000 EUR and renovation cost can be capped.
+**NEEDS_DECISION:** Do not respond to Edgar Quinet unless the user explicitly wants to reject or override the investment criteria. Recommendation is to reject Edgar Quinet at 100,000 EUR and continue waiting for Bucegi 8. Do not request or arrange any viewing yet.

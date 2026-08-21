@@ -6,7 +6,7 @@
 - Apartment size: 40 m2
 - Seller / agency: Augustin in OLX chat; listing previously displayed private seller
 - Current negotiated price: none
-- Current negotiation status: waiting for seller response
+- Current negotiation status: waiting for seller response; no new visible reply as of 2026-08-21 15:15 EEST
 - Next recommended action: wait. If seller counters near 80,000-85,000 EUR, ask clarifying questions about documents, roof/top-floor risk, renovation scope, and availability before requesting any viewing.
 
 ## Exact Messages
@@ -15,9 +15,10 @@
 
 > Buna ziua. Pentru investitie la inchiriere, dupa taxe si renovare, pretul cerut nu se sustine. Daca doriti o discutie rapida si simpla, pot lua in calcul 80.000 EUR, cu verificarea actelor. Este un nivel posibil?
 
-### 2026-08-21 14:34 - Seller -> Us
+## Status Checks
 
-> No seller reply visible in OLX buyer chat as of 2026-08-21 14:34 EEST.
+- 2026-08-21 14:34 EEST: no seller reply visible in OLX buyer chat.
+- 2026-08-21 15:15 EEST: no seller reply visible in OLX buyer chat.
 
 ## Investment Notes
 
