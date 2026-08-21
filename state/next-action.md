@@ -1,6 +1,6 @@
 # Next Action
 
-STATUS: READY
+STATUS: IN_PROGRESS
 
 ## Objective
 Retry the broader apartment search after the previous browser timeout, monitor active negotiations, and continue remote due diligence on the Zorilor / Hasdeu demisol candidate.
@@ -44,3 +44,6 @@ ChatGPT orchestrator following explicit user approval
 
 ## Generated At
 2026-08-21T17:57:00+03:00
+
+## Started At
+2026-08-21 17:59 EEST
