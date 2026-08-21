@@ -8,7 +8,7 @@ Apartments that currently justify further investigation.
 - Seller: Augustin
 - Asking price: 105,000 EUR
 - Our offer: 80,000 EUR
-- Seller response: no reply visible yet as of 2026-08-21 15:27 EEST
+- Seller response: no reply visible yet as of 2026-08-21 15:55 EEST
 - Estimated realistic rent: 420-430 EUR/month
 - Estimated total investment at our offer: ~92,000-94,000 EUR including acquisition costs and renovation/furnishing allowance
 - Estimated gross yield at our offer: ~5.4%-5.6%
@@ -21,7 +21,7 @@ Apartments that currently justify further investigation.
 - Seller: Vlad
 - Asking price: ~102,500 EUR, displayed as 509,841.29 lei on OLX
 - Our offer: 82,000 EUR
-- Seller response: waiting for seller response as of 2026-08-21 15:27 EEST
+- Seller response: waiting for seller response as of 2026-08-21 15:55 EEST
 - Estimated realistic rent: 405-420 EUR/month
 - Estimated total investment at our offer: ~91,000-92,000 EUR including acquisition costs and light renovation/furnishing allowance
 - Estimated gross yield at our offer: ~5.3%-5.5%

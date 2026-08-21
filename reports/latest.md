@@ -1,10 +1,10 @@
 # Latest Apartment Investment Report
 
-Updated: 2026-08-21 15:27 EEST
+Updated: 2026-08-21 15:55 EEST
 
 ## Best Current Opportunity
 
-The best current opportunity remains **Manastur, Str. Bucegi 8**, but only if the seller accepts or counters very close to our 80,000 EUR offer. No new seller reply was visible in OLX buyer chat as of 2026-08-21 15:27 EEST.
+The best current opportunity remains **Manastur, Str. Bucegi 8**, but only if the seller accepts or counters very close to our 80,000 EUR offer. No new seller reply was visible in OLX buyer chat as of 2026-08-21 15:55 EEST.
 
 - Listing: https://www.olx.ro/d/oferta/apartament-2-camere-cluj-napoca-manastur-str-bucegi-8-IDkRnzv.html
 - Original asking price: 105,000 EUR
@@ -19,12 +19,13 @@ The best current opportunity remains **Manastur, Str. Bucegi 8**, but only if th
 ## New Actions This Run
 
 - Edgar Quinet 20 was closed politely. We told the seller that at 100,000 EUR it does not work investment-wise and that no viewing is needed. No further action unless seller later returns materially lower.
+- Edgar Quinet 20 seller later acknowledged the close-out with: "Multumesc de interes. O zi frumoasa." No response recommended.
 - A new non-binding offer was sent for Iris/Terapia 40 m2: 82,000 EUR against an asking price of ~102,500 EUR.
 - Current OLX rental comps show non-prime / edge Cluj 2-room rents around 450 EUR/month, including a Vivo-edge 50 m2 comp at 450 EUR/month and Big Manastur 60 m2 at 450 EUR/month. No current Iris/Terapia keyword rental comp was visible.
 
 ## Active Backup Opportunity
 
-**Iris, Zona Terapia / Elite Residence, 40 m2** is active only because a very low price could barely approach the target. Asking price is ~102,500 EUR, our offer is 82,000 EUR, realistic rent is 405-420 EUR/month, estimated total investment at offer is ~91,000-92,000 EUR, and gross yield at offer is ~5.3%-5.5%. Estimated mortgage at 82,000 EUR is ~396 EUR/month, leaving only ~9-24 EUR/month before tax/vacancy/repairs.
+**Iris, Zona Terapia / Elite Residence, 40 m2** is active only because a very low price could barely approach the target. Asking price is ~102,500 EUR, our offer is 82,000 EUR, realistic rent is 405-420 EUR/month, estimated total investment at offer is ~91,000-92,000 EUR, and gross yield at offer is ~5.3%-5.5%. Estimated mortgage at 82,000 EUR is ~396 EUR/month, leaving only ~9-24 EUR/month before tax/vacancy/repairs. No new seller reply was visible as of 2026-08-21 15:55 EEST.
 
 ## Main Risks
 
@@ -34,4 +35,4 @@ The best current opportunity remains **Manastur, Str. Bucegi 8**, but only if th
 
 ## Recommendation
 
-**DONE / WAIT:** Continue waiting for Bucegi 8 and Iris/Terapia seller responses. Do not request or arrange any viewing yet. If Iris counters above ~88,000 EUR, reject unless new rent or renovation information materially improves the numbers.
+**NEEDS_DECISION:** No action recommended on Edgar Quinet's acknowledgement. Continue waiting for Bucegi 8 and Iris/Terapia seller responses. A new READY instruction is needed before continuing the broader fresh-listing scan.

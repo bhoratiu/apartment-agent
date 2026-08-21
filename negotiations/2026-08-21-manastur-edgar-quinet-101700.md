@@ -23,6 +23,10 @@
 
 > Mulțumesc pentru răspuns și pentru detalii. La 100.000 EUR, pentru mine nu mai funcționează investițional raportat la chiria realistă și costurile totale, așa că nu are sens să vă răpesc timpul cu o vizionare. Dacă situația se schimbă semnificativ ca preț, puteți să-mi scrieți. Mult succes cu vânzarea!
 
+### 2026-08-21 15:38 - Seller -> Us
+
+> Multumesc de interes. O zi frumoasa.
+
 ## Investment Notes
 
 - Estimated realistic rent: 400-410 EUR/month.

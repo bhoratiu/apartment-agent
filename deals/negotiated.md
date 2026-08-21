@@ -24,3 +24,4 @@ Properties where seller negotiations have started or produced a meaningful price
 - Reason: at 100,000 EUR plus acquisition/light refresh costs, estimated total investment is ~106,000-107,000 EUR. With realistic rent around 400-410 EUR/month, gross yield is only ~4.5%-4.6%, far below target.
 - Exact seller reply is preserved in `negotiations/2026-08-21-manastur-edgar-quinet-101700.md`.
 - Follow-up: polite rejection sent on 2026-08-21 at 15:23. No viewing arranged.
+- Seller acknowledgement: "Multumesc de interes. O zi frumoasa." at 15:38. No action recommended.
