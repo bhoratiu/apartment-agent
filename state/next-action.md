@@ -1,6 +1,6 @@
 # Next Action
 
-STATUS: READY
+STATUS: IN_PROGRESS
 
 ## Objective
 Use the now logged-in Storia browser session to perform remote due diligence on the best Storia leads, while continuing to monitor active OLX negotiations and search for new investment candidates.
@@ -43,3 +43,6 @@ ChatGPT orchestrator after user confirmed Storia login
 
 ## Generated At
 2026-08-21T18:09:00+03:00
+
+## Started At
+2026-08-21 18:13 EEST
