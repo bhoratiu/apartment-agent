@@ -1,6 +1,6 @@
 # Next Action
 
-STATUS: READY
+STATUS: IN_PROGRESS
 
 ## Objective
 Process Alex's new OLX reply for the active Dambul Rotund 37 m2 negotiation, preserve the exact message, recalculate the deal economics if needed, and decide the safe next step.
@@ -40,3 +40,6 @@ ChatGPT orchestrator following explicit user instruction
 
 ## Generated At
 2026-08-21T16:52:00+03:00
+
+## Started At
+2026-08-21 16:54 EEST
