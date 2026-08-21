@@ -46,6 +46,7 @@ You are helping me find and negotiate the purchase of an apartment in Cluj-Napoc
 16. The repository must reflect the browser state.
 17. Every time you send or receive an OLX message that changes the state of a negotiation, update the corresponding negotiations file and reports/latest.md before ending the session.
 18. Never leave important information only inside the browser conversation.
+19. A non-actionable acknowledgement does not count as a material negotiation change. Examples include messages equivalent to `Mulțumesc`, `O zi frumoasă`, `Am înțeles`, `Succes`, or other courtesy-only replies that contain no new price, condition, request, property fact, viewing proposal, or negotiation signal. Record such messages in the relevant negotiation history, but do not set `NEEDS_DECISION` and do not stop an otherwise active search task because of them.
 
 ## Scheduled command lifecycle
 
@@ -55,9 +56,10 @@ You are helping me find and negotiate the purchase of an apartment in Cluj-Napoc
 4. Execute only the current `Objective` and `Instructions`; do not invent a broader task.
 5. End every run by setting exactly one of:
    - `DONE`: completed, no decision required;
-   - `NEEDS_DECISION`: seller response or material judgment requires review;
+   - `NEEDS_DECISION`: a material seller response or material judgment requires review;
    - `BLOCKED`: login/tool/listing/state issue prevents safe completion.
 6. If status is already `NEEDS_DECISION`, `DONE`, `BLOCKED`, or `IN_PROGRESS`, do not repeat seller-facing work unless a newer `READY` instruction has been committed.
+7. Courtesy-only seller acknowledgements are not a reason to end a broader search task as `NEEDS_DECISION`; record them and continue the current Objective.
 
 ## Browser workflow
 
@@ -69,10 +71,12 @@ When opening a listing:
 5. Log the action.
 
 When receiving a seller response:
-1. Copy the seller's message exactly into `conversation-log.md`.
+1. Copy the seller's message exactly into `conversation-log.md` and the relevant negotiation file.
 2. Update negotiation state.
-3. Set `next-action.md` to `NEEDS_DECISION`.
-4. Stop before responding unless an existing instruction explicitly covers the situation.
+3. Classify the response:
+   - **Non-actionable acknowledgement:** courtesy-only message with no new price, condition, request, property fact, viewing proposal, or negotiation signal. Record it and continue the current task.
+   - **Material response:** acceptance, counteroffer, final-offer request, viewing proposal for a potentially attractive deal, new property/legal/building information, or anything that materially changes expected yield/risk. Set `next-action.md` to `NEEDS_DECISION` and stop before responding unless an existing instruction explicitly covers the situation.
+4. Never infer a material response from ambiguous wording; preserve the exact message and use the safer classification if the content genuinely affects economics or commitment.
 
 ## Source of truth
 
