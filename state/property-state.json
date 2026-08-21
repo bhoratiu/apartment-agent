@@ -1,34 +1,34 @@
 {
-  "status": "SEARCHING",
+  "status": "NEEDS_DECISION",
   "listing": {
-    "url": null,
-    "title": null,
-    "location": null,
-    "asking_price_eur": null,
-    "area_m2": null,
-    "price_per_m2": null,
-    "rooms": null,
-    "floor": null,
-    "year": null,
-    "owner_or_agency": null
+    "url": "https://www.olx.ro/d/oferta/apartament-2-camere-cluj-napoca-manastur-str-bucegi-8-IDkRnzv.html",
+    "title": "Apartament 2 camere - Cluj-Napoca, Manastur, Str. Bucegi 8",
+    "location": "Manastur, Str. Bucegi 8, Cluj-Napoca",
+    "asking_price_eur": 105000,
+    "area_m2": 40,
+    "price_per_m2": 2625,
+    "rooms": 2,
+    "floor": "4",
+    "year": "inainte de 1977",
+    "owner_or_agency": "Persoana fizica"
   },
   "investment": {
-    "estimated_monthly_rent_eur": null,
-    "estimated_gross_yield_percent": null,
-    "estimated_renovation_eur": null,
-    "estimated_total_cost_eur": null
+    "estimated_monthly_rent_eur": 425,
+    "estimated_gross_yield_percent": 5.48,
+    "estimated_renovation_eur": 10000,
+    "estimated_total_cost_eur": 93000
   },
   "negotiation": {
-    "initial_asking_price_eur": null,
-    "current_asking_price_eur": null,
-    "our_last_offer_eur": null,
+    "initial_asking_price_eur": 105000,
+    "current_asking_price_eur": 105000,
+    "our_last_offer_eur": 80000,
     "seller_last_counter_eur": null,
-    "number_of_rounds": 0
+    "number_of_rounds": 1
   },
   "seller": {
-    "name": null,
-    "contact_method": null
+    "name": "Augustin",
+    "contact_method": "OLX chat"
   },
-  "last_action": null,
-  "last_updated": null
+  "last_action": "Synchronized five contacted listings, three seller replies, two pending conversations, and latest recommendation into repository.",
+  "last_updated": "2026-08-21 14:34 EEST"
 }
