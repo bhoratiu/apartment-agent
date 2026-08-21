@@ -1,35 +1,34 @@
 # Next Action
 
-STATUS: NEEDS_DECISION
+STATUS: READY
 
 ## Objective
-Retry the broader apartment search after the previous browser timeout, monitor active negotiations, and continue remote due diligence on the Zorilor / Hasdeu demisol candidate.
+Use the now logged-in Storia browser session to perform remote due diligence on the best Storia leads, while continuing to monitor active OLX negotiations and search for new investment candidates.
 
 ## Instructions
 - Pull the repository and read `AGENTS.md`, `SEARCH_CRITERIA.md`, `reports/latest.md`, `deals/active.md`, `deals/rejected.md`, `state/property-state.json`, `state/conversation-log.md`, and relevant negotiation files before acting.
-- Alex / Dambul Rotund is already closed. The user manually sent the polite close-out at 2026-08-21 17:22 EEST. Do not send any further message to Alex unless he later sends materially new information or returns with a materially lower price.
-- Keep Dambul Rotund rejected at the seller's stated 2,650 EUR/m2 level.
-- Check whether Bucegi 8 or Iris/Terapia have new seller replies. Do not send follow-ups if they have not replied.
-- Retry the broader search that was interrupted by the browser timeout. Search for new, active, individually verified 2-room apartment investment candidates in Cluj-Napoca using `SEARCH_CRITERIA.md`.
-- Prioritize strong rental-demand areas and owner-direct / newly posted / price-reduced listings. Consider weaker areas only if price-to-rent economics are clearly better.
-- Explore multiple useful result pages and search variations; do not stop after one or two weak listings if the browser remains healthy.
-- Use the newer seller-tone rules for any new negotiation: frame an offer as the level that works for the buyer, avoid lecturing sellers about yield or saying their price is objectively wrong, and default to roughly 10-15% below ask unless there is concrete leverage supporting a deeper anchor.
-- Only contact new sellers where a plausible negotiated price could reach at least ~5.5% gross yield on all-in cost, preferably 6%+.
-- Investigate the Zorilor / Hasdeu demisol candidate further remotely before any viewing: verify legal designation / CF if available, natural light / windows, humidity or mold risk, how much of the unit is below grade, heating/utilities, building condition, agency commission, and current rental comps specifically near Hasdeu. Do not arrange a viewing without explicit user approval.
+- The user has confirmed that Storia is now logged in in the Codex browser. You may use the logged-in Storia session for seller/agency messaging and listing follow-up, subject to the same safety and non-binding rules used for OLX.
+- Prioritize **Centru / Gruia-Horea near Facultatea de Litere, 41 m2, 95,000 EUR**. Contact the agency on Storia for remote due diligence only; do not make an offer yet and do not request or arrange a viewing.
+- Ask concise factual questions covering: exact floor; exact CF/legal designation; whether all 41 m2 are usable area; why the layout has two bathrooms and whether a floor plan is available; agency commission; current condition and any renovation needed; whether it has been rented before and at what rent; exact courtyard parking rights; whether a tenant is currently in place; and whether there are any legal/cadastral modifications not reflected in CF.
+- Also contact the **Zorilor / Hasdeu demisol 43 m2, 95,000 EUR** agency on Storia for remote due diligence only. Ask: exact CF/legal designation; how much of the apartment is below grade; window sizes/orientation and natural light; any humidity/mold or water-infiltration history; building waterproofing/drainage and condition; heating/utilities; agency commission; whether it has been rented before and at what rent; and whether any renovation or legal/cadastral issue exists.
+- Use a neutral, professional tone. Do not imply the asking price is wrong, do not lecture about yield, and do not reveal the user's maximum budget.
+- Do not make any offer to Horea or Hasdeu until the answers are recorded and the investment economics are recalculated.
+- Check OLX for new replies on Bucegi 8 and Iris/Terapia. Do not send follow-ups if there are no replies.
+- Keep Alex / Dambul Rotund closed. Do not message him again unless he later returns with materially new information or a materially lower price.
+- Continue searching for new, active, individually verified 2-room apartments in Cluj-Napoca, especially owner-direct, newly posted, or price-reduced listings in strong rental-demand areas.
 - Update `listings/listings.json`, `deals/active.md`, `deals/rejected.md`, `deals/negotiated.md`, relevant `negotiations/` files, `reports/latest.md`, and `/state` as required by `AGENTS.md`.
-- Continue the broader search until the useful current result set has been meaningfully expanded or exhausted.
 
 ## Stop Conditions
-Set `STATUS: NEEDS_DECISION` only if:
+Set `STATUS: NEEDS_DECISION` if:
+- the Horea or Hasdeu agency provides information that materially changes expected yield, legal/building risk, renovation cost, or tenantability;
 - a seller accepts or counters at a price that could plausibly meet the investment target;
-- a seller asks for a final or better offer;
+- a seller asks for a final/better offer;
 - a seller proposes a viewing for a financially attractive candidate;
-- a candidate looks good enough that an in-person viewing should be considered;
-- new property, legal, building, financing, rent, or renovation information materially changes expected yield or risk.
+- a candidate looks good enough that an in-person viewing should be considered.
+
+Set `STATUS: DONE` if due-diligence messages are sent, no material seller replies arrive during the run, and the remaining task is simply to wait/search.
 
 Set `STATUS: BLOCKED` if browser, login, repository, or listing-state issues prevent safe execution.
-
-Courtesy-only acknowledgements and simple close-out messages are not decision points; record them and continue the current objective.
 
 ## Safety Limits
 - Do not send money.
@@ -40,23 +39,7 @@ Courtesy-only acknowledgements and simple close-out messages are not decision po
 - Do not arrange an in-person viewing without explicit user approval.
 
 ## Generated By
-ChatGPT orchestrator following explicit user approval
+ChatGPT orchestrator after user confirmed Storia login
 
 ## Generated At
-2026-08-21T17:57:00+03:00
-
-## Started At
-2026-08-21 17:59 EEST
-
-## Finished At
-2026-08-21 18:03 EEST
-
-## Result
-- Checked OLX buyer chat list: no unread seller replies; Bucegi 8 and Iris/Terapia still showed our outgoing messages. No follow-ups sent.
-- Kept Alex / Dambul Rotund closed; no message sent.
-- Re-verified Iris/Terapia listing. OLX search displayed 97,000 EUR and page displayed 509,601.22 lei; our 82,000 EUR offer remains outstanding.
-- Re-verified Zorilor / Hasdeu demisol listing and added remote due-diligence notes.
-- Verified new active lead: Centru / Gruia-Horea near Facultatea de Litere, 41 m2, 95,000 EUR, agency, estimated 500-550 EUR/month rent and ~5.8%-6.4% gross yield on estimated total cost.
-- Verified Buna Ziua demisol inalt 44 m2 at 97,000 EUR as a borderline high-risk active backup.
-- Rejected Mircea Zaciu 47 m2 because CF destination is `pod`; rejected Parcul Poligon because description says Floresti despite header mismatch; rejected Terra Gardens Oasului because true total cost includes VAT/terrace/parking/fit-out and delayed completion.
-- No seller messages were sent. No viewing was arranged. No financial commitment was made.
+2026-08-21T18:09:00+03:00
