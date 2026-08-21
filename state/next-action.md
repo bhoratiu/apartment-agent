@@ -1,6 +1,6 @@
 # Next Action
 
-STATUS: READY
+STATUS: IN_PROGRESS
 
 ## Objective
 Resume the apartment search and monitor active negotiations. Alex / Dambul Rotund has already been closed manually by the user and must not receive another message.
@@ -43,3 +43,6 @@ ChatGPT orchestrator after user manually closed Alex negotiation
 
 ## Generated At
 2026-08-21T17:30:00+03:00
+
+## Started At
+2026-08-21 17:34 EEST
