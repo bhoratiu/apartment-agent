@@ -44,10 +44,20 @@ You are helping me find and negotiate the purchase of an apartment in Cluj-Napoc
    `STATUS: NEEDS_DECISION`
    in `state/next-action.md`.
 16. The repository must reflect the browser state.
+17. Every time you send or receive an OLX message that changes the state of a negotiation, update the corresponding negotiations file and reports/latest.md before ending the session.
+18. Never leave important information only inside the browser conversation.
 
-17.Every time you send or receive an OLX message that changes the state of a negotiation, update the corresponding negotiations file and reports/latest.md before ending the session.
+## Scheduled command lifecycle
 
-18.Never leave important information only inside the browser conversation.
+1. Read `state/next-action.md` after `git pull --rebase`.
+2. Execute seller-facing/browser work only when `STATUS: READY`.
+3. Before execution, change status to `IN_PROGRESS`, commit, and push.
+4. Execute only the current `Objective` and `Instructions`; do not invent a broader task.
+5. End every run by setting exactly one of:
+   - `DONE`: completed, no decision required;
+   - `NEEDS_DECISION`: seller response or material judgment requires review;
+   - `BLOCKED`: login/tool/listing/state issue prevents safe completion.
+6. If status is already `NEEDS_DECISION`, `DONE`, `BLOCKED`, or `IN_PROGRESS`, do not repeat seller-facing work unless a newer `READY` instruction has been committed.
 
 ## Browser workflow
 
