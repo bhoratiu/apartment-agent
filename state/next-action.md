@@ -1,6 +1,6 @@
 # Next Action
 
-STATUS: IN_PROGRESS
+STATUS: NEEDS_DECISION
 
 ## Objective
 Search for additional high-quality 2-room apartment investment candidates in Cluj-Napoca and open new non-binding negotiations only where the investment economics can plausibly meet the target.
@@ -44,3 +44,17 @@ ChatGPT orchestrator following explicit user instruction
 
 ## Started At
 2026-08-21 15:47 EEST
+
+## Finished At
+2026-08-21 15:55 EEST
+
+## Result
+- Checked active OLX buyer chats before scanning new listings.
+- Manastur, Str. Edgar Quinet 20 seller sent: "Multumesc de interes. O zi frumoasa." at 15:38 after our polite close-out.
+- Manastur, Str. Bucegi 8 still had no new visible seller reply as of 2026-08-21 15:55 EEST.
+- Iris/Terapia 40 m2 still had no new visible seller reply as of 2026-08-21 15:55 EEST.
+- No OLX message was sent.
+- No viewing was arranged.
+
+## Decision Needed
+This is not an economically actionable counter; recommendation is no response to Edgar Quinet and continue with a fresh READY instruction for scanning new listings if desired.

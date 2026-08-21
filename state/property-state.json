@@ -1,34 +1,34 @@
 {
-  "status": "DONE",
+  "status": "NEEDS_DECISION",
   "listing": {
-    "url": "https://www.olx.ro/d/oferta/ap-40-mp-iris-zona-terapia-in-spate-la-elite-residence-IDkKF2r.html",
-    "title": "Ap 40 mp | Iris | Zona Terapia | in spate la ELITE Residence |",
-    "location": "Iris, zona Terapia / in spate la Elite Residence, Cluj-Napoca",
-    "asking_price_eur": 102500,
-    "area_m2": 40,
-    "price_per_m2": 2563,
+    "url": "https://www.olx.ro/d/oferta/vand-apartament-38-mp-IDkOENc.html",
+    "title": "VAND apartament 38 mp",
+    "location": "Manastur, Str. Edgar Quinet 20, Cluj-Napoca",
+    "asking_price_eur": 101700,
+    "area_m2": 38,
+    "price_per_m2": 2676,
     "rooms": 2,
     "floor": "Parter",
-    "year": "2017 per description",
+    "year": "Dupa 2000",
     "owner_or_agency": "Persoana fizica"
   },
   "investment": {
-    "estimated_monthly_rent_eur": 415,
-    "estimated_gross_yield_percent": 5.44,
-    "estimated_renovation_eur": 6500,
-    "estimated_total_cost_eur": 91500
+    "estimated_monthly_rent_eur": 405,
+    "estimated_gross_yield_percent": 4.56,
+    "estimated_renovation_eur": 4500,
+    "estimated_total_cost_eur": 106500
   },
   "negotiation": {
-    "initial_asking_price_eur": 102500,
-    "current_asking_price_eur": 102500,
+    "initial_asking_price_eur": 101700,
+    "current_asking_price_eur": 101700,
     "our_last_offer_eur": 82000,
-    "seller_last_counter_eur": null,
-    "number_of_rounds": 1
+    "seller_last_counter_eur": 100000,
+    "number_of_rounds": 3
   },
   "seller": {
-    "name": "Vlad",
+    "name": "gutalbertioan2015",
     "contact_method": "OLX chat"
   },
-  "last_action": "Closed Edgar Quinet politely at seller's 100,000 EUR floor, verified Bucegi had no new reply, searched current OLX 2-room sale/rental results, rejected weak candidates, and sent an 82,000 EUR non-binding offer for Iris/Terapia 40 m2.",
-  "last_updated": "2026-08-21 15:27 EEST"
+  "last_action": "Checked active OLX buyer chats before scanning new listings. Edgar Quinet seller acknowledged the close-out at 15:38. Bucegi and Iris/Terapia had no new visible replies. No messages were sent.",
+  "last_updated": "2026-08-21 15:55 EEST"
 }
