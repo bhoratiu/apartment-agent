@@ -1,5 +1,5 @@
 {
-  "status": "NEEDS_DECISION",
+  "status": "BLOCKED",
   "listing": {
     "url": "https://www.storia.ro/ro/oferta/apartament-2-camere-41-mp-zona-strzii-horea-IDCgs4",
     "title": "Apartament | 2 camere | 41 mp | zona strazii Horea",
@@ -27,8 +27,8 @@
   },
   "seller": {
     "name": "Comitat Imobiliare",
-    "contact_method": "Storia listing only; no message sent"
+    "contact_method": "Storia contact form opened; no message sent because form required name and phone"
   },
-  "last_action": "Retried broader search, confirmed no new Bucegi/Iris seller replies, re-verified Iris price display, re-verified Zorilor/Hasdeu, verified Horea 41 m2 as new best active lead, rejected Mircea Zaciu pod listing, Parcul Poligon location mismatch, and Terra Gardens new-build total-cost risk. No seller messages sent.",
-  "last_updated": "2026-08-21 18:03 EEST"
+  "last_action": "Opened verified Horea Storia listing and attempted remote due-diligence outreach without making an offer or requesting a viewing. Storia blocked submission until required name and phone fields were completed, so no message was sent. Checked OLX inbox read-only; no unread messages and Bucegi/Iris still show our outgoing offers as latest visible messages.",
+  "last_updated": "2026-08-21 18:17 EEST"
 }

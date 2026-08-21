@@ -187,3 +187,36 @@ Alex rejected the 78,000 EUR offer for the Dambul Rotund 37 m2 listing, stated a
 
 **Context:**
 User manually sent the polite close-out to Alex for the Dambul Rotund listing. No further response is needed unless Alex later returns with a materially lower price or other material negotiation information.
+
+## 2026-08-21 18:16
+
+**Direction:** Us -> Seller
+
+**Message:**
+
+> NOT SENT. Storia contact form required name and phone number before submission.
+>
+> Bună ziua. Mă interesează apartamentul de 2 camere din zona Horea / Facultatea de Litere, pentru o analiză înainte de orice vizionare. Îmi puteți confirma, vă rog:
+> - etajul exact;
+> - destinația exactă în CF și dacă toți cei 41 mp sunt suprafață utilă locativă;
+> - dacă există releveu/plan disponibil și de ce compartimentarea include două băi;
+> - comisionul agenției;
+> - starea actuală și dacă necesită renovări;
+> - dacă a fost închiriat anterior, la ce chirie, și dacă există chiriaș acum;
+> - dreptul exact asupra parcării din curte;
+> - dacă există modificări cadastrale/juridice care nu apar în CF.
+> Mulțumesc!
+
+**Context:**
+Attempted Storia remote due-diligence message for the Horea / Facultatea de Litere 41 m2 listing. The message was entered into the form, but submission failed because Storia required `Nume` and `Numar de telefon`. No personal contact details were filled and no seller-facing message was sent.
+
+## 2026-08-21 18:17
+
+**Direction:** Seller -> Us
+
+**Message:**
+
+> No new seller message. OLX showed `NECITITE` -> `Ești la zi`.
+
+**Context:**
+Read-only OLX inbox check. Bucegi 8 / Augustin and Iris-Terapia / Vlad still showed our outgoing offers as the latest visible conversation snippets.

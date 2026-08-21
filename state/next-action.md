@@ -1,6 +1,6 @@
 # Next Action
 
-STATUS: IN_PROGRESS
+STATUS: BLOCKED
 
 ## Objective
 Use the now logged-in Storia browser session to perform remote due diligence on the best Storia leads, while continuing to monitor active OLX negotiations and search for new investment candidates.
@@ -46,3 +46,9 @@ ChatGPT orchestrator after user confirmed Storia login
 
 ## Started At
 2026-08-21 18:13 EEST
+
+## Result
+Blocked on 2026-08-21 18:17 EEST. The Horea Storia contact form was opened and the authorized remote due-diligence message was entered, but Storia refused submission until required `Nume` and `Numar de telefon` fields were completed. These are personal/sensitive contact details and were not provided or invented. No Storia agency message was sent. OLX inbox was checked read-only: `NECITITE` showed `Esti la zi`, and Bucegi/Iris still showed our outgoing offers as the latest visible messages.
+
+## Next Recommendation
+Ask user whether they approve sharing a name and phone number through Storia contact forms, or provide a non-sensitive contact method to use. If approved, rerun the Horea and Hasdeu remote due-diligence messages exactly as authorized; otherwise use non-Storia channels only.
