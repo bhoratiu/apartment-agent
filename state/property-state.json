@@ -1,34 +1,34 @@
 {
-  "status": "NEEDS_DECISION",
+  "status": "BLOCKED",
   "listing": {
-    "url": "https://www.olx.ro/d/oferta/urgent-apartament-de-2-camere-37-2mp-zona-dambul-rotund-IDkOvsa.html",
-    "title": "Urgent!! Apartament de 2 camere, 37,2mp, zona dambul rotund",
-    "location": "Dambul Rotund, Cluj-Napoca",
-    "asking_price_eur": 92000,
-    "area_m2": 37,
-    "price_per_m2": 2486,
+    "url": "https://www.olx.ro/d/oferta/apartament-2-camere-decomandate-IDkJH6E.html",
+    "title": "Apartament 2 camere decomandate",
+    "location": "Manastur, zona Parking Primaverii nr. 20, Cluj-Napoca",
+    "asking_price_eur": 122000,
+    "area_m2": 52,
+    "price_per_m2": 2346,
     "rooms": 2,
-    "floor": "3/6",
-    "year": "Dupa 2000 / CF 2023 per description",
-    "owner_or_agency": "Persoana fizica"
+    "floor": "4",
+    "year": null,
+    "owner_or_agency": "Firma"
   },
   "investment": {
-    "estimated_monthly_rent_eur": 435,
-    "estimated_gross_yield_percent": 5.0,
-    "estimated_renovation_eur": 2500,
-    "estimated_total_cost_eur": 105000
+    "estimated_monthly_rent_eur": 500,
+    "estimated_gross_yield_percent": 4.67,
+    "estimated_renovation_eur": 1500,
+    "estimated_total_cost_eur": 128500
   },
   "negotiation": {
-    "initial_asking_price_eur": 92000,
-    "current_asking_price_eur": 98050,
-    "our_last_offer_eur": 78000,
-    "seller_last_counter_eur": 98050,
-    "number_of_rounds": 2
+    "initial_asking_price_eur": 122000,
+    "current_asking_price_eur": 122000,
+    "our_last_offer_eur": null,
+    "seller_last_counter_eur": null,
+    "number_of_rounds": 0
   },
   "seller": {
-    "name": "Alex",
-    "contact_method": "OLX chat"
+    "name": "Liliana",
+    "contact_method": "OLX listing only; no message sent"
   },
-  "last_action": "Recorded Alex's OLX reply rejecting the 78,000 EUR offer for Dambul Rotund, stating 2,650 EUR/m2 and claiming the apartment was rented for 450 EUR/month for two years. No reply sent and no viewing arranged.",
-  "last_updated": "2026-08-21 16:55 EEST"
+  "last_action": "Checked OLX chat list: no new Bucegi 8 or Iris/Terapia replies visible; Alex already closed by user. Verified and rejected Manastur Parking Primaverii 52 m2 at 122,000 EUR for poor yield. Browser connection timed out during further focused searches, blocking safe completion of the broader scan.",
+  "last_updated": "2026-08-21 17:39 EEST"
 }

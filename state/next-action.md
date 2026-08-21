@@ -1,6 +1,6 @@
 # Next Action
 
-STATUS: IN_PROGRESS
+STATUS: BLOCKED
 
 ## Objective
 Resume the apartment search and monitor active negotiations. Alex / Dambul Rotund has already been closed manually by the user and must not receive another message.
@@ -46,3 +46,14 @@ ChatGPT orchestrator after user manually closed Alex negotiation
 
 ## Started At
 2026-08-21 17:34 EEST
+
+## Finished At
+2026-08-21 17:39 EEST
+
+## Result
+- Checked OLX buyer chat list. Bucegi 8 and Iris/Terapia had no new visible seller replies; their previews still showed our outgoing messages.
+- Confirmed Alex / Dambul Rotund displayed the user-sent 17:22 polite close-out and did not send any further message.
+- Searched fresh OLX 2-room sale results under 125,000 EUR and neighborhood slices.
+- Verified one new listing page: Manastur, zona Parking Primaverii nr. 20, 52 m2 usable plus 4.52 m2 balcony, 122,000 EUR, firma listing. Rejected for poor yield.
+- Browser connection timed out and could not be re-established safely during additional focused searches, so the broader scan could not be completed.
+- No seller messages were sent. No viewing was arranged. No financial commitment was made.
