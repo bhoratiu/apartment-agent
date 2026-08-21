@@ -220,3 +220,25 @@ Attempted Storia remote due-diligence message for the Horea / Facultatea de Lite
 
 **Context:**
 Read-only OLX inbox check. Bucegi 8 / Augustin and Iris-Terapia / Vlad still showed our outgoing offers as the latest visible conversation snippets.
+
+## 2026-08-21 18:30
+
+**Direction:** Seller -> Us
+
+**Message:**
+
+> Salutare, avem client la 93 000 deci nu
+
+**Context:**
+Vlad replied for the Iris / Zona Terapia 40 m2 listing. This is a material rejection of the 82,000 EUR offer and gives a competing-buyer price signal at 93,000 EUR.
+
+## 2026-08-21 19:42
+
+**Direction:** Seller -> Us
+
+**Message:**
+
+> Buna seara, nu este apartamentul meu, doar am postat anuntul. Mai bine sunati la numar, dar din cate mi s-a spus, pretul nu e negociabil.
+
+**Context:**
+Augustin replied for the Manastur, Str. Bucegi 8 listing. This is material transaction information: Augustin is not the owner, he suggests phone contact, and he reports the price is not negotiable. No reply was sent.
