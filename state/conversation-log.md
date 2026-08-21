@@ -157,3 +157,22 @@ Seller gutalbertioan2015 acknowledged the polite close-out for Manastur, Str. Ed
 
 **Context:**
 Offer sent for Dambul Rotund, 37 m2, asking price 92,000 EUR stated in description. Seller is Alex, persoana fizica.
+
+## 2026-08-21 16:39
+
+**Direction:** Seller -> Us
+
+**Message:**
+
+> Nu
+>
+> Prețul respectiv era strict în perioada în care a fost blocat ancpi
+>
+> Acum e 2650€ PER mp
+>
+> Dacă găsiți vreodată la 80.000, trimiteți-mi și mie ca il să cumpăr instant.
+>
+> Apartamentul a fost închiriat cu 450€ timp de 2 ani
+
+**Context:**
+Alex rejected the 78,000 EUR offer for the Dambul Rotund 37 m2 listing, stated a current price of 2,650 EUR/m2, and gave a past rent claim of 450 EUR/month for two years. No reply was sent.

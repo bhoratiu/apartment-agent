@@ -1,5 +1,5 @@
 {
-  "status": "DONE",
+  "status": "NEEDS_DECISION",
   "listing": {
     "url": "https://www.olx.ro/d/oferta/urgent-apartament-de-2-camere-37-2mp-zona-dambul-rotund-IDkOvsa.html",
     "title": "Urgent!! Apartament de 2 camere, 37,2mp, zona dambul rotund",
@@ -13,22 +13,22 @@
     "owner_or_agency": "Persoana fizica"
   },
   "investment": {
-    "estimated_monthly_rent_eur": 400,
-    "estimated_gross_yield_percent": 5.75,
+    "estimated_monthly_rent_eur": 435,
+    "estimated_gross_yield_percent": 5.0,
     "estimated_renovation_eur": 2500,
-    "estimated_total_cost_eur": 83500
+    "estimated_total_cost_eur": 105000
   },
   "negotiation": {
     "initial_asking_price_eur": 92000,
-    "current_asking_price_eur": 92000,
+    "current_asking_price_eur": 98050,
     "our_last_offer_eur": 78000,
-    "seller_last_counter_eur": null,
-    "number_of_rounds": 1
+    "seller_last_counter_eur": 98050,
+    "number_of_rounds": 2
   },
   "seller": {
     "name": "Alex",
     "contact_method": "OLX chat"
   },
-  "last_action": "Continued broad scan under 125k, verified new OLX/Storia candidates, rejected weak economics, and sent a 78,000 EUR non-binding offer for Dambul Rotund 37 m2. No viewing arranged.",
-  "last_updated": "2026-08-21 16:37 EEST"
+  "last_action": "Recorded Alex's OLX reply rejecting the 78,000 EUR offer for Dambul Rotund, stating 2,650 EUR/m2 and claiming the apartment was rented for 450 EUR/month for two years. No reply sent and no viewing arranged.",
+  "last_updated": "2026-08-21 16:55 EEST"
 }
