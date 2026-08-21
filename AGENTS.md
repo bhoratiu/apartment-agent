@@ -43,6 +43,11 @@ You are helping me find and negotiate the purchase of an apartment in Cluj-Napoc
 15. If a seller response materially changes the negotiation, stop and set:
    `STATUS: NEEDS_DECISION`
    in `state/next-action.md`.
+16. The repository must reflect the browser state.
+
+17.Every time you send or receive an OLX message that changes the state of a negotiation, update the corresponding negotiations file and reports/latest.md before ending the session.
+
+18.Never leave important information only inside the browser conversation.
 
 ## Browser workflow
 
