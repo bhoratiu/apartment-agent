@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21 18:03 EEST",
+  "last_updated": "2026-08-21 18:17 EEST",
   "listings": [
     {
       "id": "IDkipiM",
@@ -103,13 +103,13 @@
       "seller": "Comitat Imobiliare",
       "owner_or_agency": "Agentie",
       "verified_active_date": "2026-08-21",
-      "status": "ACTIVE_REMOTE_DUE_DILIGENCE",
+      "status": "BLOCKED_STORIA_CONTACT_FIELDS",
       "our_last_offer_eur": null,
       "seller_last_counter_eur": null,
       "estimated_monthly_rent_eur": 525,
       "estimated_total_cost_at_asking_eur": 103000,
       "estimated_gross_yield_at_asking_percent": 6.12,
-      "notes": "Verified active on Storia at 2026-08-21 18:00 EEST. 41 m2, central/Gruia-Horea near Facultatea de Litere, gas central heating, ready to use, separate kitchen, parking in common courtyard, ownership right. Listing is agency and floor is not specified; layout says bedroom, hall, two bathrooms, kitchen with dining area, which needs floorplan/legal verification. Potentially strong yield if 500-550 EUR/month rent is realistic."
+      "notes": "Verified active on Storia at 2026-08-21 18:00 EEST and re-opened at 18:16 EEST. 41 m2, central/Gruia-Horea near Facultatea de Litere, gas central heating, ready to use, separate kitchen, parking in common courtyard, ownership right. Listing is agency and floor is not specified; layout says bedroom, hall, two bathrooms, kitchen with dining area, which needs floorplan/legal verification. Storia contact form blocked submission until required name and phone fields were completed; no message was sent. Potentially strong yield if 500-550 EUR/month rent is realistic."
     },
     {
       "id": "IDDuuW",
@@ -351,13 +351,13 @@
       "seller": "Welt Imobiliare",
       "owner_or_agency": "Agentie",
       "verified_active_date": "2026-08-21",
-      "status": "ACTIVE_NO_CONTACT_STORIA_AGENCY",
+      "status": "ACTIVE_STORIA_CONTACT_BLOCKED_BY_REQUIRED_FIELDS",
       "our_last_offer_eur": null,
       "seller_last_counter_eur": null,
       "estimated_monthly_rent_eur": 500,
       "estimated_total_cost_at_asking_eur": 101000,
       "estimated_gross_yield_at_asking_percent": 5.94,
-      "notes": "Active Storia page re-verified at 2026-08-21 18:01 EEST. Very strong campus/Hasdeu rental demand, ready to use, gas central heating, bathroom window, fully equipped and partially furnished, but demisol and agency channel. OLX exact Hasdeu rental search returned zero results; Zorilor OLX rental page errored, so 480-520 EUR/month remains an estimate needing better comp validation. No seller message sent."
+      "notes": "Active Storia page re-verified at 2026-08-21 18:01 EEST. Very strong campus/Hasdeu rental demand, ready to use, gas central heating, bathroom window, fully equipped and partially furnished, but demisol and agency channel. OLX exact Hasdeu rental search returned zero results; Zorilor OLX rental page errored, so 480-520 EUR/month remains an estimate needing better comp validation. Not contacted on 2026-08-21 because the prior Horea Storia contact attempt required name and phone fields; no seller message sent."
     },
     {
       "id": "IDCWr7",

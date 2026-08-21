@@ -8,7 +8,7 @@ Apartments that currently justify further investigation.
 - Seller: Augustin
 - Asking price: 105,000 EUR
 - Our offer: 80,000 EUR
-- Seller response: no reply visible yet as of 2026-08-21 17:35 EEST
+- Seller response: no reply visible yet as of 2026-08-21 18:17 EEST; OLX `NECITITE` showed `Ești la zi`
 - Estimated realistic rent: 420-430 EUR/month
 - Estimated total investment at our offer: ~92,000-94,000 EUR including acquisition costs and renovation/furnishing allowance
 - Estimated gross yield at our offer: ~5.4%-5.6%
@@ -21,7 +21,7 @@ Apartments that currently justify further investigation.
 - Seller: Vlad
 - Asking price: ~97,000 EUR in OLX search result; page displayed 509,601.22 lei on 2026-08-21
 - Our offer: 82,000 EUR
-- Seller response: waiting for seller response as of 2026-08-21 17:59 EEST
+- Seller response: waiting for seller response as of 2026-08-21 18:17 EEST; OLX `NECITITE` showed `Ești la zi`
 - Estimated realistic rent: 405-420 EUR/month
 - Estimated total investment at our offer: ~91,000-92,000 EUR including acquisition costs and light renovation/furnishing allowance
 - Estimated gross yield at our offer: ~5.3%-5.5%
@@ -39,7 +39,7 @@ Apartments that currently justify further investigation.
 - Estimated total investment at asking: ~100,000-102,000 EUR including acquisition costs and minimal refresh
 - Estimated gross yield at asking: ~5.6%-6.2%
 - Why still active: excellent rental-demand micro-location near student campuses and low asking price for central/Zorilor area. Re-verified page shows gas central heating, bathroom window, ready to use, equipped/partly furnished, and immediate availability.
-- Next action: ask agency remote questions first: exact CF/legal designation, how much is below grade, natural light/window sizes, humidity/mold history, building condition, agency commission, and whether any rent history exists. Do not request viewing without user approval.
+- Next action: blocked until user approves/provides safe contact details for Storia forms, or another non-Storia contact channel is used. Ask agency remote questions first: exact CF/legal designation, how much is below grade, natural light/window sizes, humidity/mold history, building condition, agency commission, and whether any rent history exists. Do not request viewing without user approval.
 
 ## 2026-08-21 - Centru / Gruia-Horea, near Facultatea de Litere - 41 m2
 
@@ -53,7 +53,7 @@ Apartments that currently justify further investigation.
 - Estimated gross yield at asking: ~5.8%-6.4%
 - Why active: strong central/Gruia-Horea rental demand near Facultatea de Litere, 41 m2, parking in common courtyard, gas central heating, ready to use, separate kitchen, and asking price is low enough to plausibly meet target yield.
 - Main risks: agency listing, floor is missing, layout is unusual with two bathrooms, exact legal/floorplan situation and rent comps need verification.
-- Next action: consider remote agency questions before any viewing; no viewing request without user approval.
+- Next action: Storia form was opened on 2026-08-21 18:16 EEST and the remote due-diligence message was entered, but submission failed because Storia required `Nume` and `Numar de telefon`. No message was sent. Continue only after user approves/provides safe contact details, or use another channel. No viewing request without user approval.
 
 ## 2026-08-21 - Buna Ziua, demisol inalt - 44 m2
 
