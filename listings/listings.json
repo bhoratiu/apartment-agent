@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21 16:37 EEST",
+  "last_updated": "2026-08-21 16:55 EEST",
   "listings": [
     {
       "id": "IDkipiM",
@@ -193,13 +193,15 @@
       "seller": "Alex",
       "owner_or_agency": "Persoana fizica",
       "verified_active_date": "2026-08-21",
-      "status": "WAITING_FOR_SELLER",
+      "status": "REJECTED_BY_SELLER_POOR_ECONOMICS",
       "our_last_offer_eur": 78000,
-      "seller_last_counter_eur": null,
-      "estimated_monthly_rent_eur": 400,
+      "seller_last_counter_eur": 98050,
+      "estimated_monthly_rent_eur": 435,
       "estimated_total_cost_at_offer_eur": 83500,
       "estimated_gross_yield_at_offer_percent": 5.75,
-      "notes": "Active OLX page verified at 2026-08-21 16:37 EEST. Description says 92k cash only, credit possible at higher price. Fully furnished/equipped, semidecomandat, Dambul Rotund. 78k offer sent."
+      "estimated_total_cost_at_counter_eur": 105000,
+      "estimated_gross_yield_at_counter_percent": 4.97,
+      "notes": "Active OLX page verified at 2026-08-21 16:37 EEST. Description says 92k cash only, credit possible at higher price. Fully furnished/equipped, semidecomandat, Dambul Rotund. 78k offer sent. Alex replied at 2026-08-21 16:39 EEST: rejected offer, stated current price is 2,650 EUR/m2, and claimed apartment was rented for 450 EUR/month for two years. Implied price is ~98,050 EUR using 37 m2, below target yield even with seller-reported rent."
     },
     {
       "id": "IDE7iZ",

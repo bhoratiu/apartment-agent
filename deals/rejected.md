@@ -111,3 +111,15 @@ For every rejection record:
 - Estimated yield: ~4.9%-5.3% on estimated total cost before parking
 - Rejection reason: new-build agency/developer project, likely extra parking/fit-out costs, total investment too high for target yield despite strong location.
 - Date checked: 2026-08-21
+
+## 2026-08-21 - Dambul Rotund - 37 m2 - seller rejected offer and raised price basis
+
+- Listing URL: https://www.olx.ro/d/oferta/urgent-apartament-de-2-camere-37-2mp-zona-dambul-rotund-IDkOvsa.html
+- Original asking price: 92,000 EUR stated in description; OLX displayed 483,542.69 lei during prior verification
+- Our offer: 78,000 EUR
+- Seller stated price: 2,650 EUR/m2, implying ~98,050 EUR for 37 m2 or ~98,580 EUR for 37.2 m2
+- Estimated rent: 420-450 EUR/month after seller claimed prior rent of 450 EUR/month for two years
+- Estimated yield at seller stated level: ~4.8%-5.2% on estimated total investment of ~104,000-106,000 EUR
+- Rejection reason: seller rejected the 78,000 EUR investment anchor, stated a higher current price basis, and mocked the low-80k range. Even accepting the seller's 450 EUR/month past-rent claim, the implied price is below the 5.5% target and likely produces negative or near-zero cash flow with mortgage before tax/vacancy/repairs.
+- Exact seller reply: "Nu / Prețul respectiv era strict în perioada în care a fost blocat ancpi / Acum e 2650€ PER mp / Dacă găsiți vreodată la 80.000, trimiteți-mi și mie ca il să cumpăr instant. / Apartamentul a fost închiriat cu 450€ timp de 2 ani"
+- Date checked: 2026-08-21

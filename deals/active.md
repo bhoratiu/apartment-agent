@@ -28,19 +28,6 @@ Apartments that currently justify further investigation.
 - Why still active: only works if the seller accepts a steep discount into the low-80s; the listing says price reduced by 10,000 EUR and needs light renovation, creating some negotiation leverage.
 - Next action: wait for seller response. Do not arrange viewing unless seller counters below ~88,000 EUR and renovation scope/rent assumptions still support the economics.
 
-## 2026-08-21 - Dambul Rotund - 37 m2
-
-- Listing: https://www.olx.ro/d/oferta/urgent-apartament-de-2-camere-37-2mp-zona-dambul-rotund-IDkOvsa.html
-- Seller: Alex
-- Asking price: 92,000 EUR stated in description; OLX displayed 483,542.69 lei
-- Our offer: 78,000 EUR
-- Seller response: waiting for seller response as of 2026-08-21 16:37 EEST
-- Estimated realistic rent: 390-410 EUR/month
-- Estimated total investment at our offer: ~83,000-84,000 EUR including acquisition costs and small refresh/furnishing allowance
-- Estimated gross yield at our offer: ~5.6%-5.9%
-- Why still active: private seller, urgent listing, newer block/CF 2023, furnished, and the low-80s could produce a barely acceptable investment yield.
-- Next action: wait for seller response. Do not arrange viewing unless seller counters near or below ~82,000 EUR and confirms credit/cash terms are workable.
-
 ## 2026-08-21 - Zorilor / Hasdeu, demisol - 43 m2
 
 - Listing: https://www.storia.ro/ro/oferta/apartament-2-camere-situat-in-zorilor-finisat-modern-IDE7iZ
