@@ -3,41 +3,34 @@
 STATUS: READY
 
 ## Objective
-Deepen remote due diligence on the two best active Storia leads using public information only, without submitting forms that require the user's personal contact details.
+Immediately capture and report the two new OLX seller replies to ChatGPT/user before doing any further search or due diligence.
 
 ## Instructions
-- Pull the repository and read `AGENTS.md`, `SEARCH_CRITERIA.md`, `reports/latest.md`, `deals/active.md`, `deals/negotiated.md`, `deals/rejected.md`, `state/property-state.json`, `state/conversation-log.md`, and any relevant negotiation files before acting.
-- Prioritize **Centru / Gruia-Horea near Facultatea de Litere, 41 m2, 95,000 EUR** first and **Zorilor / Hasdeu demisol, 43 m2, 95,000 EUR** second.
-- Do not submit the Storia contact forms while they require `Nume` or `Numar de telefon`; do not invent, infer, expose, or reuse personal contact details.
-- Use public, non-authenticated or already-accessible information to reduce the main unknowns before any seller contact: search for duplicate/cross-posted listings, the agency's own public listing pages, cached/current listing details, building/address clues, floor information, CF/legal wording if publicly stated, floor plans/photos, parking rights wording, renovation condition, and any commission information.
-- For Horea, specifically try to resolve: exact floor, why the layout shows two bathrooms, whether all 41 m2 are usable area, any floor-plan/legal clues, courtyard parking rights, and realistic current rent using nearby comparable rentals.
-- For Hasdeu, specifically try to resolve: how much is below grade, window/light situation, humidity/water-risk clues, building condition, any public legal/CF wording, and realistic current rent using nearby comparable rentals.
-- Recalculate estimated all-in cost, gross yield, mortgage payment, cash flow, and downside risks for both leads using any newly verified facts. Clearly distinguish verified facts from assumptions.
-- Check OLX read-only for new replies on Bucegi 8 and Iris/Terapia. Do not send follow-ups if there are no replies. If a seller accepts, counters, asks for a better/final offer, or proposes a viewing, stop and set `STATUS: NEEDS_DECISION` with the exact message preserved.
-- Keep Alex / Dambul Rotund closed and do not message him again unless he sends materially new information or a materially lower price.
-- Update `listings/listings.json`, `deals/active.md`, `deals/rejected.md`, relevant `negotiations/` files, `reports/latest.md`, and `/state` only with verified or clearly labeled inferred information.
+- Pull the repository and read `AGENTS.md`, `SEARCH_CRITERIA.md`, `state/conversation-log.md`, `reports/latest.md`, `deals/active.md`, and all relevant negotiation files before acting.
+- Open the OLX buyer chat inbox and identify the two conversations with new/unread seller replies.
+- For each new reply, copy the seller's newest message(s) EXACTLY, including multiple consecutive messages if they form one response.
+- Record for each conversation: seller name, property/listing, listing URL if known, timestamp visible in OLX, exact reply text, and whether the reply is acceptance, counteroffer, rejection, request for a better/final offer, viewing proposal, courtesy-only acknowledgement, or material property/transaction information.
+- Update `state/conversation-log.md` and the relevant `negotiations/*.md` files with the exact messages.
+- Update `deals/active.md`, `deals/negotiated.md`, `deals/rejected.md`, `listings/listings.json`, and `reports/latest.md` only as needed to reflect the new facts.
+- Recalculate economics only if a reply contains a new price, rent claim, transaction condition, renovation/property fact, or other information that materially changes the deal.
+- DO NOT send any reply to either seller in this run, even if the response appears easy to answer. The purpose of this run is to surface both replies to ChatGPT/user for review.
+- Do not continue broader OLX/Storia search or Horea/Hasdeu due diligence until both new OLX replies have been captured and written to the repo.
 
 ## Stop Conditions
-Set `STATUS: NEEDS_DECISION` if:
-- a new seller reply requires a user decision;
-- public due diligence materially changes the expected yield, legal/building risk, renovation cost, or tenantability of Horea or Hasdeu;
-- either lead becomes strong enough that an in-person viewing should be considered.
-
-Set `STATUS: DONE` if the public due diligence is completed and no seller reply needs action.
-
-Set `STATUS: BLOCKED` only if repository/browser access prevents safe research; a Storia form requiring personal contact details alone is not a blocker for this public-research objective.
+- After both new OLX replies are captured and recorded, set `STATUS: NEEDS_DECISION` if either reply is material (acceptance, counteroffer, rejection with new price/conditions, final-offer request, viewing proposal, or material property information).
+- If both are purely courtesy-only/non-actionable, set `STATUS: DONE`.
+- Set `STATUS: BLOCKED` only if browser/login/repository access prevents reading the replies safely.
 
 ## Safety Limits
-- Do not send money.
-- Do not pay a reservation or deposit.
+- Do not send seller messages in this run.
+- Do not send money or pay a reservation/deposit.
 - Do not sign or accept contracts.
 - Do not make a binding purchase commitment.
-- Do not reveal the user's maximum budget.
-- Do not arrange an in-person viewing without explicit user approval.
-- Do not submit or disclose the user's name, phone number, email address, or other personal contact details through seller/agency forms without explicit approval.
+- Do not reveal the user's maximum budget or personal financial details.
+- Do not arrange an in-person viewing.
 
 ## Generated By
-ChatGPT orchestrator
+ChatGPT orchestrator following user's explicit request to surface two new OLX replies
 
 ## Generated At
-2026-08-21T20:00:00+03:00
+2026-08-21T20:15:00+03:00
