@@ -159,3 +159,25 @@ For every rejection record:
 - Estimated yield: ~4.6%-4.8% on realistic total cost
 - Rejection reason: headline price excludes VAT, terrace costs 3,600 EUR extra, underground parking is 10,000 EUR, delivery is semifinished, payment is staged, and completion is December 2026. All-in cost and delayed rent make it poor for current buy-to-rent yield.
 - Date checked: 2026-08-21
+
+## 2026-08-21 - Manastur, Str. Bucegi 8 - 40 m2 - seller says price not negotiable
+
+- Listing URL: https://www.olx.ro/d/oferta/apartament-2-camere-cluj-napoca-manastur-str-bucegi-8-IDkRnzv.html
+- Asking price: 105,000 EUR
+- Our offer: 80,000 EUR
+- Seller reply: "Buna seara, nu este apartamentul meu, doar am postat anuntul. Mai bine sunati la numar, dar din cate mi s-a spus, pretul nu e negociabil."
+- Estimated rent: 420-430 EUR/month
+- Estimated yield at asking: ~4.3%-4.4% on estimated total investment of ~118,000 EUR after acquisition costs and renovation/furnishing allowance
+- Rejection reason: only worked near the 80,000 EUR anchor. Seller/chat contact says the price is not negotiable and he is not the owner, making the 105,000 EUR asking price poor yield with added transaction friction.
+- Date checked: 2026-08-21
+
+## 2026-08-21 - Iris / Terapia / Elite Residence - 40 m2 - seller rejected due 93k client
+
+- Listing URL: https://www.olx.ro/d/oferta/ap-40-mp-iris-zona-terapia-in-spate-la-elite-residence-IDkKF2r.html
+- Asking price: 97,000 EUR in OLX search result; page displayed 509,601.22 lei on 2026-08-21
+- Our offer: 82,000 EUR
+- Seller reply: "Salutare, avem client la 93 000 deci nu"
+- Estimated rent: 405-420 EUR/month
+- Estimated yield at 93,000 EUR price signal: ~4.7%-4.9% on estimated total investment of ~102,000-103,000 EUR
+- Rejection reason: seller rejected the low-80k investment anchor and reports a competing client at 93,000 EUR. At that level the deal remains below the 5.5% gross-yield target and has parter/Iris/renovation risks.
+- Date checked: 2026-08-21

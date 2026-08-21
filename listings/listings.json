@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21 18:17 EEST",
+  "last_updated": "2026-08-21 20:22 EEST",
   "listings": [
     {
       "id": "IDkipiM",
@@ -59,13 +59,13 @@
       "seller": "Augustin",
       "owner_or_agency": "Persoana fizica",
       "verified_active_date": "2026-08-21",
-      "status": "WAITING_FOR_SELLER",
+      "status": "REJECTED_NON_NEGOTIABLE_PRICE_NOT_OWNER",
       "our_last_offer_eur": 80000,
       "seller_last_counter_eur": null,
       "estimated_monthly_rent_eur": 425,
       "estimated_total_cost_at_offer_eur": 93000,
       "estimated_gross_yield_at_offer_percent": 5.48,
-      "notes": "Listing page verified active on 2026-08-21 15:15 EEST. No new seller reply visible as of 2026-08-21 15:55 EEST. Only worth pursuing near 80k because renovation is needed and there is no balcony."
+      "notes": "Listing page verified active on 2026-08-21 15:15 EEST. Only worth pursuing near 80k because renovation is needed and there is no balcony. Seller/chat contact replied at 2026-08-21 19:42 EEST: \"Buna seara, nu este apartamentul meu, doar am postat anuntul. Mai bine sunati la numar, dar din cate mi s-a spus, pretul nu e negociabil.\" Rejected because asking price is non-negotiable per contact and yield at 105k asking is poor."
     },
     {
       "id": "IDkJH6E",
@@ -281,15 +281,15 @@
       "seller": "Vlad",
       "owner_or_agency": "Persoana fizica",
       "verified_active_date": "2026-08-21",
-      "status": "WAITING_FOR_SELLER",
+      "status": "REJECTED_SELLER_HAS_93000_CLIENT",
       "our_last_offer_eur": 82000,
-      "seller_last_counter_eur": null,
+      "seller_last_counter_eur": 93000,
       "estimated_monthly_rent_eur": 415,
       "estimated_total_cost_at_offer_eur": 91500,
       "estimated_gross_yield_at_offer_percent": 5.44,
       "estimated_total_cost_at_asking_eur": 106000,
       "estimated_gross_yield_at_asking_percent": 4.7,
-      "notes": "Active OLX page re-verified at 2026-08-21 18:01 EEST. Search result displayed 97,000 EUR; page displayed 509,601.22 lei, consistent with OLX's EUR display. Seller says price reduced by 10k, block 2017, needs light renovation, parter, private seller. 82k offer remains outstanding; no new seller reply visible in chat list as of 2026-08-21 17:59 EEST. No follow-up sent per instruction."
+      "notes": "Active OLX page re-verified at 2026-08-21 18:01 EEST. Search result displayed 97,000 EUR; page displayed 509,601.22 lei, consistent with OLX's EUR display. Seller says price reduced by 10k, block 2017, needs light renovation, parter, private seller. Seller replied at 2026-08-21 18:30 EEST: \"Salutare, avem client la 93 000 deci nu\". Rejected because 93k price signal remains below target yield and seller rejected the 82k anchor."
     },
     {
       "id": "IDkiB45",

@@ -1,6 +1,6 @@
 # Latest Apartment Investment Report
 
-Updated: 2026-08-21 18:17 EEST
+Updated: 2026-08-21 20:22 EEST
 
 ## Best Current Opportunity
 
@@ -24,9 +24,19 @@ The best newly verified opportunity is **Centru / Gruia-Horea, near Facultatea d
 
 **Buna Ziua demisol inalt, 44 m2** is a borderline backup. Asking is 97,000 EUR, parking included, newer low-rise building, gas central heating, ready to use. Estimated rent 460-500 EUR/month, total cost ~104,000 EUR, gross yield ~5.3%-5.8%. Main risk is demisol/high-basement light and humidity plus agency commission.
 
-**Iris / Terapia, 40 m2** is still waiting for Vlad's response. OLX search now displayed 97,000 EUR and the page displayed 509,601.22 lei, lower than the earlier ~102,500 EUR estimate. Our 82,000 EUR offer remains outstanding. At asking it still yields only ~4.7% on all-in cost, so do not follow up unless the seller replies.
+## Captured OLX Replies This Run
 
-**Manastur, Str. Bucegi 8, 40 m2** remains active only if the seller accepts or counters very close to the 80,000 EUR offer. No new seller reply was visible in OLX chat as of 17:59 EEST.
+**Manastur, Str. Bucegi 8, 40 m2 / Augustin** replied at 19:42:
+
+> Buna seara, nu este apartamentul meu, doar am postat anuntul. Mai bine sunati la numar, dar din cate mi s-a spus, pretul nu e negociabil.
+
+Classification: material rejection / transaction information. Augustin says he is not the owner and that the price is reportedly not negotiable. This removes the only investable path near the 80,000 EUR anchor; reject.
+
+**Iris / Terapia, 40 m2 / Vlad** replied at 18:30:
+
+> Salutare, avem client la 93 000 deci nu
+
+Classification: material rejection with competing-buyer price signal. At 93,000 EUR plus costs, estimated total investment is ~102,000-103,000 EUR and gross yield is only ~4.7%-4.9% with 405-420 EUR/month rent; reject.
 
 ## New Rejects This Run
 
@@ -34,13 +44,15 @@ The best newly verified opportunity is **Centru / Gruia-Horea, near Facultatea d
 - Floresti / Parcul Poligon 61 m2 at 117,000 EUR: rejected because Storia header suggested Intre Lacuri but description says Floresti; weak actual location and yield.
 - Terra Gardens Oasului 48.32 m2 at 89,392 EUR headline: rejected because price excludes VAT, terrace, parking, fit-out, and completion is December 2026 with staged payments.
 - Manastur / Parking Primaverii 52 m2 at 122,000 EUR remains rejected for poor yield.
+- Manastur / Bucegi 8 40 m2 at 105,000 EUR: rejected after seller/chat contact said he is not owner and price is reportedly not negotiable.
+- Iris / Terapia 40 m2 at 97,000 EUR: rejected after seller said he has a client at 93,000 EUR and declined the 82,000 EUR anchor.
 
 ## Negotiations
 
-- Bucegi 8: no new reply visible as of 2026-08-21 18:17 EEST; do not follow up.
-- Iris/Terapia: no new reply visible as of 2026-08-21 18:17 EEST; do not follow up.
+- Bucegi 8: material reply captured; recommendation reject, no reply sent.
+- Iris/Terapia: material reply captured; recommendation reject, no reply sent.
 - Dambul Rotund: closed by user at 17:22; do not message Alex again unless he later returns with a materially lower price.
 
 ## Recommendation
 
-**BLOCKED:** Storia remote due-diligence messages cannot be sent without completing required `Nume` and `Numar de telefon` fields. No offers, viewings, commitments, or personal contact details were sent. Best investment lead remains Horea 41 m2, but agency answers are needed before any viewing or price negotiation.
+**NEEDS_DECISION:** Both new OLX replies are material and were recorded exactly. No seller replies were sent. Recommendation is to reject Bucegi and Iris for poor economics at the new seller signals, while keeping Horea 41 m2 as the best unresolved lead subject to the Storia contact-fields blocker.
