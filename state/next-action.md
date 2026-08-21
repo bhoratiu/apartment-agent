@@ -1,6 +1,6 @@
 # Next Action
 
-STATUS: IN_PROGRESS
+STATUS: NEEDS_DECISION
 
 ## Objective
 Retry the broader apartment search after the previous browser timeout, monitor active negotiations, and continue remote due diligence on the Zorilor / Hasdeu demisol candidate.
@@ -47,3 +47,16 @@ ChatGPT orchestrator following explicit user approval
 
 ## Started At
 2026-08-21 17:59 EEST
+
+## Finished At
+2026-08-21 18:03 EEST
+
+## Result
+- Checked OLX buyer chat list: no unread seller replies; Bucegi 8 and Iris/Terapia still showed our outgoing messages. No follow-ups sent.
+- Kept Alex / Dambul Rotund closed; no message sent.
+- Re-verified Iris/Terapia listing. OLX search displayed 97,000 EUR and page displayed 509,601.22 lei; our 82,000 EUR offer remains outstanding.
+- Re-verified Zorilor / Hasdeu demisol listing and added remote due-diligence notes.
+- Verified new active lead: Centru / Gruia-Horea near Facultatea de Litere, 41 m2, 95,000 EUR, agency, estimated 500-550 EUR/month rent and ~5.8%-6.4% gross yield on estimated total cost.
+- Verified Buna Ziua demisol inalt 44 m2 at 97,000 EUR as a borderline high-risk active backup.
+- Rejected Mircea Zaciu 47 m2 because CF destination is `pod`; rejected Parcul Poligon because description says Floresti despite header mismatch; rejected Terra Gardens Oasului because true total cost includes VAT/terrace/parking/fit-out and delayed completion.
+- No seller messages were sent. No viewing was arranged. No financial commitment was made.
