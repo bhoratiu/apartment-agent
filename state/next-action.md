@@ -1,31 +1,36 @@
 # Next Action
 
-STATUS: NEEDS_DECISION
+STATUS: READY
 
 ## Objective
-Process Alex's new OLX reply for the active Dambul Rotund 37 m2 negotiation, preserve the exact message, recalculate the deal economics if needed, and decide the safe next step.
+Close the Dambul Rotund / Alex negotiation politely without changing the offer, then resume the apartment search and continue monitoring active negotiations.
 
 ## Instructions
-- Pull the repository and read `AGENTS.md`, `SEARCH_CRITERIA.md`, `reports/latest.md`, `deals/active.md`, `state/property-state.json`, and `negotiations/2026-08-21-dambul-rotund-92k.md` before taking action.
-- Open the OLX buyer chat with Alex for the Dambul Rotund 37 m2 listing and copy his newest message exactly into the relevant negotiation history and state/conversation log.
-- Classify the reply according to `AGENTS.md`.
-- If it is courtesy-only and contains no new price, condition, property fact, request, viewing proposal, or negotiation signal, record it and continue safely without escalating.
-- If Alex gives a counteroffer, acceptance, final-offer request, new transaction condition (including cash/credit requirements), viewing proposal, or material property/building/legal information, update `listings/listings.json`, `deals/active.md`, `deals/negotiated.md` or `deals/rejected.md` as appropriate, and recalculate realistic all-in cost, gross yield, mortgage/cash-flow impact, and major risks.
-- Do not automatically increase the existing 78,000 EUR offer unless an already-approved negotiation rule clearly covers the exact situation. A material counter or final-offer request must end as `STATUS: NEEDS_DECISION` for ChatGPT/user review.
-- Use the newer seller-tone rules: do not argue that the seller is objectively overpriced, do not lecture about yield, and do not reveal the user's maximum budget.
-- Do not arrange a viewing unless the economics are attractive and the user explicitly approves it.
-- Update `reports/latest.md` and all relevant state/negotiation files before ending the run.
+- Pull the repository and read `AGENTS.md`, `SEARCH_CRITERIA.md`, `reports/latest.md`, `deals/active.md`, `deals/rejected.md`, `state/property-state.json`, `state/conversation-log.md`, and the relevant negotiation files before acting.
+- For Alex / Dambul Rotund, send exactly one short, polite close-out reply in Romanian. Do not argue about his 2,650 EUR/m2 price, do not respond to the sarcastic remark, do not challenge the 450 EUR/month rent claim, and do not raise the existing 78,000 EUR offer.
+- Preferred seller reply:
+  `Mulțumesc pentru răspuns și pentru informația legată de chirie. La nivelul de 2.650 EUR/mp, pentru mine nu mai funcționează ca investiție, așa că nu are sens să continuăm negocierea. Dacă pe viitor se schimbă semnificativ prețul, puteți să-mi scrieți. Mult succes cu vânzarea!`
+- Preserve the exact sent message in the Dambul Rotund negotiation file and state/conversation log. Keep the property rejected unless the seller later returns with a materially lower price.
+- After closing Alex, check whether Bucegi 8 or Iris/Terapia have new seller replies. Do not send follow-ups if they have not replied.
+- Resume searching for new, active, individually verified 2-room apartment investment candidates in Cluj-Napoca using `SEARCH_CRITERIA.md`.
+- Prioritize strong rental-demand areas and owner-direct / newly posted / price-reduced listings. Consider weaker areas only if price-to-rent economics are clearly better.
+- Use the newer seller-tone rules for any new negotiation: frame an offer as the level that works for the buyer, avoid lecturing sellers about yield or saying their price is objectively wrong, and default to roughly 10-15% below ask unless there is concrete leverage supporting a deeper anchor.
+- Only contact new sellers where a plausible negotiated price could reach at least ~5.5% gross yield on all-in cost, preferably 6%+.
+- Investigate the Zorilor / Hasdeu demisol candidate further remotely before any viewing: verify legal designation / CF if available, natural light / windows, humidity or mold risk, how much of the unit is below grade, heating/utilities, building condition, agency commission, and current rental comps specifically near Hasdeu. Do not arrange a viewing without explicit user approval.
+- Update `listings/listings.json`, `deals/active.md`, `deals/rejected.md`, `deals/negotiated.md`, relevant `negotiations/` files, `reports/latest.md`, and `/state` as required by `AGENTS.md`.
+- Continue the broader search after Alex is closed; do not stop merely because the close-out message was sent.
 
 ## Stop Conditions
-Set `STATUS: NEEDS_DECISION` if:
-- Alex accepts or counters;
-- Alex asks for a final/better offer;
-- Alex proposes a viewing and the deal could plausibly meet the investment threshold;
-- Alex provides new information that materially changes expected yield, financing viability, legal/building risk, or renovation cost.
+Set `STATUS: NEEDS_DECISION` only if:
+- a seller accepts or counters at a price that could plausibly meet the investment target;
+- a seller asks for a final or better offer;
+- a seller proposes a viewing for a financially attractive candidate;
+- a candidate looks good enough that an in-person viewing should be considered;
+- new property, legal, building, financing, rent, or renovation information materially changes expected yield or risk.
 
-Set `STATUS: DONE` if the reply is purely non-actionable and no user decision is needed.
+Set `STATUS: BLOCKED` if browser, login, repository, or listing-state issues prevent safe execution.
 
-Set `STATUS: BLOCKED` if OLX/browser/repository access prevents safe verification.
+Courtesy-only acknowledgements and simple close-out messages are not decision points; record them and continue the current objective.
 
 ## Safety Limits
 - Do not send money.
@@ -36,20 +41,7 @@ Set `STATUS: BLOCKED` if OLX/browser/repository access prevents safe verificatio
 - Do not arrange an in-person viewing without explicit user approval.
 
 ## Generated By
-ChatGPT orchestrator following explicit user instruction
+ChatGPT orchestrator following explicit user approval
 
 ## Generated At
-2026-08-21T16:52:00+03:00
-
-## Started At
-2026-08-21 16:54 EEST
-
-## Finished At
-2026-08-21 16:55 EEST
-
-## Result
-- Opened the OLX buyer chat with Alex for Dambul Rotund and copied the exact newest seller response into `state/conversation-log.md` and `negotiations/2026-08-21-dambul-rotund-92000.md`.
-- Alex rejected the 78,000 EUR offer, stated the price is now 2,650 EUR/m2, and claimed the apartment was rented for 450 EUR/month for two years.
-- Classified the reply as material because it contains rejection, updated price basis, and rental information.
-- Updated `deals/active.md`, `deals/rejected.md`, `reports/latest.md`, `listings/listings.json`, and state files to reflect rejection/walk-away recommendation.
-- No seller reply was sent. No viewing was arranged. No financial commitment was made.
+2026-08-21T17:28:00+03:00
