@@ -1,5 +1,5 @@
 {
-  "status": "NEEDS_DECISION",
+  "status": "BLOCKED",
   "listing": {
     "url": "https://www.olx.ro/d/oferta/apartament-2-camere-cluj-napoca-manastur-str-bucegi-8-IDkRnzv.html",
     "title": "Apartament 2 camere - Cluj-Napoca, Manastur, Str. Bucegi 8",
@@ -29,6 +29,6 @@
     "name": "Augustin",
     "contact_method": "OLX chat"
   },
-  "last_action": "Synchronized five contacted listings, three seller replies, two pending conversations, and latest recommendation into repository.",
-  "last_updated": "2026-08-21 14:34 EEST"
+  "last_action": "Attempted to check OLX buyer chats for the two active Manastur negotiations, but in-app browser control timed out repeatedly. No seller-facing OLX action was performed.",
+  "last_updated": "2026-08-21 15:08 EEST"
 }

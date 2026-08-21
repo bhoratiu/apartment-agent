@@ -1,6 +1,6 @@
 # Next Action
 
-STATUS: IN_PROGRESS
+STATUS: BLOCKED
 
 ## Objective
 Check for new seller replies on the two currently active Manastur negotiations and synchronize any material changes.
@@ -11,6 +11,9 @@ Check for new seller replies on the two currently active Manastur negotiations a
 - If there is no new seller reply, record that the check completed and do not send a new message.
 - If a seller replies, preserve the exact message in the corresponding negotiation file and recalculate the investment economics using total all-in cost.
 - Update `reports/latest.md` and the relevant files under `deals/` and `state/`.
+
+## Blocked Reason
+The in-app browser control session timed out repeatedly while reconnecting to the logged-in OLX tab. Seller conversations and listing pages could not be safely verified, so no OLX seller-facing action was performed and no seller reply was inferred.
 
 ## Stop Conditions
 Set `STATUS: NEEDS_DECISION` if:
@@ -36,3 +39,6 @@ ChatGPT orchestrator
 
 ## Started At
 2026-08-21 15:03 EEST
+
+## Finished At
+2026-08-21 15:08 EEST
