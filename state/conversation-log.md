@@ -113,3 +113,25 @@ Lucian rejected the 86,000 EUR offer for the Gheorgheni / Hermes, Str. Busteni l
 
 **Context:**
 Seller gutalbertioan2015 replied for Manastur, Str. Edgar Quinet 20, stated a 100,000 EUR floor, and proposed viewing. No reply was sent.
+
+## 2026-08-21 15:23
+
+**Direction:** Us -> Seller
+
+**Message:**
+
+> Mulțumesc pentru răspuns și pentru detalii. La 100.000 EUR, pentru mine nu mai funcționează investițional raportat la chiria realistă și costurile totale, așa că nu are sens să vă răpesc timpul cu o vizionare. Dacă situația se schimbă semnificativ ca preț, puteți să-mi scrieți. Mult succes cu vânzarea!
+
+**Context:**
+Closed the Manastur, Str. Edgar Quinet 20 negotiation politely after seller stated a 100,000 EUR floor and proposed a viewing. No viewing was arranged.
+
+## 2026-08-21 15:27
+
+**Direction:** Us -> Seller
+
+**Message:**
+
+> Bună ziua. Mă uit strict investițional, iar pentru Iris/parter și renovarea necesară calculul nu susține prețul afișat. Dacă doriți o discuție rapidă, pot lua în calcul 82.000 EUR, cu verificarea actelor, fără condiții complicate. Este un nivel discutabil pentru dvs.?
+
+**Context:**
+Offer sent for Iris, zona Terapia / in spate la Elite Residence, 40 m2, asking price displayed as 509,841.29 lei (~102,500 EUR).
