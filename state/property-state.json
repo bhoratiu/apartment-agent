@@ -1,0 +1,34 @@
+{
+  "status": "SEARCHING",
+  "listing": {
+    "url": null,
+    "title": null,
+    "location": null,
+    "asking_price_eur": null,
+    "area_m2": null,
+    "price_per_m2": null,
+    "rooms": null,
+    "floor": null,
+    "year": null,
+    "owner_or_agency": null
+  },
+  "investment": {
+    "estimated_monthly_rent_eur": null,
+    "estimated_gross_yield_percent": null,
+    "estimated_renovation_eur": null,
+    "estimated_total_cost_eur": null
+  },
+  "negotiation": {
+    "initial_asking_price_eur": null,
+    "current_asking_price_eur": null,
+    "our_last_offer_eur": null,
+    "seller_last_counter_eur": null,
+    "number_of_rounds": 0
+  },
+  "seller": {
+    "name": null,
+    "contact_method": null
+  },
+  "last_action": null,
+  "last_updated": null
+}
