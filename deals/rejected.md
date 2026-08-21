@@ -70,3 +70,44 @@ For every rejection record:
 - Estimated yield: ~4.8% on estimated total acquisition cost at asking
 - Rejection reason: behind Vivo is weaker rental demand than target areas, likely all-in cost is too high, and the needed discount toward ~88,000-90,000 EUR is not plausible enough to prioritize over better locations.
 - Date checked: 2026-08-21
+
+## 2026-08-21 - Someseni / advertised Marasti - 72 m2 - agency villa layout
+
+- Listing URL: https://www.storia.ro/ro/oferta/apartamanet-2-camere-cf-sporit-in-marasti-IDIhDs
+- Asking price: 105,500 EUR
+- Estimated rent: 480-520 EUR/month
+- Estimated yield: ~5.0%-5.4% on estimated total acquisition cost at asking
+- Rejection reason: actual page location showed Someseni, not core Marasti; agency listing; 2-level villa layout with central heating and uncertain tenant profile. Not strong enough versus target risk-adjusted yield.
+- Date checked: 2026-08-21
+
+## 2026-08-21 - Gheorgheni, Str. Albac / Hermes - 26-27 m2 agency micro-units
+
+- Listing URLs:
+  - https://www.storia.ro/ro/oferta/comision-0-apartament-de-vanzare-in-centrul-cartierului-gheorgheni-IDHFdE
+  - https://www.storia.ro/ro/oferta/vanzare-apartament-2-camere-etaj-3-gheorgheni-str-albac-IDHwtV
+  - https://www.storia.ro/ro/oferta/apartament-2-camere-27-mp-zona-gheorgheni-IDGAaC
+- Asking price: 90,000-91,500 EUR
+- Estimated rent: 350-375 EUR/month
+- Estimated yield: ~4.4%-4.8% on estimated total acquisition cost at asking
+- Rejection reason: excellent area but very small 26-27 m2 units, high EUR/m2, agency listings, central heating/parter or compact layout risk; already similar to previously rejected Gheorgheni 28 m2 economics.
+- Date checked: 2026-08-21
+
+## 2026-08-21 - Manastur, Edgar Quinet - 35-36 m2 agency listings
+
+- Listing URLs:
+  - https://www.storia.ro/ro/oferta/apartament-2-camere-de-vanzare-in-manastur-cluj-napoca-IDI3XJ
+  - https://www.storia.ro/ro/oferta/apartament-2-camere-zona-edgar-quinet-excelent-pentru-investitie-IDHQek
+- Asking price: 89,000-110,000 EUR
+- Estimated rent: 390-410 EUR/month
+- Estimated yield: ~4.2%-5.2% on estimated total acquisition cost at asking
+- Rejection reason: parter/demisol legal or physical risk, agency listings, and same weak Edgar Quinet rent ceiling already seen in the directly negotiated OLX listing.
+- Date checked: 2026-08-21
+
+## 2026-08-21 - Intre Lacuri new-build project - 44.6 m2
+
+- Listing URL: https://www.storia.ro/ro/oferta/ansamblu-rezidential-cu-1-2-3-camere-intre-lacuri-IDBf7k
+- Asking price: 120,420 EUR, before parking/extra terms
+- Estimated rent: 550-600 EUR/month
+- Estimated yield: ~4.9%-5.3% on estimated total cost before parking
+- Rejection reason: new-build agency/developer project, likely extra parking/fit-out costs, total investment too high for target yield despite strong location.
+- Date checked: 2026-08-21

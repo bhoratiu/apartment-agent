@@ -1,6 +1,6 @@
 # Latest Apartment Investment Report
 
-Updated: 2026-08-21 15:55 EEST
+Updated: 2026-08-21 16:37 EEST
 
 ## Best Current Opportunity
 
@@ -18,21 +18,26 @@ The best current opportunity remains **Manastur, Str. Bucegi 8**, but only if th
 
 ## New Actions This Run
 
-- Edgar Quinet 20 was closed politely. We told the seller that at 100,000 EUR it does not work investment-wise and that no viewing is needed. No further action unless seller later returns materially lower.
-- Edgar Quinet 20 seller later acknowledged the close-out with: "Multumesc de interes. O zi frumoasa." No response recommended.
-- A new non-binding offer was sent for Iris/Terapia 40 m2: 82,000 EUR against an asking price of ~102,500 EUR.
-- Current OLX rental comps show non-prime / edge Cluj 2-room rents around 450 EUR/month, including a Vivo-edge 50 m2 comp at 450 EUR/month and Big Manastur 60 m2 at 450 EUR/month. No current Iris/Terapia keyword rental comp was visible.
+- Continued broad scan beyond the prior newest slice, including cheap-first results and Storia/OLX cross-listed inventory under 125,000 EUR.
+- Sent one new OLX non-binding offer: Dambul Rotund 37 m2, asking 92,000 EUR, our offer 78,000 EUR.
+- Verified several Storia agency listings individually and rejected weak economics/risk profiles: Someseni advertised as Marasti, small Gheorgheni/Hermes micro-units, Manastur/Edgar Quinet agency listings, and Intre Lacuri new-build project.
 
 ## Active Backup Opportunity
 
 **Iris, Zona Terapia / Elite Residence, 40 m2** is active only because a very low price could barely approach the target. Asking price is ~102,500 EUR, our offer is 82,000 EUR, realistic rent is 405-420 EUR/month, estimated total investment at offer is ~91,000-92,000 EUR, and gross yield at offer is ~5.3%-5.5%. Estimated mortgage at 82,000 EUR is ~396 EUR/month, leaving only ~9-24 EUR/month before tax/vacancy/repairs. No new seller reply was visible as of 2026-08-21 15:55 EEST.
+
+**Dambul Rotund, 37 m2** is active because the listing is owner-direct, urgent, and could reach ~5.6%-5.9% gross yield if bought around our 78,000 EUR anchor. Asking is 92,000 EUR, realistic rent is 390-410 EUR/month, estimated total investment at offer is ~83,000-84,000 EUR, and estimated mortgage is ~377 EUR/month. Main issue: listing says 92,000 EUR is cash-only and credit purchase would be higher.
+
+**Zorilor / Hasdeu demisol, 43 m2** may have the best rent-demand profile of the newly scanned listings, with 95,000 EUR ask and estimated 480-520 EUR/month rent, but it is a Storia agency listing and demisol. No seller message was sent.
 
 ## Main Risks
 
 - Bucegi: no seller acceptance yet, etaj 4, no balcony, older building before 1977, renovation risk, thin cash flow.
 - Iris/Terapia: weaker rental demand than preferred areas, parter, uncertain renovation scope, thin yield even at our low offer, and seller may not accept a ~20% discount.
 - Edgar Quinet: closed/rejected at seller's 100,000 EUR floor; no viewing needed.
+- Dambul Rotund: weaker rent demand, cash/credit pricing risk, and seller may reject the required discount.
+- Zorilor/Hasdeu: demisol risk and agency channel; yield depends heavily on actually achieving student rent despite demisol.
 
 ## Recommendation
 
-**NEEDS_DECISION:** No action recommended on Edgar Quinet's acknowledgement. Continue waiting for Bucegi 8 and Iris/Terapia seller responses. A new READY instruction is needed before continuing the broader fresh-listing scan.
+**DONE / WAIT:** Continue waiting for Bucegi 8, Iris/Terapia, and Dambul Rotund seller responses. Best newly scanned lead is Zorilor/Hasdeu only if the user accepts demisol/agency risk; no viewing should be arranged without approval.
