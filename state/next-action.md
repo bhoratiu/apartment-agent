@@ -1,6 +1,6 @@
 # Next Action
 
-STATUS: READY
+STATUS: IN_PROGRESS
 
 ## Objective
 Continue the broad search for additional high-quality 2-room apartment investment candidates in Cluj-Napoca and open new non-binding negotiations only where the investment economics can plausibly meet the target.
@@ -46,3 +46,6 @@ ChatGPT orchestrator following explicit user approval
 
 ## Generated At
 2026-08-21T16:27:00+03:00
+
+## Started At
+2026-08-21 16:30 EEST
