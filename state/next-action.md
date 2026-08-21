@@ -1,6 +1,6 @@
 # Next Action
 
-STATUS: IN_PROGRESS
+STATUS: DONE
 
 ## Objective
 Continue the broad search for additional high-quality 2-room apartment investment candidates in Cluj-Napoca and open new non-binding negotiations only where the investment economics can plausibly meet the target.
@@ -49,3 +49,13 @@ ChatGPT orchestrator following explicit user approval
 
 ## Started At
 2026-08-21 16:30 EEST
+
+## Finished At
+2026-08-21 16:37 EEST
+
+## Result
+- Continued broad search beyond the previous newest-result slice, including under-125k newest, cheap-first, owner/private keyword variations, and neighborhood-relevant Storia/OLX cross-listed results.
+- Verified individual pages for Zorilor/Hasdeu 43 m2, Someseni advertised as Marasti 72 m2, Gheorgheni micro-units, Manastur/Edgar Quinet agency listings, Intre Lacuri new-build project, Colinei/Vivo demisol, and Dambul Rotund OLX private listing.
+- Sent one new OLX non-binding offer to Alex for Dambul Rotund 37 m2: 78,000 EUR against the seller's 92,000 EUR stated price.
+- No seller accepted, countered, asked for final offer, or proposed a financially attractive viewing during this run.
+- No viewing was arranged.

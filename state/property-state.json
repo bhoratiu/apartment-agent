@@ -1,34 +1,34 @@
 {
-  "status": "NEEDS_DECISION",
+  "status": "DONE",
   "listing": {
-    "url": "https://www.olx.ro/d/oferta/vand-apartament-38-mp-IDkOENc.html",
-    "title": "VAND apartament 38 mp",
-    "location": "Manastur, Str. Edgar Quinet 20, Cluj-Napoca",
-    "asking_price_eur": 101700,
-    "area_m2": 38,
-    "price_per_m2": 2676,
+    "url": "https://www.olx.ro/d/oferta/urgent-apartament-de-2-camere-37-2mp-zona-dambul-rotund-IDkOvsa.html",
+    "title": "Urgent!! Apartament de 2 camere, 37,2mp, zona dambul rotund",
+    "location": "Dambul Rotund, Cluj-Napoca",
+    "asking_price_eur": 92000,
+    "area_m2": 37,
+    "price_per_m2": 2486,
     "rooms": 2,
-    "floor": "Parter",
-    "year": "Dupa 2000",
+    "floor": "3/6",
+    "year": "Dupa 2000 / CF 2023 per description",
     "owner_or_agency": "Persoana fizica"
   },
   "investment": {
-    "estimated_monthly_rent_eur": 405,
-    "estimated_gross_yield_percent": 4.56,
-    "estimated_renovation_eur": 4500,
-    "estimated_total_cost_eur": 106500
+    "estimated_monthly_rent_eur": 400,
+    "estimated_gross_yield_percent": 5.75,
+    "estimated_renovation_eur": 2500,
+    "estimated_total_cost_eur": 83500
   },
   "negotiation": {
-    "initial_asking_price_eur": 101700,
-    "current_asking_price_eur": 101700,
-    "our_last_offer_eur": 82000,
-    "seller_last_counter_eur": 100000,
-    "number_of_rounds": 3
+    "initial_asking_price_eur": 92000,
+    "current_asking_price_eur": 92000,
+    "our_last_offer_eur": 78000,
+    "seller_last_counter_eur": null,
+    "number_of_rounds": 1
   },
   "seller": {
-    "name": "gutalbertioan2015",
+    "name": "Alex",
     "contact_method": "OLX chat"
   },
-  "last_action": "Checked active OLX buyer chats before scanning new listings. Edgar Quinet seller acknowledged the close-out at 15:38. Bucegi and Iris/Terapia had no new visible replies. No messages were sent.",
-  "last_updated": "2026-08-21 15:55 EEST"
+  "last_action": "Continued broad scan under 125k, verified new OLX/Storia candidates, rejected weak economics, and sent a 78,000 EUR non-binding offer for Dambul Rotund 37 m2. No viewing arranged.",
+  "last_updated": "2026-08-21 16:37 EEST"
 }

@@ -146,3 +146,14 @@ Offer sent for Iris, zona Terapia / in spate la Elite Residence, 40 m2, asking p
 
 **Context:**
 Seller gutalbertioan2015 acknowledged the polite close-out for Manastur, Str. Edgar Quinet 20. No reply was sent and no viewing was arranged.
+
+## 2026-08-21 16:37
+
+**Direction:** Us -> Seller
+
+**Message:**
+
+> Bună ziua. Mă uit strict investițional, iar pentru Dâmbul Rotund și chiria realistă, la 92.000 EUR nu îmi iese calculul după taxe și costuri. Dacă doriți o discuție rapidă, pot lua în calcul 78.000 EUR, cu verificarea actelor și fără condiții complicate. Este un nivel discutabil pentru dvs.?
+
+**Context:**
+Offer sent for Dambul Rotund, 37 m2, asking price 92,000 EUR stated in description. Seller is Alex, persoana fizica.
