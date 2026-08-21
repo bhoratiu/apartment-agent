@@ -1,10 +1,10 @@
 # Latest Apartment Investment Report
 
-Updated: 2026-08-21 16:55 EEST
+Updated: 2026-08-21 17:39 EEST
 
 ## Best Current Opportunity
 
-The best current opportunity remains **Manastur, Str. Bucegi 8**, but only if the seller accepts or counters very close to our 80,000 EUR offer. No new seller reply was visible in OLX buyer chat as of 2026-08-21 15:55 EEST.
+The best current opportunity remains **Manastur, Str. Bucegi 8**, but only if the seller accepts or counters very close to our 80,000 EUR offer. No new seller reply was visible in OLX buyer chat list as of 2026-08-21 17:35 EEST.
 
 - Listing: https://www.olx.ro/d/oferta/apartament-2-camere-cluj-napoca-manastur-str-bucegi-8-IDkRnzv.html
 - Original asking price: 105,000 EUR
@@ -44,9 +44,17 @@ This is a material rejection/new-price response. No reply was sent.
 - Expected monthly cash flow before tax/vacancy/repairs: roughly -54 to -24 EUR/month at 420-450 EUR rent
 - Recommendation: reject / walk away unless Alex later returns near the low-80k range and confirms credit/cash terms are workable.
 
+## Current Run
+
+- Checked OLX buyer chat list: Bucegi 8 and Iris/Terapia still showed our outgoing messages, with no new seller reply visible as of 17:35 EEST.
+- Alex / Dambul Rotund showed the user-sent 17:22 polite close-out; no further action needed.
+- Searched fresh OLX 2-room sale results under 125,000 EUR and neighborhood slices.
+- Verified one new purchase candidate: Manastur, zona Parking Primaverii nr. 20, 52 m2 usable plus 4.52 m2 balcony, 122,000 EUR, firma listing. Rejected for poor economics: ~500 EUR/month rent on ~128,500 EUR all-in cost gives ~4.7% gross yield.
+- Browser connection timed out while continuing additional focused searches, preventing safe completion of the full broader scan in this run.
+
 ## Active Backup Opportunity
 
-**Iris, Zona Terapia / Elite Residence, 40 m2** is active only because a very low price could barely approach the target. Asking price is ~102,500 EUR, our offer is 82,000 EUR, realistic rent is 405-420 EUR/month, estimated total investment at offer is ~91,000-92,000 EUR, and gross yield at offer is ~5.3%-5.5%. Estimated mortgage at 82,000 EUR is ~396 EUR/month, leaving only ~9-24 EUR/month before tax/vacancy/repairs. No new seller reply was visible as of 2026-08-21 15:55 EEST.
+**Iris, Zona Terapia / Elite Residence, 40 m2** is active only because a very low price could barely approach the target. Asking price is ~102,500 EUR, our offer is 82,000 EUR, realistic rent is 405-420 EUR/month, estimated total investment at offer is ~91,000-92,000 EUR, and gross yield at offer is ~5.3%-5.5%. Estimated mortgage at 82,000 EUR is ~396 EUR/month, leaving only ~9-24 EUR/month before tax/vacancy/repairs. No new seller reply was visible as of 2026-08-21 17:35 EEST.
 
 **Zorilor / Hasdeu demisol, 43 m2** may have the best rent-demand profile of the newly scanned listings, with 95,000 EUR ask and estimated 480-520 EUR/month rent, but it is a Storia agency listing and demisol. No seller message was sent.
 
@@ -60,4 +68,4 @@ This is a material rejection/new-price response. No reply was sent.
 
 ## Recommendation
 
-**NEEDS_DECISION / RECOMMEND REJECT DÂMBUL ROTUND:** Alex's reply materially changed the negotiation and should be reviewed, but the investment recommendation is to walk away. Continue waiting for Bucegi 8 and Iris/Terapia responses. Best uncontacted lead remains Zorilor/Hasdeu only if the user accepts demisol/agency risk; no viewing should be arranged without approval.
+**BLOCKED / PARTIAL SEARCH COMPLETE:** Continue waiting for Bucegi 8 and Iris/Terapia responses. Dambul Rotund is closed/rejected. Best uncontacted lead remains Zorilor/Hasdeu only if the user accepts demisol/agency risk; no viewing should be arranged without approval. Retry broader OLX search after browser connection stabilizes.

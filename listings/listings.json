@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21 16:55 EEST",
+  "last_updated": "2026-08-21 17:39 EEST",
   "listings": [
     {
       "id": "IDkipiM",
@@ -66,6 +66,28 @@
       "estimated_total_cost_at_offer_eur": 93000,
       "estimated_gross_yield_at_offer_percent": 5.48,
       "notes": "Listing page verified active on 2026-08-21 15:15 EEST. No new seller reply visible as of 2026-08-21 15:55 EEST. Only worth pursuing near 80k because renovation is needed and there is no balcony."
+    },
+    {
+      "id": "IDkJH6E",
+      "url": "https://www.olx.ro/d/oferta/apartament-2-camere-decomandate-IDkJH6E.html",
+      "title": "Apartament 2 camere decomandate",
+      "neighborhood": "Manastur, zona Parking Primaverii nr. 20",
+      "asking_price_eur": 122000,
+      "area_m2": 52,
+      "price_per_m2_eur": 2346,
+      "rooms": 2,
+      "floor": "4",
+      "year": null,
+      "seller": "Liliana",
+      "owner_or_agency": "Firma",
+      "verified_active_date": "2026-08-21",
+      "status": "REJECTED_POOR_ECONOMICS",
+      "our_last_offer_eur": null,
+      "seller_last_counter_eur": null,
+      "estimated_monthly_rent_eur": 500,
+      "estimated_total_cost_at_asking_eur": 128500,
+      "estimated_gross_yield_at_asking_percent": 4.67,
+      "notes": "Verified active on OLX at 2026-08-21 17:37 EEST. Listing shows 641,019.94 lei (~122k EUR), negotiable, firma, 52 m2 usable plus 4.52 m2 balcony, decomandat, etaj 4, Manastur near Parking Primaverii 20, insulated block, clear legal situation per description. Rejected because even a strong Manastur rent around 500 EUR/month gives only ~4.7% gross yield at asking and would require an implausible discount for target yield."
     },
     {
       "id": "IDkEIU6",

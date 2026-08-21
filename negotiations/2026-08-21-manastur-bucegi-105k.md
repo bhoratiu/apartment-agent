@@ -21,6 +21,7 @@
 - 2026-08-21 15:15 EEST: no seller reply visible in OLX buyer chat.
 - 2026-08-21 15:27 EEST: no seller reply visible in OLX buyer chat.
 - 2026-08-21 15:55 EEST: no seller reply visible in OLX buyer chat.
+- 2026-08-21 17:35 EEST: no new seller reply visible in OLX buyer chat list; the preview still showed our 13:44 outgoing message.
 
 ## Investment Notes
 

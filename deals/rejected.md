@@ -123,3 +123,12 @@ For every rejection record:
 - Rejection reason: seller rejected the 78,000 EUR investment anchor, stated a higher current price basis, and mocked the low-80k range. Even accepting the seller's 450 EUR/month past-rent claim, the implied price is below the 5.5% target and likely produces negative or near-zero cash flow with mortgage before tax/vacancy/repairs.
 - Exact seller reply: "Nu / Prețul respectiv era strict în perioada în care a fost blocat ancpi / Acum e 2650€ PER mp / Dacă găsiți vreodată la 80.000, trimiteți-mi și mie ca il să cumpăr instant. / Apartamentul a fost închiriat cu 450€ timp de 2 ani"
 - Date checked: 2026-08-21
+
+## 2026-08-21 - Manastur, zona Parking Primaverii nr. 20 - 52 m2 - agency/firma listing too expensive
+
+- Listing URL: https://www.olx.ro/d/oferta/apartament-2-camere-decomandate-IDkJH6E.html
+- Asking price: 122,000 EUR, displayed as 641,019.94 lei on OLX
+- Estimated rent: ~500 EUR/month
+- Estimated yield: ~4.7% on estimated total acquisition cost of ~128,500 EUR at asking
+- Rejection reason: firma listing, floor 4, and asking price is too high for Manastur rental income. Even with a good 500 EUR/month rent assumption, the all-in yield is far below 5.5%; reaching target would require an implausibly large discount for a clean, marketable listing.
+- Date checked: 2026-08-21
