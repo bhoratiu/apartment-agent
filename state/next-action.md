@@ -1,6 +1,6 @@
 # Next Action
 
-STATUS: READY
+STATUS: IN_PROGRESS
 
 ## Objective
 Immediately capture and report the two new OLX seller replies to ChatGPT/user before doing any further search or due diligence.
@@ -34,3 +34,6 @@ ChatGPT orchestrator following user's explicit request to surface two new OLX re
 
 ## Generated At
 2026-08-21T20:15:00+03:00
+
+## Started At
+2026-08-21 20:18 EEST
