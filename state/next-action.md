@@ -1,34 +1,31 @@
 # Next Action
 
-STATUS: BLOCKED
+STATUS: READY
 
 ## Objective
-Use the now logged-in Storia browser session to perform remote due diligence on the best Storia leads, while continuing to monitor active OLX negotiations and search for new investment candidates.
+Deepen remote due diligence on the two best active Storia leads using public information only, without submitting forms that require the user's personal contact details.
 
 ## Instructions
-- Pull the repository and read `AGENTS.md`, `SEARCH_CRITERIA.md`, `reports/latest.md`, `deals/active.md`, `deals/rejected.md`, `state/property-state.json`, `state/conversation-log.md`, and relevant negotiation files before acting.
-- The user has confirmed that Storia is now logged in in the Codex browser. You may use the logged-in Storia session for seller/agency messaging and listing follow-up, subject to the same safety and non-binding rules used for OLX.
-- Prioritize **Centru / Gruia-Horea near Facultatea de Litere, 41 m2, 95,000 EUR**. Contact the agency on Storia for remote due diligence only; do not make an offer yet and do not request or arrange a viewing.
-- Ask concise factual questions covering: exact floor; exact CF/legal designation; whether all 41 m2 are usable area; why the layout has two bathrooms and whether a floor plan is available; agency commission; current condition and any renovation needed; whether it has been rented before and at what rent; exact courtyard parking rights; whether a tenant is currently in place; and whether there are any legal/cadastral modifications not reflected in CF.
-- Also contact the **Zorilor / Hasdeu demisol 43 m2, 95,000 EUR** agency on Storia for remote due diligence only. Ask: exact CF/legal designation; how much of the apartment is below grade; window sizes/orientation and natural light; any humidity/mold or water-infiltration history; building waterproofing/drainage and condition; heating/utilities; agency commission; whether it has been rented before and at what rent; and whether any renovation or legal/cadastral issue exists.
-- Use a neutral, professional tone. Do not imply the asking price is wrong, do not lecture about yield, and do not reveal the user's maximum budget.
-- Do not make any offer to Horea or Hasdeu until the answers are recorded and the investment economics are recalculated.
-- Check OLX for new replies on Bucegi 8 and Iris/Terapia. Do not send follow-ups if there are no replies.
-- Keep Alex / Dambul Rotund closed. Do not message him again unless he later returns with materially new information or a materially lower price.
-- Continue searching for new, active, individually verified 2-room apartments in Cluj-Napoca, especially owner-direct, newly posted, or price-reduced listings in strong rental-demand areas.
-- Update `listings/listings.json`, `deals/active.md`, `deals/rejected.md`, `deals/negotiated.md`, relevant `negotiations/` files, `reports/latest.md`, and `/state` as required by `AGENTS.md`.
+- Pull the repository and read `AGENTS.md`, `SEARCH_CRITERIA.md`, `reports/latest.md`, `deals/active.md`, `deals/negotiated.md`, `deals/rejected.md`, `state/property-state.json`, `state/conversation-log.md`, and any relevant negotiation files before acting.
+- Prioritize **Centru / Gruia-Horea near Facultatea de Litere, 41 m2, 95,000 EUR** first and **Zorilor / Hasdeu demisol, 43 m2, 95,000 EUR** second.
+- Do not submit the Storia contact forms while they require `Nume` or `Numar de telefon`; do not invent, infer, expose, or reuse personal contact details.
+- Use public, non-authenticated or already-accessible information to reduce the main unknowns before any seller contact: search for duplicate/cross-posted listings, the agency's own public listing pages, cached/current listing details, building/address clues, floor information, CF/legal wording if publicly stated, floor plans/photos, parking rights wording, renovation condition, and any commission information.
+- For Horea, specifically try to resolve: exact floor, why the layout shows two bathrooms, whether all 41 m2 are usable area, any floor-plan/legal clues, courtyard parking rights, and realistic current rent using nearby comparable rentals.
+- For Hasdeu, specifically try to resolve: how much is below grade, window/light situation, humidity/water-risk clues, building condition, any public legal/CF wording, and realistic current rent using nearby comparable rentals.
+- Recalculate estimated all-in cost, gross yield, mortgage payment, cash flow, and downside risks for both leads using any newly verified facts. Clearly distinguish verified facts from assumptions.
+- Check OLX read-only for new replies on Bucegi 8 and Iris/Terapia. Do not send follow-ups if there are no replies. If a seller accepts, counters, asks for a better/final offer, or proposes a viewing, stop and set `STATUS: NEEDS_DECISION` with the exact message preserved.
+- Keep Alex / Dambul Rotund closed and do not message him again unless he sends materially new information or a materially lower price.
+- Update `listings/listings.json`, `deals/active.md`, `deals/rejected.md`, relevant `negotiations/` files, `reports/latest.md`, and `/state` only with verified or clearly labeled inferred information.
 
 ## Stop Conditions
 Set `STATUS: NEEDS_DECISION` if:
-- the Horea or Hasdeu agency provides information that materially changes expected yield, legal/building risk, renovation cost, or tenantability;
-- a seller accepts or counters at a price that could plausibly meet the investment target;
-- a seller asks for a final/better offer;
-- a seller proposes a viewing for a financially attractive candidate;
-- a candidate looks good enough that an in-person viewing should be considered.
+- a new seller reply requires a user decision;
+- public due diligence materially changes the expected yield, legal/building risk, renovation cost, or tenantability of Horea or Hasdeu;
+- either lead becomes strong enough that an in-person viewing should be considered.
 
-Set `STATUS: DONE` if due-diligence messages are sent, no material seller replies arrive during the run, and the remaining task is simply to wait/search.
+Set `STATUS: DONE` if the public due diligence is completed and no seller reply needs action.
 
-Set `STATUS: BLOCKED` if browser, login, repository, or listing-state issues prevent safe execution.
+Set `STATUS: BLOCKED` only if repository/browser access prevents safe research; a Storia form requiring personal contact details alone is not a blocker for this public-research objective.
 
 ## Safety Limits
 - Do not send money.
@@ -37,18 +34,10 @@ Set `STATUS: BLOCKED` if browser, login, repository, or listing-state issues pre
 - Do not make a binding purchase commitment.
 - Do not reveal the user's maximum budget.
 - Do not arrange an in-person viewing without explicit user approval.
+- Do not submit or disclose the user's name, phone number, email address, or other personal contact details through seller/agency forms without explicit approval.
 
 ## Generated By
-ChatGPT orchestrator after user confirmed Storia login
+ChatGPT orchestrator
 
 ## Generated At
-2026-08-21T18:09:00+03:00
-
-## Started At
-2026-08-21 18:13 EEST
-
-## Result
-Blocked on 2026-08-21 18:17 EEST. The Horea Storia contact form was opened and the authorized remote due-diligence message was entered, but Storia refused submission until required `Nume` and `Numar de telefon` fields were completed. These are personal/sensitive contact details and were not provided or invented. No Storia agency message was sent. OLX inbox was checked read-only: `NECITITE` showed `Esti la zi`, and Bucegi/Iris still showed our outgoing offers as the latest visible messages.
-
-## Next Recommendation
-Ask user whether they approve sharing a name and phone number through Storia contact forms, or provide a non-sensitive contact method to use. If approved, rerun the Horea and Hasdeu remote due-diligence messages exactly as authorized; otherwise use non-Storia channels only.
+2026-08-21T20:00:00+03:00
