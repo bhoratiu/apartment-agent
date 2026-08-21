@@ -102,3 +102,14 @@ Biro Raluca countered at 123,000 EUR for the Marasti, Str. Rasaritului listing.
 
 **Context:**
 Lucian rejected the 86,000 EUR offer for the Gheorgheni / Hermes, Str. Busteni listing.
+
+## 2026-08-21 14:50
+
+**Direction:** Seller -> Us
+
+**Message:**
+
+> Buna ziua. Interesanta analiza . Și eu cred la fel ,orice analiză faci in Cluj prețul cerut e mai mare decât chiria generată. Toate actele sunt la zi,fara ipoteca,fara vicii. Se vinde doar la 100.000 de euro, am primit 95k apoi 96k cash ,de la alta persoana și nu l am dat. Strada și cartierul este in dezvoltare, este atribuit contractul de lărgire al drumului pt Edgar Quinet +piste de bicicleta pt finalul acestui an. Poate fi o oportunitate sau nu. Haideți să l vedeți dar nu pt mai puțin de 100k.
+
+**Context:**
+Seller gutalbertioan2015 replied for Manastur, Str. Edgar Quinet 20, stated a 100,000 EUR floor, and proposed viewing. No reply was sent.

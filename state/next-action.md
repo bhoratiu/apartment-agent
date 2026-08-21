@@ -1,24 +1,18 @@
 # Next Action
 
-STATUS: IN_PROGRESS
+STATUS: NEEDS_DECISION
 
 ## Objective
 Check for new seller replies on the two currently active Manastur negotiations and synchronize any material changes.
 
-## Instructions
-- Check the OLX conversations for Manastur, Str. Bucegi 8 and Manastur, Str. Edgar Quinet 20.
-- Do not raise the current offers unless a seller has replied with a concrete counter.
-- If there is no new seller reply, record that the check completed and do not send a new message.
-- If a seller replies, preserve the exact message in the corresponding negotiation file and recalculate the investment economics using total all-in cost.
-- Update `reports/latest.md` and the relevant files under `deals/` and `state/`.
+## Result
+- Manastur, Str. Bucegi 8: listing page verified active; no new seller reply visible as of 2026-08-21 15:15 EEST.
+- Manastur, Str. Edgar Quinet 20: listing page verified active; seller replied at 14:50 with a 100,000 EUR floor and proposed viewing.
+- No OLX message was sent.
+- No viewing was arranged.
 
-## Stop Conditions
-Set `STATUS: NEEDS_DECISION` if:
-- a seller accepts or counters;
-- a seller asks for a final offer;
-- a seller proposes a viewing;
-- new information materially changes expected yield or risk;
-- the requested browser action cannot be completed safely.
+## Decision Needed
+Recommendation is to reject Edgar Quinet at 100,000 EUR because estimated gross yield is only ~4.5%-4.6% on all-in cost. Continue waiting for Bucegi 8.
 
 ## Safety Limits
 - Do not send money.
@@ -36,3 +30,6 @@ User rerun request
 
 ## Started At
 2026-08-21 15:12 EEST
+
+## Finished At
+2026-08-21 15:15 EEST

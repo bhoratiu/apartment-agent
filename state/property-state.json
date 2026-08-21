@@ -1,34 +1,34 @@
 {
-  "status": "BLOCKED",
+  "status": "NEEDS_DECISION",
   "listing": {
-    "url": "https://www.olx.ro/d/oferta/apartament-2-camere-cluj-napoca-manastur-str-bucegi-8-IDkRnzv.html",
-    "title": "Apartament 2 camere - Cluj-Napoca, Manastur, Str. Bucegi 8",
-    "location": "Manastur, Str. Bucegi 8, Cluj-Napoca",
-    "asking_price_eur": 105000,
-    "area_m2": 40,
-    "price_per_m2": 2625,
+    "url": "https://www.olx.ro/d/oferta/vand-apartament-38-mp-IDkOENc.html",
+    "title": "VAND apartament 38 mp",
+    "location": "Manastur, Str. Edgar Quinet 20, Cluj-Napoca",
+    "asking_price_eur": 101700,
+    "area_m2": 38,
+    "price_per_m2": 2676,
     "rooms": 2,
-    "floor": "4",
-    "year": "inainte de 1977",
+    "floor": "Parter",
+    "year": "Dupa 2000",
     "owner_or_agency": "Persoana fizica"
   },
   "investment": {
-    "estimated_monthly_rent_eur": 425,
-    "estimated_gross_yield_percent": 5.48,
-    "estimated_renovation_eur": 10000,
-    "estimated_total_cost_eur": 93000
+    "estimated_monthly_rent_eur": 405,
+    "estimated_gross_yield_percent": 4.56,
+    "estimated_renovation_eur": 4500,
+    "estimated_total_cost_eur": 106500
   },
   "negotiation": {
-    "initial_asking_price_eur": 105000,
-    "current_asking_price_eur": 105000,
-    "our_last_offer_eur": 80000,
-    "seller_last_counter_eur": null,
-    "number_of_rounds": 1
+    "initial_asking_price_eur": 101700,
+    "current_asking_price_eur": 101700,
+    "our_last_offer_eur": 82000,
+    "seller_last_counter_eur": 100000,
+    "number_of_rounds": 2
   },
   "seller": {
-    "name": "Augustin",
+    "name": "gutalbertioan2015",
     "contact_method": "OLX chat"
   },
-  "last_action": "Attempted to check OLX buyer chats for the two active Manastur negotiations, but in-app browser control timed out repeatedly. No seller-facing OLX action was performed.",
-  "last_updated": "2026-08-21 15:08 EEST"
+  "last_action": "Checked active Manastur OLX conversations and verified both listing pages are active. Edgar Quinet seller replied with 100,000 EUR floor and proposed viewing; no message was sent.",
+  "last_updated": "2026-08-21 15:15 EEST"
 }
