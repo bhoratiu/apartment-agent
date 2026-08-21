@@ -1,6 +1,6 @@
 # Next Action
 
-STATUS: READY
+STATUS: IN_PROGRESS
 
 ## Objective
 Check for new seller replies on the two currently active Manastur negotiations and synchronize any material changes.
@@ -33,3 +33,6 @@ ChatGPT orchestrator
 
 ## Generated At
 2026-08-21T14:56:00+03:00
+
+## Started At
+2026-08-21 15:03 EEST
