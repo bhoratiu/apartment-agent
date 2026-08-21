@@ -1,71 +1,46 @@
 # Latest Apartment Investment Report
 
-Updated: 2026-08-21 17:39 EEST
+Updated: 2026-08-21 18:03 EEST
 
 ## Best Current Opportunity
 
-The best current opportunity remains **Manastur, Str. Bucegi 8**, but only if the seller accepts or counters very close to our 80,000 EUR offer. No new seller reply was visible in OLX buyer chat list as of 2026-08-21 17:35 EEST.
+The best newly verified opportunity is **Centru / Gruia-Horea, near Facultatea de Litere, 41 m2**, listed by Comitat Imobiliare at **95,000 EUR**.
 
-- Listing: https://www.olx.ro/d/oferta/apartament-2-camere-cluj-napoca-manastur-str-bucegi-8-IDkRnzv.html
-- Original asking price: 105,000 EUR
-- Current negotiated price: none accepted; our outstanding offer is 80,000 EUR
-- Size / neighborhood: 40 m2, Manastur, Str. Bucegi 8
-- Estimated realistic rent: 420-430 EUR/month
-- Estimated total investment at 80,000 EUR offer: ~92,000-94,000 EUR including acquisition costs and renovation/furnishing allowance
-- Gross yield at 80,000 EUR offer: ~5.4%-5.6%
-- Estimated mortgage: ~387 EUR/month, assuming 75% LTV, 25 years, ~6% annual interest
-- Expected monthly cash flow before tax/vacancy/repairs: ~33-43 EUR/month
+- Listing: https://www.storia.ro/ro/oferta/apartament-2-camere-41-mp-zona-strzii-horea-IDCgs4
+- Original asking price: 95,000 EUR
+- Current negotiated price: none
+- Size / neighborhood: 41 m2, Centru / Gruia-Horea, near Facultatea de Litere
+- Estimated realistic rent: 500-550 EUR/month
+- Estimated total investment at asking: ~103,000 EUR including acquisition costs, agency assumption, and small refresh allowance
+- Gross yield at asking: ~5.8%-6.4%
+- Estimated mortgage: ~459 EUR/month, assuming 75% LTV, 25 years, ~6% annual interest
+- Expected monthly cash flow before tax/vacancy/repairs: ~41-91 EUR/month
+- Main risks: agency listing, floor not specified, unusual layout with two bathrooms, exact legal/floorplan status unknown, rent comp needs direct validation
+- Recommendation: NEEDS_DECISION. Remotely ask agency for floor, CF/legal designation, floorplan/releveu, agency commission, parking status, and rent history/comps before any viewing request.
 
-## Alex / Dambul Rotund Response
+## Other Active Leads
 
-Alex replied at 16:39 EEST for Dambul Rotund. Exact seller message:
+**Zorilor / Hasdeu demisol, 43 m2** remains attractive on location and rent demand but risky because it is demisol and agency-channel. Asking is 95,000 EUR, realistic rent estimate remains 480-520 EUR/month, total cost ~101,000 EUR, gross yield ~5.7%-6.2%. Re-verified page shows gas central heating, bathroom window, ready to use, equipped/partly furnished, and immediate availability. OLX exact Hasdeu rental search returned zero results and Zorilor rental page errored, so rent comps still need better validation.
 
-> Nu
->
-> Prețul respectiv era strict în perioada în care a fost blocat ancpi
->
-> Acum e 2650€ PER mp
->
-> Dacă găsiți vreodată la 80.000, trimiteți-mi și mie ca il să cumpăr instant.
->
-> Apartamentul a fost închiriat cu 450€ timp de 2 ani
+**Buna Ziua demisol inalt, 44 m2** is a borderline backup. Asking is 97,000 EUR, parking included, newer low-rise building, gas central heating, ready to use. Estimated rent 460-500 EUR/month, total cost ~104,000 EUR, gross yield ~5.3%-5.8%. Main risk is demisol/high-basement light and humidity plus agency commission.
 
-This is a material rejection/new-price response. No reply was sent.
+**Iris / Terapia, 40 m2** is still waiting for Vlad's response. OLX search now displayed 97,000 EUR and the page displayed 509,601.22 lei, lower than the earlier ~102,500 EUR estimate. Our 82,000 EUR offer remains outstanding. At asking it still yields only ~4.7% on all-in cost, so do not follow up unless the seller replies.
 
-- Listing: https://www.olx.ro/d/oferta/urgent-apartament-de-2-camere-37-2mp-zona-dambul-rotund-IDkOvsa.html
-- Original asking price: 92,000 EUR stated in description
-- Current negotiated price: none; our 78,000 EUR offer was rejected
-- Seller stated price: 2,650 EUR/m2, implying ~98,050 EUR for 37 m2 or ~98,580 EUR for 37.2 m2
-- Size / neighborhood: 37-37.2 m2, Dambul Rotund
-- Revised realistic rent estimate: 420-450 EUR/month, with 450 EUR/month based only on seller-reported prior rent
-- Estimated total investment at seller stated level: ~104,000-106,000 EUR including acquisition costs and small refresh/furnishing allowance
-- Gross yield at seller stated level: ~4.8%-5.2%
-- Estimated mortgage at ~98,000-99,000 EUR purchase: ~474-476 EUR/month, assuming 75% LTV, 25 years, ~6% annual interest
-- Expected monthly cash flow before tax/vacancy/repairs: roughly -54 to -24 EUR/month at 420-450 EUR rent
-- Recommendation: reject / walk away unless Alex later returns near the low-80k range and confirms credit/cash terms are workable.
+**Manastur, Str. Bucegi 8, 40 m2** remains active only if the seller accepts or counters very close to the 80,000 EUR offer. No new seller reply was visible in OLX chat as of 17:59 EEST.
 
-## Current Run
+## New Rejects This Run
 
-- Checked OLX buyer chat list: Bucegi 8 and Iris/Terapia still showed our outgoing messages, with no new seller reply visible as of 17:35 EEST.
-- Alex / Dambul Rotund showed the user-sent 17:22 polite close-out; no further action needed.
-- Searched fresh OLX 2-room sale results under 125,000 EUR and neighborhood slices.
-- Verified one new purchase candidate: Manastur, zona Parking Primaverii nr. 20, 52 m2 usable plus 4.52 m2 balcony, 122,000 EUR, firma listing. Rejected for poor economics: ~500 EUR/month rent on ~128,500 EUR all-in cost gives ~4.7% gross yield.
-- Browser connection timed out while continuing additional focused searches, preventing safe completion of the full broader scan in this run.
+- Mircea Zaciu, 47 m2 OLX private listing at 110,000 EUR: rejected because CF destination is explicitly `pod`, no domicile/ID can be made there, creating major mortgage/legal/exit risk.
+- Floresti / Parcul Poligon 61 m2 at 117,000 EUR: rejected because Storia header suggested Intre Lacuri but description says Floresti; weak actual location and yield.
+- Terra Gardens Oasului 48.32 m2 at 89,392 EUR headline: rejected because price excludes VAT, terrace, parking, fit-out, and completion is December 2026 with staged payments.
+- Manastur / Parking Primaverii 52 m2 at 122,000 EUR remains rejected for poor yield.
 
-## Active Backup Opportunity
+## Negotiations
 
-**Iris, Zona Terapia / Elite Residence, 40 m2** is active only because a very low price could barely approach the target. Asking price is ~102,500 EUR, our offer is 82,000 EUR, realistic rent is 405-420 EUR/month, estimated total investment at offer is ~91,000-92,000 EUR, and gross yield at offer is ~5.3%-5.5%. Estimated mortgage at 82,000 EUR is ~396 EUR/month, leaving only ~9-24 EUR/month before tax/vacancy/repairs. No new seller reply was visible as of 2026-08-21 17:35 EEST.
-
-**Zorilor / Hasdeu demisol, 43 m2** may have the best rent-demand profile of the newly scanned listings, with 95,000 EUR ask and estimated 480-520 EUR/month rent, but it is a Storia agency listing and demisol. No seller message was sent.
-
-## Main Risks
-
-- Bucegi: no seller acceptance yet, etaj 4, no balcony, older building before 1977, renovation risk, thin cash flow.
-- Iris/Terapia: weaker rental demand than preferred areas, parter, uncertain renovation scope, thin yield even at our low offer, and seller may not accept a ~20% discount.
-- Edgar Quinet: closed/rejected at seller's 100,000 EUR floor; no viewing needed.
-- Dambul Rotund: rejected after Alex stated 2,650 EUR/m2 and seller-reported 450 EUR/month past rent; implied yield remains below target and mortgage cash flow is likely negative before tax/vacancy/repairs.
-- Zorilor/Hasdeu: demisol risk and agency channel; yield depends heavily on actually achieving student rent despite demisol.
+- Bucegi 8: no new reply; do not follow up.
+- Iris/Terapia: no new reply; do not follow up.
+- Dambul Rotund: closed by user at 17:22; do not message Alex again unless he later returns with a materially lower price.
 
 ## Recommendation
 
-**BLOCKED / PARTIAL SEARCH COMPLETE:** Continue waiting for Bucegi 8 and Iris/Terapia responses. Dambul Rotund is closed/rejected. Best uncontacted lead remains Zorilor/Hasdeu only if the user accepts demisol/agency risk; no viewing should be arranged without approval. Retry broader OLX search after browser connection stabilizes.
+**NEEDS_DECISION:** Decide whether to pursue remote agency questions for Horea and/or Zorilor/Hasdeu. Do not arrange any viewing yet. No seller messages were sent during this run.

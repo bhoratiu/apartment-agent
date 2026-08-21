@@ -132,3 +132,30 @@ For every rejection record:
 - Estimated yield: ~4.7% on estimated total acquisition cost of ~128,500 EUR at asking
 - Rejection reason: firma listing, floor 4, and asking price is too high for Manastur rental income. Even with a good 500 EUR/month rent assumption, the all-in yield is far below 5.5%; reaching target would require an implausibly large discount for a clean, marketable listing.
 - Date checked: 2026-08-21
+
+## 2026-08-21 - Mircea Zaciu - 47 m2 mansarda/pod legal risk
+
+- Listing URL: https://www.olx.ro/d/oferta/de-vanzare-apartament-2-camere-IDkRhx9.html
+- Asking price: 110,000 EUR, displayed as 577,898.29 lei on OLX
+- Estimated rent: ~500 EUR/month, seller says it is currently rented and tenant wants to stay
+- Estimated yield: ~5.2% on estimated total cost at asking before adjusting for legal/financing risk
+- Rejection reason: listing explicitly says the space is registered in CF as `pod`, no domicile can be established, and no ID card can be made at the address. This creates major mortgage, legal, tenant, insurance, and exit risks that outweigh the investment pitch.
+- Date checked: 2026-08-21
+
+## 2026-08-21 - Floresti / Parcul Poligon - 61 m2 mislabeled location
+
+- Listing URL: https://www.storia.ro/ro/oferta/apartament-2-camere-etaj-1-la-cheie-parcul-poligon-IDH8XN
+- Asking price: 117,000 EUR
+- Estimated rent: ~450 EUR/month
+- Estimated yield: ~4.4% on estimated total cost at asking
+- Rejection reason: Storia header labels Intre Lacuri, but description says Floresti zona Parcului Poligon. Actual location appears outside target Cluj core, and rent-to-price economics are weak despite 61 m2, parking, and furnishing.
+- Date checked: 2026-08-21
+
+## 2026-08-21 - Iris / Oasului Terra Gardens - 48.32 m2 new-build headline price misleading
+
+- Listing URL: https://www.storia.ro/ro/oferta/apartament-2-camere-terasa-18-mp-comision-0-terra-gardens-oasului-IDFBMs
+- Asking price: 89,392 EUR headline, excluding VAT, terrace add-on, parking, and fit-out
+- Estimated rent: ~450 EUR/month after completion and fit-out
+- Estimated yield: ~4.6%-4.8% on realistic total cost
+- Rejection reason: headline price excludes VAT, terrace costs 3,600 EUR extra, underground parking is 10,000 EUR, delivery is semifinished, payment is staged, and completion is December 2026. All-in cost and delayed rent make it poor for current buy-to-rent yield.
+- Date checked: 2026-08-21
