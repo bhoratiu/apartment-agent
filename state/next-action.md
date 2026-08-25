@@ -1,6 +1,6 @@
 # Next Action
 
-STATUS: READY
+STATUS: IN_PROGRESS
 
 ## Objective
 Deepen remote due diligence on Horea first and Hasdeu second before expanding the listing search.
@@ -32,3 +32,6 @@ ChatGPT orchestrator
 
 ## Generated At
 2026-08-22T08:00:00+03:00
+
+## Started At
+2026-08-25 13:00 EEST
