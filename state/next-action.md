@@ -1,42 +1,45 @@
 # Next Action
 
-STATUS: NEEDS_DECISION
+STATUS: READY
 
 ## Objective
-Deepen remote due diligence on Horea first and Hasdeu second before expanding the listing search.
+Expand the search for new above-grade 2-room Cluj-Napoca investment candidates that can beat the current demisol-heavy shortlist on risk-adjusted economics.
 
-## Result
-- Horea 41 m2 / 95,000 EUR was re-verified active on Storia in the in-app browser on 2026-08-27. Storia still shows floor as `fără informații`, but public Comitat/Imobiliare.ro/PropertyBook mirrors for the same CP2262660 / IDCgs4 listing identify it as `Demisol / 1`. This materially downgrades the deal from apparent 5.8%-6.4% yield to a risk-adjusted ~5.2%-5.8% range, midpoint ~5.5%, with meaningful legal/light/humidity/resale risk.
-- Hasdeu 43 m2 / 95,000 EUR remains the best current lead, but it is also demisol. Public mirror data confirms 43 m2, `Demisol / 2`, parking, strong campus location, and agency channel. Underwriting rent remains 480-520 EUR/month, total cost ~103,000 EUR, gross yield ~5.6%-6.1%, midpoint ~5.8%.
-- Public contact routes were found: Comitat 0725308803 / secretariat@comitatimobiliare.ro; Welt contact@weltimobiliare.ro / 0364 644 644.
-- No seller-facing actions were taken. No OLX/Storia message, call, email, form submission, viewing request, deposit, contract, or commitment was made.
+## Instructions
+- Pull the repository and read `AGENTS.md`, `SEARCH_CRITERIA.md`, `reports/latest.md`, `deals/active.md`, `deals/negotiated.md`, `deals/rejected.md`, `state/property-state.json`, `state/conversation-log.md`, and relevant negotiation files before acting.
+- Treat the prior Horea decision as resolved under the existing investment rules: Horea is demisol and only around the 5.5% target at the underwriting midpoint, with material legal/light/humidity/resale risk. Do not contact the agency, request a viewing, or make an offer. Keep it secondary/reject unless materially better verified facts or price emerge later.
+- Keep Zorilor / Hasdeu active as a remote-due-diligence benchmark only. Do not contact Welt, submit forms, disclose personal contact details, make an offer, or request a viewing in this run.
+- Search broadly for new, active, individually verified 2-room apartments in Cluj-Napoca using `SEARCH_CRITERIA.md`, prioritizing Gheorgheni, Marasti, Intre Lacuri, Zorilor, Manastur, Central, and other areas only when the numbers are clearly better.
+- Prioritize above-grade units with conventional residential CF/layout, easy rental demand, mortgage-compatible legal status, limited renovation needs, and owner-direct / newly posted / price-reduced listings where possible.
+- Prefer candidates that plausibly reach >=6% gross yield on realistic all-in cost without requiring an implausible discount. Reject candidates below 5.5% gross yield unless verified negotiation leverage creates a credible path above the threshold.
+- Avoid demisol/sub-grade units in this search unless the economics are materially stronger than Hasdeu after all-in costs and risk discount.
+- For each serious candidate, verify the individual listing is active and record asking price, area, floor, seller/agency, realistic rent using current nearby comps, all-in acquisition/refresh cost, gross yield, mortgage estimate, likely cash flow, legal/building risks, and the price range that would make it investable.
+- Do not send seller messages merely because a listing is interesting. If a new candidate is strong enough to justify contact, update the repo and stop for review rather than sending an offer in this run.
+- Check existing seller conversations read-only only if needed to ensure no material reply was missed. If a seller has accepted, countered, asked for a final/better offer, or proposed a viewing, preserve the exact message and stop with `STATUS: NEEDS_DECISION`.
+- Update `listings/listings.json`, `deals/active.md`, `deals/rejected.md`, `reports/latest.md`, `state/property-state.json`, and other relevant state files with verified or clearly labeled inferred information.
 
-## Decision Needed
-Choose whether to:
-- continue remote due diligence on Hasdeu first through a user-approved public agency contact route;
-- continue Horea only if Comitat can confirm clean residential CF, dry walls, good light, clear parking right, and price flexibility toward roughly 88,000-91,000 EUR;
-- reject Horea because the demisol risk leaves almost no cash-flow margin at asking.
+## Stop Conditions
+Set `STATUS: NEEDS_DECISION` if:
+- a seller reply requires a user decision;
+- a newly verified above-grade candidate appears strong enough that seller contact or an in-person viewing should be considered;
+- new legal, building, financing, rent, renovation, or price information materially changes the ranking of the current shortlist.
 
-## Recommended Next Instruction
-Set a new `READY` instruction to contact Welt/Hasdeu remotely with non-binding due-diligence questions only, without requesting a viewing. Horea should be secondary unless the user explicitly wants to pursue a demisol central unit.
+Set `STATUS: DONE` if the useful current search space is meaningfully scanned and no candidate clears the threshold for user review.
 
-## Limits
-- Do not make financial commitments.
-- Do not reveal maximum budget.
+Set `STATUS: BLOCKED` only if browser, repository, login, or listing access prevents safe verification.
+
+## Safety Limits
+- Do not send money.
+- Do not pay a reservation or deposit.
+- Do not sign or accept contracts.
+- Do not make a binding purchase commitment.
+- Do not reveal the user's maximum budget.
 - Do not arrange an in-person viewing without explicit user approval.
-- Do not submit personal contact information through seller or agency forms without explicit approval.
-- Stop if the seller materially changes the terms.
+- Do not disclose or submit the user's name, phone number, email address, or other personal contact details without explicit approval.
+- Do not send an offer or seller-facing negotiation message in this run; stop for review when a candidate is strong enough to contact.
 
-## After completion
-Update:
-- property-state.json
-- conversation-log.md
-- listings/listings.json
-- negotiations/
-- deals/
-- reports/latest.md
+## Generated By
+ChatGPT orchestrator following `ORCHESTRATOR.md`
 
-Then set STATUS to:
-- DONE
-- NEEDS_DECISION
-- BLOCKED
+## Generated At
+2026-08-27T19:57:51+03:00
