@@ -1,21 +1,21 @@
 {
   "status": "NEEDS_DECISION",
   "listing": {
-    "url": "https://www.storia.ro/ro/oferta/apartament-2-camere-41-mp-zona-strzii-horea-IDCgs4",
-    "title": "Apartament | 2 camere | 41 mp | zona strazii Horea",
-    "location": "Centru / Gruia-Horea, near Facultatea de Litere, Cluj-Napoca",
+    "url": "https://www.storia.ro/ro/oferta/apartament-2-camere-situat-in-zorilor-finisat-modern-IDE7iZ",
+    "title": "Apartament 2 camere, situat in Zorilor, finisat modern",
+    "location": "Zorilor / Hasdeu, Cluj-Napoca",
     "asking_price_eur": 95000,
-    "area_m2": 41,
-    "price_per_m2": 2317,
+    "area_m2": 43,
+    "price_per_m2": 2209,
     "rooms": 2,
-    "floor": null,
+    "floor": "Demisol / 2",
     "year": null,
-    "owner_or_agency": "Agentie"
+    "owner_or_agency": "Agentie - Welt Imobiliare"
   },
   "investment": {
-    "estimated_monthly_rent_eur": 525,
-    "estimated_gross_yield_percent": 6.12,
-    "estimated_renovation_eur": 2000,
+    "estimated_monthly_rent_eur": 500,
+    "estimated_gross_yield_percent": 5.83,
+    "estimated_renovation_eur": 4500,
     "estimated_total_cost_eur": 103000
   },
   "negotiation": {
@@ -26,9 +26,9 @@
     "number_of_rounds": 0
   },
   "seller": {
-    "name": "Comitat Imobiliare",
-    "contact_method": "Storia contact form opened; no message sent because form required name and phone"
+    "name": "Welt Imobiliare",
+    "contact_method": "Public contact route identified: contact@weltimobiliare.ro / 0364 644 644. No contact sent."
   },
-  "last_action": "Captured two new OLX seller replies exactly. Augustin/Bucegi replied that he is not the owner, only posted the ad, and was told the price is not negotiable. Vlad/Iris replied that they have a client at 93,000 EUR and declined the 82,000 EUR anchor. No seller replies were sent.",
-  "last_updated": "2026-08-21 20:22 EEST"
+  "last_action": "Completed public due diligence on Horea and Hasdeu. Horea Storia page remains active but hides floor; public Comitat/Imobiliare/PropertyBook mirrors identify the same lead as Demisol / 1, materially downgrading risk-adjusted yield. Hasdeu public mirror confirms 95,000 EUR, 43 m2, Demisol / 2, parking, strong campus location, but legal/light/humidity risks remain unresolved. No seller-facing messages, calls, emails, forms, viewing requests, or commitments were made.",
+  "last_updated": "2026-08-27 10:42 EEST"
 }

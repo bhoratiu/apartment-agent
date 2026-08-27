@@ -218,6 +218,17 @@ Attempted Storia remote due-diligence message for the Horea / Facultatea de Lite
 
 > No new seller message. OLX showed `NECITITE` -> `Ești la zi`.
 
+## 2026-08-27 10:42
+
+**Direction:** Us -> Seller
+
+**Message:**
+
+> NO MESSAGE SENT. Public due diligence only.
+
+**Context:**
+Re-checked Horea and Hasdeu leads through Storia/browser-visible facts and public mirrors/contact pages. No OLX/Storia message, call, email, form submission, viewing request, or commitment was made.
+
 **Context:**
 Read-only OLX inbox check. Bucegi 8 / Augustin and Iris-Terapia / Vlad still showed our outgoing offers as the latest visible conversation snippets.
 
