@@ -1,58 +1,55 @@
 # Latest Apartment Investment Report
 
-Updated: 2026-08-21 20:22 EEST
+Updated: 2026-08-27 00:00 EEST
 
 ## Best Current Opportunity
 
-The best newly verified opportunity is **Centru / Gruia-Horea, near Facultatea de Litere, 41 m2**, listed by Comitat Imobiliare at **95,000 EUR**.
+Best current opportunity is now **Zorilor / Hasdeu demisol, 43 m2**, but only as a remote-due-diligence lead, not yet a viewing candidate.
+
+- Listing: https://www.storia.ro/ro/oferta/apartament-2-camere-situat-in-zorilor-finisat-modern-IDE7iZ
+- Original asking price: 95,000 EUR
+- Current negotiated price: none
+- Size / neighborhood: 43 m2, Zorilor / Hasdeu, near campus/UMF/USAMV demand
+- Verified/public facts: public Imobiliare.ro/Imoradar mirror shows 95,000 EUR, 43 m2, 2 rooms, Demisol / 2, parking, agency listing; earlier Storia record showed gas central heating, bathroom window, ready to use, equipped/partly furnished, and immediate availability.
+- Estimated realistic rent: 480-520 EUR/month; underwriting midpoint 500 EUR/month because smaller demisol units should be discounted versus above-grade Hasdeu/Zorilor comps
+- Gross yield at asking/all-in: ~5.6%-6.1%; midpoint ~5.8% using 500 EUR/month rent and 103,000 EUR total cost
+- Estimated total investment at asking: ~103,000 EUR, including 95,000 EUR price, ~1,425 EUR acquisition/notary allowance, ~2,260 EUR assumed agency commission, and ~4,000-5,000 EUR refresh/demisol due-diligence reserve
+- Estimated mortgage: ~459 EUR/month, assuming 75% LTV of 95,000 EUR, 25 years, 6% annual interest
+- Expected monthly cash flow before tax/vacancy/repairs/insurance/HOA: about +21 to +61 EUR/month at 480-520 EUR rent
+- Main risks: demisol legal designation, below-grade exposure, light/window quality, humidity/mold/infiltration history, waterproofing/building condition, agency commission, and whether 500 EUR/month rent is truly achievable for a 43 m2 demisol
+- Recommendation: continue remote due diligence only. Do not request viewing yet. If clean legal/dry/light answers are confirmed and price flexibility points toward ~89,000-92,000 EUR, request user approval for viewing.
+
+## Material Update: Horea Downgraded
+
+The Horea / Facultatea de Litere listing is no longer the clean best opportunity because public mirrors identify the unit as demisol.
 
 - Listing: https://www.storia.ro/ro/oferta/apartament-2-camere-41-mp-zona-strzii-horea-IDCgs4
 - Original asking price: 95,000 EUR
 - Current negotiated price: none
 - Size / neighborhood: 41 m2, Centru / Gruia-Horea, near Facultatea de Litere
-- Estimated realistic rent: 500-550 EUR/month
-- Estimated total investment at asking: ~103,000 EUR including acquisition costs, agency assumption, and small refresh allowance
-- Gross yield at asking: ~5.8%-6.4%
-- Estimated mortgage: ~459 EUR/month, assuming 75% LTV, 25 years, ~6% annual interest
-- Expected monthly cash flow before tax/vacancy/repairs: ~41-91 EUR/month
-- Main risks: agency listing, floor not specified, unusual layout with two bathrooms, exact legal/floorplan status unknown, rent comp needs direct validation
-- Recommendation: BLOCKED before Storia outreach. The form requires name and phone number before submission; no personal contact details were filled and no message was sent. Continue only if the user approves/provides safe contact details for Storia, or use another contact channel.
+- Storia re-check: active on 2026-08-27, still shows 95,000 EUR, 41 m2, 2 rooms, Comitat Imobiliare, and `Etaj: fără informații`
+- Public mirror facts: Comitat/Imobiliare.ro/PropertyBook identify the same CP2262660 / IDCgs4 lead as Demisol / 1, 49 m2 built, 1980, brick, house/villa, semidecomandat, 2 bathrooms, orientation south, comfort 2, thermally rehabilitated, ready immediately, modern finished, furnished, parking in common courtyard plus quota share; Comitat says price is negotiable
+- Estimated realistic rent: 450-500 EUR/month; underwriting midpoint 475 EUR/month after demisol discount
+- Gross yield at asking/all-in: ~5.2%-5.8%; midpoint ~5.5% using 475 EUR/month rent and 104,000 EUR total cost
+- Estimated total investment at asking: ~104,000 EUR, including 95,000 EUR price, ~1,425 EUR acquisition/notary allowance, ~2,260 EUR assumed agency commission, and ~5,000-6,000 EUR refresh/demisol/legal-light reserve
+- Estimated mortgage: ~459 EUR/month, assuming 75% LTV of 95,000 EUR, 25 years, 6% annual interest
+- Expected monthly cash flow before tax/vacancy/repairs/insurance/HOA: about -9 to +41 EUR/month at 450-500 EUR rent
+- Main risks: demisol legal and financing risk, humidity/waterproofing, natural light, unusual one-bedroom/two-bath layout, house/villa exit liquidity, exact courtyard parking right, standard agency commission, and rent ceiling for a 41 m2 demisol
+- Recommendation: NEEDS_DECISION. Do not request viewing yet. Continue only with remote questions through a user-approved contact route, or reject unless the agency confirms clean residential CF, dry walls, good light, clear parking right, and credible flexibility toward ~88,000-91,000 EUR.
 
-## Other Active Leads
+## Public Contact Routes Found
 
-**Zorilor / Hasdeu demisol, 43 m2** remains attractive on location and rent demand but risky because it is demisol and agency-channel. Asking is 95,000 EUR, realistic rent estimate remains 480-520 EUR/month, total cost ~101,000 EUR, gross yield ~5.7%-6.2%. Re-verified page shows gas central heating, bathroom window, ready to use, equipped/partly furnished, and immediate availability. Storia outreach was not attempted after Horea blocked on required personal contact fields.
+- Comitat Imobiliare: 0725308803, secretariat@comitatimobiliare.ro, https://www.comitatimobiliare.ro/contact/
+- Welt Imobiliare: contact@weltimobiliare.ro, 0364 644 644, https://www.weltimobiliare.ro/contact.html
+- No calls, emails, forms, OLX messages, or Storia messages were sent during this run.
 
-**Buna Ziua demisol inalt, 44 m2** is a borderline backup. Asking is 97,000 EUR, parking included, newer low-rise building, gas central heating, ready to use. Estimated rent 460-500 EUR/month, total cost ~104,000 EUR, gross yield ~5.3%-5.8%. Main risk is demisol/high-basement light and humidity plus agency commission.
+## Rent Evidence Used
 
-## Captured OLX Replies This Run
+- Horea/Central OLX rental examples found at 450-525 EUR/month, mostly for above-grade or larger 45-62 m2 units; one parter 45 m2 Horea-area comp appears at 450 EUR/month, so 450-500 EUR/month is the safer Horea demisol underwriting range.
+- Hasdeu/Zorilor examples found from public OLX/Imobiliare/PropertyBook/HomeZZ/Imoradar results range broadly from 430 EUR/month for 45 m2 to 549-670 EUR/month for larger or stronger units; older Hasdeu aggregators show 370-430 EUR/month. Use 480-520 EUR/month until exact demisol light/condition is proven.
 
-**Manastur, Str. Bucegi 8, 40 m2 / Augustin** replied at 19:42:
+## Decision
 
-> Buna seara, nu este apartamentul meu, doar am postat anuntul. Mai bine sunati la numar, dar din cate mi s-a spus, pretul nu e negociabil.
+STATUS: NEEDS_DECISION
 
-Classification: material rejection / transaction information. Augustin says he is not the owner and that the price is reportedly not negotiable. This removes the only investable path near the 80,000 EUR anchor; reject.
-
-**Iris / Terapia, 40 m2 / Vlad** replied at 18:30:
-
-> Salutare, avem client la 93 000 deci nu
-
-Classification: material rejection with competing-buyer price signal. At 93,000 EUR plus costs, estimated total investment is ~102,000-103,000 EUR and gross yield is only ~4.7%-4.9% with 405-420 EUR/month rent; reject.
-
-## New Rejects This Run
-
-- Mircea Zaciu, 47 m2 OLX private listing at 110,000 EUR: rejected because CF destination is explicitly `pod`, no domicile/ID can be made there, creating major mortgage/legal/exit risk.
-- Floresti / Parcul Poligon 61 m2 at 117,000 EUR: rejected because Storia header suggested Intre Lacuri but description says Floresti; weak actual location and yield.
-- Terra Gardens Oasului 48.32 m2 at 89,392 EUR headline: rejected because price excludes VAT, terrace, parking, fit-out, and completion is December 2026 with staged payments.
-- Manastur / Parking Primaverii 52 m2 at 122,000 EUR remains rejected for poor yield.
-- Manastur / Bucegi 8 40 m2 at 105,000 EUR: rejected after seller/chat contact said he is not owner and price is reportedly not negotiable.
-- Iris / Terapia 40 m2 at 97,000 EUR: rejected after seller said he has a client at 93,000 EUR and declined the 82,000 EUR anchor.
-
-## Negotiations
-
-- Bucegi 8: material reply captured; recommendation reject, no reply sent.
-- Iris/Terapia: material reply captured; recommendation reject, no reply sent.
-- Dambul Rotund: closed by user at 17:22; do not message Alex again unless he later returns with a materially lower price.
-
-## Recommendation
-
-**NEEDS_DECISION:** Both new OLX replies are material and were recorded exactly. No seller replies were sent. Recommendation is to reject Bucegi and Iris for poor economics at the new seller signals, while keeping Horea 41 m2 as the best unresolved lead subject to the Storia contact-fields blocker.
+Reason: Horea floor/risk information materially changed the investment decision, and both active leads are demisol. Hasdeu remains the better price-to-rent lead, but neither should proceed to viewing without clean remote answers and user approval.
