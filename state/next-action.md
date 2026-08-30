@@ -3,28 +3,29 @@
 STATUS: READY
 
 ## Objective
-Expand the search for new above-grade 2-room Cluj-Napoca investment candidates that can beat the current demisol-heavy shortlist on risk-adjusted economics.
+Run a freshness-focused delta scan for new or materially price-reduced above-grade 2-room Cluj-Napoca investment candidates posted or changed since the last meaningful repo search, and surface only candidates that can plausibly beat the current Hasdeu benchmark on risk-adjusted economics.
 
 ## Instructions
 - Pull the repository and read `AGENTS.md`, `SEARCH_CRITERIA.md`, `reports/latest.md`, `deals/active.md`, `deals/negotiated.md`, `deals/rejected.md`, `state/property-state.json`, `state/conversation-log.md`, and relevant negotiation files before acting.
-- Treat the prior Horea decision as resolved under the existing investment rules: Horea is demisol and only around the 5.5% target at the underwriting midpoint, with material legal/light/humidity/resale risk. Do not contact the agency, request a viewing, or make an offer. Keep it secondary/reject unless materially better verified facts or price emerge later.
-- Keep Zorilor / Hasdeu active as a remote-due-diligence benchmark only. Do not contact Welt, submit forms, disclose personal contact details, make an offer, or request a viewing in this run.
-- Search broadly for new, active, individually verified 2-room apartments in Cluj-Napoca using `SEARCH_CRITERIA.md`, prioritizing Gheorgheni, Marasti, Intre Lacuri, Zorilor, Manastur, Central, and other areas only when the numbers are clearly better.
-- Prioritize above-grade units with conventional residential CF/layout, easy rental demand, mortgage-compatible legal status, limited renovation needs, and owner-direct / newly posted / price-reduced listings where possible.
-- Prefer candidates that plausibly reach >=6% gross yield on realistic all-in cost without requiring an implausible discount. Reject candidates below 5.5% gross yield unless verified negotiation leverage creates a credible path above the threshold.
-- Avoid demisol/sub-grade units in this search unless the economics are materially stronger than Hasdeu after all-in costs and risk discount.
-- For each serious candidate, verify the individual listing is active and record asking price, area, floor, seller/agency, realistic rent using current nearby comps, all-in acquisition/refresh cost, gross yield, mortgage estimate, likely cash flow, legal/building risks, and the price range that would make it investable.
-- Do not send seller messages merely because a listing is interesting. If a new candidate is strong enough to justify contact, update the repo and stop for review rather than sending an offer in this run.
+- Treat Horea as resolved under the existing investment rules: it is demisol and only around the 5.5% target at the underwriting midpoint, with material legal/light/humidity/resale risk. Do not contact the agency, make an offer, or request a viewing unless materially better verified facts or price emerge.
+- Keep Zorilor / Hasdeu active only as the current benchmark. Do not contact Welt, submit forms, disclose personal contact details, make an offer, or request a viewing in this run.
+- Search current listings with emphasis on listings newly posted, reactivated, or materially price-reduced since 2026-08-27. Prioritize Gheorgheni, Marasti, Intre Lacuri, Zorilor, Manastur, Central, then other Cluj-Napoca areas only when the economics are clearly better.
+- Prefer above-grade units with conventional residential CF/layout, mortgage-compatible legal status, easy rental demand, limited renovation needs, and transparent total purchase cost. Prefer owner-direct listings, explicit price cuts, urgent-sale signals, or other concrete negotiation leverage.
+- Do not re-promote previously rejected properties unless there is a verified material change in price, legal status, condition, rent evidence, or seller flexibility. Cross-check `deals/rejected.md` before treating any familiar listing as new.
+- Use realistic current nearby rental comps for each serious candidate. Calculate asking price, area, price per m2, estimated realistic monthly rent, realistic all-in acquisition/refresh/furnishing cost, gross yield on all-in cost, approximate mortgage payment, likely pre-tax cash flow, and key legal/building/liquidity risks.
+- Prefer candidates that plausibly reach >=6% gross yield on realistic all-in cost at asking or with a credible 10-15% negotiation path. Reject candidates below 5.5% unless verified leverage creates a plausible path above the threshold.
+- Verify each individual listing page is still active before promoting it. Record exact listing URL and last verification time.
+- Do not send seller-facing messages merely because a listing is interesting. If a newly verified candidate is strong enough to justify seller contact or a viewing, update the repo and stop for review with `STATUS: NEEDS_DECISION`.
 - Check existing seller conversations read-only only if needed to ensure no material reply was missed. If a seller has accepted, countered, asked for a final/better offer, or proposed a viewing, preserve the exact message and stop with `STATUS: NEEDS_DECISION`.
 - Update `listings/listings.json`, `deals/active.md`, `deals/rejected.md`, `reports/latest.md`, `state/property-state.json`, and other relevant state files with verified or clearly labeled inferred information.
 
 ## Stop Conditions
 Set `STATUS: NEEDS_DECISION` if:
 - a seller reply requires a user decision;
-- a newly verified above-grade candidate appears strong enough that seller contact or an in-person viewing should be considered;
-- new legal, building, financing, rent, renovation, or price information materially changes the ranking of the current shortlist.
+- a newly verified candidate appears strong enough that seller contact or an in-person viewing should be considered;
+- a material price reduction or newly verified legal/rent fact changes the ranking of the shortlist.
 
-Set `STATUS: DONE` if the useful current search space is meaningfully scanned and no candidate clears the threshold for user review.
+Set `STATUS: DONE` if the fresh/delta search space is meaningfully scanned and no candidate clears the threshold for user review.
 
 Set `STATUS: BLOCKED` only if browser, repository, login, or listing access prevents safe verification.
 
@@ -42,4 +43,4 @@ Set `STATUS: BLOCKED` only if browser, repository, login, or listing access prev
 ChatGPT orchestrator following `ORCHESTRATOR.md`
 
 ## Generated At
-2026-08-27T19:57:51+03:00
+2026-08-30T08:02:15+03:00
