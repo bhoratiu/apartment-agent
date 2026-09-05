@@ -3,22 +3,22 @@
 STATUS: READY
 
 ## Objective
-Run a strict freshness delta scan for above-grade 2-room Cluj-Napoca buy-to-rent listings newly posted, reactivated, or materially changed since the previous orchestrator instruction, prioritizing 2026-09-04 through 2026-09-05, and surface only candidates that plausibly beat the current Zorilor / Hasdeu benchmark on risk-adjusted economics.
+Run a strict same-day freshness delta scan for above-grade 2-room Cluj-Napoca buy-to-rent listings first posted, reactivated, price-reduced, or materially edited after the prior orchestrator command generated on 2026-09-05 at 07:59 EEST, and surface only candidates that plausibly beat the current Zorilor / Hasdeu benchmark on risk-adjusted economics.
 
 ## Instructions
-- Pull the repository and read `AGENTS.md`, `SEARCH_CRITERIA.md`, `reports/latest.md`, `deals/active.md`, `deals/negotiated.md`, `deals/rejected.md`, `state/property-state.json`, `state/conversation-log.md`, and relevant negotiation files before acting.
-- Treat Horea as resolved under the existing investment rules unless a verified material price or risk change appears: it is demisol, borderline around the 5.5% target at the underwriting midpoint, and carries legal/light/humidity/resale risk. Do not contact the agency, make an offer, or request a viewing.
-- Keep Zorilor / Hasdeu as the current benchmark only. No seller reply exists. Do not contact Welt, submit forms, disclose personal contact details, make an offer, or request a viewing in this run.
-- Search specifically for listings first published, reactivated, price-reduced, or materially edited after the prior scan, with emphasis on 2026-09-04 and 2026-09-05. Do not spend the run re-evaluating unchanged inventory already represented in the repository.
-- Prioritize Gheorgheni, Marasti, Intre Lacuri, Zorilor, Manastur, Central, then other Cluj-Napoca areas only when the economics are clearly better.
-- Prefer above-grade conventional apartments with residential CF, mortgage-compatible legal status, straightforward layouts, strong rental demand, limited renovation needs, and transparent total purchase cost. Give extra weight to owner-direct listings, explicit price cuts, stale/relisted stock, urgent-sale signals, included parking, or other concrete negotiation leverage.
+- Pull the repository and read `AGENTS.md`, `SEARCH_CRITERIA.md`, `reports/latest.md`, `deals/active.md`, `deals/negotiated.md`, `deals/rejected.md`, `state/property-state.json`, `state/conversation-log.md`, `listings/listings.json`, and relevant negotiation files before acting.
+- Treat the morning 2026-09-05 READY instruction as the cutoff. Focus on inventory or terms that appeared or materially changed after 07:59 EEST today; do not repeat the already-requested Sep 4-5 broad scan or re-evaluate unchanged inventory.
+- Horea remains demisol and borderline under the existing investment rules. No seller-facing message was sent and no seller reply exists. Do not contact Comitat, make an offer, disclose personal details, or request a viewing.
+- Keep Zorilor / Hasdeu as the current benchmark only. No seller-facing message was sent and no seller reply exists. Do not contact Welt, make an offer, disclose personal details, or request a viewing.
+- Prioritize Gheorgheni, Marasti, Intre Lacuri, Zorilor, Manastur, Central, then other Cluj-Napoca areas only when economics are clearly superior.
+- Prefer above-grade conventional apartments with residential CF, mortgage-compatible legal status, straightforward layouts, strong rental demand, limited renovation needs, and transparent all-in purchase cost. Give extra weight to owner-direct listings, explicit same-day price cuts, urgent-sale signals, stale stock newly repriced, included parking, or other concrete negotiation leverage.
 - Cross-check `deals/rejected.md` and `listings/listings.json` before treating any candidate as new. Do not re-promote a rejected property without a verified material change in price, legal status, condition, rent evidence, or seller flexibility.
-- For each serious candidate, verify the individual listing page is active and record the exact URL plus verification date/time. Use realistic nearby current rental comps and calculate asking price, usable area, price per m2, realistic monthly rent, all-in acquisition/refresh/furnishing cost, gross yield on all-in cost, approximate mortgage payment, likely pre-tax cash flow, and key legal/building/liquidity risks.
+- For every serious candidate, verify the individual listing page is currently active and record exact URL plus verification date/time. Use current nearby rental comps and calculate asking price, usable area, price per m2, realistic monthly rent, all-in acquisition/refresh/furnishing cost, gross yield on all-in cost, approximate mortgage payment, likely pre-tax cash flow, and key legal/building/liquidity risks.
 - Prefer candidates that plausibly reach >=6% gross yield on realistic all-in cost at asking or through a credible 10-15% negotiation path. Reject candidates below 5.5% unless verified leverage creates a plausible path above the threshold.
 - Distinguish genuinely new inventory from agency reposts or aggregator resurfacing. A repost is not a new opportunity unless price, terms, legal facts, condition, or negotiation leverage changed materially.
-- Do not send seller-facing messages merely because a listing is interesting. If a newly verified candidate is strong enough to justify seller contact or a viewing, update the repository and stop for user review with `STATUS: NEEDS_DECISION`.
-- Check existing seller conversations read-only only if needed to ensure no material reply was missed. If a seller has accepted, countered, asked for a final/better offer, or proposed a viewing, preserve the exact message and stop with `STATUS: NEEDS_DECISION`.
-- Update `listings/listings.json`, `deals/active.md`, `deals/rejected.md`, `reports/latest.md`, `state/property-state.json`, and other relevant state files with verified or clearly labeled inferred information.
+- Check existing seller conversations read-only only if needed to ensure no material reply was missed. If a seller accepted, countered, asked for a final/better offer, or proposed a viewing, preserve the exact message and stop with `STATUS: NEEDS_DECISION`.
+- Do not send seller-facing messages merely because a listing is interesting. If a newly verified candidate is strong enough to justify contact or a viewing, update repository state and stop for user review with `STATUS: NEEDS_DECISION`.
+- Update `listings/listings.json`, `deals/active.md`, `deals/rejected.md`, `reports/latest.md`, `state/property-state.json`, and other relevant state files only with verified facts or clearly labeled inference.
 
 ## Stop Conditions
 Set `STATUS: NEEDS_DECISION` if:
@@ -26,7 +26,7 @@ Set `STATUS: NEEDS_DECISION` if:
 - a newly verified candidate appears strong enough that seller contact or an in-person viewing should be considered;
 - a material price reduction or newly verified legal/rent fact changes the ranking of the shortlist.
 
-Set `STATUS: DONE` if the Sep 4-5 delta search space is meaningfully scanned and no candidate clears the threshold for user review.
+Set `STATUS: DONE` if the post-07:59 Sep 5 delta space is meaningfully scanned and no candidate clears the threshold for user review.
 
 Set `STATUS: BLOCKED` only if browser, repository, login, or listing access prevents safe verification.
 
@@ -44,4 +44,4 @@ Set `STATUS: BLOCKED` only if browser, repository, login, or listing access prev
 ChatGPT orchestrator following `ORCHESTRATOR.md`
 
 ## Generated At
-2026-09-05T07:59:50+03:00
+2026-09-05T19:58:09+03:00
