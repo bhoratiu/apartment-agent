@@ -1,6 +1,6 @@
 # Next Action
 
-STATUS: READY
+STATUS: IN_PROGRESS
 
 ## Objective
 Run a strict overnight freshness delta scan for above-grade 2-room Cluj-Napoca buy-to-rent listings first posted, reactivated, price-reduced, or materially edited after the prior orchestrator command generated on 2026-09-06 at 19:57 EEST, and surface only candidates that plausibly beat the current Zorilor / Hasdeu benchmark on risk-adjusted economics.
@@ -45,3 +45,6 @@ ChatGPT orchestrator following `ORCHESTRATOR.md`
 
 ## Generated At
 2026-09-07T07:57:44+03:00
+
+## Started At
+2026-09-07 16:14 EEST
