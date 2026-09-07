@@ -1,50 +1,31 @@
 # Next Action
 
-STATUS: IN_PROGRESS
+STATUS: DONE
 
 ## Objective
 Run a strict overnight freshness delta scan for above-grade 2-room Cluj-Napoca buy-to-rent listings first posted, reactivated, price-reduced, or materially edited after the prior orchestrator command generated on 2026-09-06 at 19:57 EEST, and surface only candidates that plausibly beat the current Zorilor / Hasdeu benchmark on risk-adjusted economics.
 
-## Instructions
-- Pull the repository and read `AGENTS.md`, `SEARCH_CRITERIA.md`, `reports/latest.md`, `deals/active.md`, `deals/negotiated.md`, `deals/rejected.md`, `state/property-state.json`, `state/conversation-log.md`, `listings/listings.json`, and relevant negotiation files before acting.
-- Treat 2026-09-06 19:57 EEST as the freshness cutoff. Focus only on inventory or terms that appeared or materially changed after that time through the current 2026-09-07 morning scan; do not re-run the Sep 6 evening delta or re-evaluate unchanged inventory.
-- Horea remains demisol and borderline under the existing investment rules. No seller-facing message was sent and no seller reply exists. Do not contact Comitat, make an offer, disclose personal details, or request a viewing.
-- Keep Zorilor / Hasdeu as the current benchmark only. No seller-facing message was sent and no seller reply exists. Do not contact Welt, make an offer, disclose personal details, or request a viewing.
-- Prioritize Gheorgheni, Marasti, Intre Lacuri, Zorilor, Manastur, Central, then other Cluj-Napoca areas only when economics are clearly superior.
-- Prefer above-grade conventional apartments with residential CF, mortgage-compatible legal status, straightforward layouts, strong rental demand, limited renovation needs, and transparent all-in purchase cost. Give extra weight to owner-direct listings, explicit overnight price cuts, urgent-sale signals, stale stock newly repriced, included parking, or other concrete negotiation leverage.
-- Cross-check `deals/rejected.md` and `listings/listings.json` before treating any candidate as new. Do not re-promote a rejected property without a verified material change in price, legal status, condition, rent evidence, or seller flexibility.
-- For every serious candidate, verify the individual listing page is currently active and record exact URL plus verification date/time. Use current nearby rental comps and calculate asking price, usable area, price per m2, realistic monthly rent, all-in acquisition/refresh/furnishing cost, gross yield on all-in cost, approximate mortgage payment, likely pre-tax cash flow, and key legal/building/liquidity risks.
-- Prefer candidates that plausibly reach >=6% gross yield on realistic all-in cost at asking or through a credible 10-15% negotiation path. Reject candidates below 5.5% unless verified leverage creates a plausible path above the threshold.
-- Distinguish genuinely new inventory from agency reposts or aggregator resurfacing. A repost is not a new opportunity unless price, terms, legal facts, condition, or negotiation leverage changed materially.
-- Check existing seller conversations read-only only if needed to ensure no material reply was missed. If a seller accepted, countered, asked for a final/better offer, or proposed a viewing, preserve the exact message and stop with `STATUS: NEEDS_DECISION`.
-- Do not send seller-facing messages merely because a listing is interesting. If a newly verified candidate is strong enough to justify contact or a viewing, update repository state and stop for user review with `STATUS: NEEDS_DECISION`.
-- Update `listings/listings.json`, `deals/active.md`, `deals/rejected.md`, `reports/latest.md`, `state/property-state.json`, and other relevant state files only with verified facts or clearly labeled inference.
+## Result
+- Repository was pulled and required state/deal/report files were read before action.
+- Status was changed from `READY` to `IN_PROGRESS`, committed, and pushed before execution.
+- Current OLX 2-room Cluj-Napoca index, OLX county/proprietar variants, and targeted exact-title searches were scanned for post-2026-09-06 19:57 EEST inventory/term changes.
+- No seller-facing action was taken. No OLX/Storia message, call, email, form submission, offer, viewing request, personal contact disclosure, deposit, contract, or commitment was made.
+- Three exact candidates were recorded as rejected:
+  - Intre Lacuri 34 m2 loft at 115,000 EUR, owner-direct with parking, rejected at ~5.0% gross yield because tiny loft/top-floor risk and high EUR/m2 do not beat Hasdeu.
+  - Marasti 38 m2 parter/courtyard at 118,000 EUR, rejected at ~4.8% gross yield because the listing says the bathroom is not in CF.
+  - Manastur/Bucium 43-44 m2 parter inalt at 124,900 EUR, rejected at ~3.9% gross yield because parter risk and rent ceiling miss the target.
+- Other fresh/re-surfaced index results were screened out because asking prices were materially too high for the rent/yield target and no concrete leverage was visible.
+- Existing Zorilor / Hasdeu demisol 43 m2 at 95,000 EUR remains the benchmark only; no new listing merits contact or viewing review.
 
-## Stop Conditions
-Set `STATUS: NEEDS_DECISION` if:
-- a seller reply requires a user decision;
-- a newly verified candidate appears strong enough that seller contact or an in-person viewing should be considered;
-- a material price reduction or newly verified legal/rent fact changes the ranking of the shortlist.
+## Recommendation
+Wait for the next READY instruction. If continuing, scan new post-2026-09-07 16:17 EEST inventory or pursue user-approved remote due diligence on Hasdeu only.
 
-Set `STATUS: DONE` if the post-19:57 Sep 6 overnight delta space is meaningfully scanned and no candidate clears the threshold for user review.
-
-Set `STATUS: BLOCKED` only if browser, repository, login, or listing access prevents safe verification.
-
-## Safety Limits
-- Do not send money.
-- Do not pay a reservation or deposit.
-- Do not sign or accept contracts.
-- Do not make a binding purchase commitment.
-- Do not reveal the user's maximum budget.
+## Limits
+- Do not make financial commitments.
+- Do not reveal maximum budget.
 - Do not arrange an in-person viewing without explicit user approval.
-- Do not disclose or submit the user's name, phone number, email address, or other personal contact details without explicit approval.
-- Do not send an offer or seller-facing negotiation message in this run; stop for review when a candidate is strong enough to contact.
+- Do not submit personal contact information through seller or agency forms without explicit approval.
+- Stop if the seller materially changes the terms.
 
-## Generated By
-ChatGPT orchestrator following `ORCHESTRATOR.md`
-
-## Generated At
-2026-09-07T07:57:44+03:00
-
-## Started At
-2026-09-07 16:14 EEST
+## Completed At
+2026-09-07 16:17 EEST
