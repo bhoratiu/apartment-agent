@@ -1,31 +1,36 @@
 # Next Action
 
-STATUS: DONE
+STATUS: READY
 
 ## Objective
-Run a strict overnight freshness delta scan for above-grade 2-room Cluj-Napoca buy-to-rent listings first posted, reactivated, price-reduced, or materially edited after the prior orchestrator command generated on 2026-09-06 at 19:57 EEST, and surface only candidates that plausibly beat the current Zorilor / Hasdeu benchmark on risk-adjusted economics.
+Run a strict evening freshness delta scan for above-grade 2-room Cluj-Napoca buy-to-rent listings first posted, reactivated, price-reduced, or materially edited after 2026-09-07 16:17 EEST, and surface only candidates that plausibly beat the current Zorilor / Hasdeu benchmark on risk-adjusted economics.
 
-## Result
-- Repository was pulled and required state/deal/report files were read before action.
-- Status was changed from `READY` to `IN_PROGRESS`, committed, and pushed before execution.
-- Current OLX 2-room Cluj-Napoca index, OLX county/proprietar variants, and targeted exact-title searches were scanned for post-2026-09-06 19:57 EEST inventory/term changes.
-- No seller-facing action was taken. No OLX/Storia message, call, email, form submission, offer, viewing request, personal contact disclosure, deposit, contract, or commitment was made.
-- Three exact candidates were recorded as rejected:
-  - Intre Lacuri 34 m2 loft at 115,000 EUR, owner-direct with parking, rejected at ~5.0% gross yield because tiny loft/top-floor risk and high EUR/m2 do not beat Hasdeu.
-  - Marasti 38 m2 parter/courtyard at 118,000 EUR, rejected at ~4.8% gross yield because the listing says the bathroom is not in CF.
-  - Manastur/Bucium 43-44 m2 parter inalt at 124,900 EUR, rejected at ~3.9% gross yield because parter risk and rent ceiling miss the target.
-- Other fresh/re-surfaced index results were screened out because asking prices were materially too high for the rent/yield target and no concrete leverage was visible.
-- Existing Zorilor / Hasdeu demisol 43 m2 at 95,000 EUR remains the benchmark only; no new listing merits contact or viewing review.
+## Instructions
+- Read `SEARCH_CRITERIA.md`, `reports/latest.md`, all deal-state files, and relevant negotiation files before acting.
+- Use 2026-09-07 16:17 EEST as the freshness cutoff; do not re-analyze unchanged inventory already screened before that time.
+- Prioritize above-grade units in Gheorgheni, Marasti, Intre Lacuri, Zorilor, Manastur, and Central; consider other Cluj-Napoca areas only when the economics are clearly superior.
+- Verify each individual listing is currently active before promoting it.
+- For each materially new candidate, estimate asking price, plausible negotiated price, realistic rent, total acquisition/renovation/furnishing cost, gross yield, approximate mortgage payment, likely pre-tax cash flow, and key downside risks.
+- Compare every promoted candidate explicitly against the current Zorilor / Hasdeu 43 m2 demisol benchmark at 95,000 EUR asking and ~5.8% midpoint gross yield on ~103,000 EUR all-in cost.
+- Prefer above-grade, mortgage-clean, easy-to-rent units even when headline yield is similar; reject legal/CF defects, severe renovation cases, and listings requiring implausible discounts to reach >=5.5% gross yield.
+- Update `reports/latest.md` and the appropriate deal-state files with only materially new findings.
+- Do not contact sellers or agencies in this run. If an existing seller response is discovered, stop new-listing work, preserve the exact reply in the relevant negotiation file, and set `state/next-action.md` to `NEEDS_DECISION` rather than replying.
 
-## Recommendation
-Wait for the next READY instruction. If continuing, scan new post-2026-09-07 16:17 EEST inventory or pursue user-approved remote due diligence on Hasdeu only.
+## Stop Conditions
+- Stop after the post-cutoff delta space is meaningfully screened and materially new candidates are recorded.
+- Stop immediately if any seller has accepted, countered, asked for a final offer, proposed a viewing, or otherwise requires a user decision.
+- If no candidate beats the Hasdeu benchmark on risk-adjusted economics, record that clearly and finish without seller-facing action.
 
-## Limits
-- Do not make financial commitments.
-- Do not reveal maximum budget.
-- Do not arrange an in-person viewing without explicit user approval.
-- Do not submit personal contact information through seller or agency forms without explicit approval.
-- Stop if the seller materially changes the terms.
+## Safety Limits
+- Do not authorize or arrange a viewing.
+- Do not make or accept an offer, counteroffer, reservation, deposit, contract, or binding purchase commitment.
+- Do not pay or authorize payment of any money.
+- Do not reveal the user's maximum budget or financial ceiling.
+- Do not submit personal contact information through seller or agency forms.
+- Do not send seller-facing messages, emails, calls, forms, or other communications in this run.
 
-## Completed At
-2026-09-07 16:17 EEST
+## Generated By
+ChatGPT Apartment Orchestrator
+
+## Generated At
+2026-09-07 20:02 EEST
