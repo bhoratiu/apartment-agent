@@ -181,3 +181,30 @@ For every rejection record:
 - Estimated yield at 93,000 EUR price signal: ~4.7%-4.9% on estimated total investment of ~102,000-103,000 EUR
 - Rejection reason: seller rejected the low-80k investment anchor and reports a competing client at 93,000 EUR. At that level the deal remains below the 5.5% gross-yield target and has parter/Iris/renovation risks.
 - Date checked: 2026-08-21
+
+## 2026-09-07 - Intre Lacuri, Str. Muresului - 34 m2 loft - poor yield despite parking
+
+- Listing URL: https://www.olx.ro/d/oferta/apartament-tip-loft-34-mp-utili-parcare-subterana-intre-lacuri-cluj-napoca-IDkPJQc.html
+- Asking price: 115,000 EUR, negotiable
+- Estimated rent: ~500 EUR/month
+- Estimated yield: ~5.0% on estimated total cost of ~121,000 EUR
+- Rejection reason: owner-direct and parking are positives, but the unit is only 34 m2, configured as a loft/open-space sleeping platform, top floor 4/4 with Velux windows, and priced at ~3,382 EUR/m2. It does not beat the Hasdeu benchmark and would need an implausible discount to reach 5.5%-6% yield.
+- Date checked: 2026-09-07
+
+## 2026-09-07 - Marasti - 38 m2 parter with courtyard - bathroom not in CF
+
+- Listing URL: https://www.olx.ro/d/oferta/apartament-2-camere-38-mp-curte-de-30-mp-parcare-zona-marasti-IDkpLag.html
+- Asking price: 118,000 EUR
+- Estimated rent: ~500 EUR/month
+- Estimated yield: ~4.8% on estimated total cost of ~125,500 EUR
+- Rejection reason: exact listing says parter, agency, 38 m2, possible parking, and explicitly states that the bathroom is not registered in CF. That legal/CF issue plus weak yield makes it unsuitable for a mortgage-compatible buy-to-rent screen.
+- Date checked: 2026-09-07
+
+## 2026-09-07 - Manastur / Bucium - 43-44 m2 parter inalt - poor yield
+
+- Listing URL: https://www.olx.ro/d/oferta/apartament-43-mp-utlili-parter-inalt-zona-bucium-manastur-IDkIinz.html
+- Asking price: 124,900 EUR
+- Estimated rent: ~430 EUR/month
+- Estimated yield: ~3.9% on estimated total cost of ~132,000 EUR
+- Rejection reason: renovated condition is positive, but Manastur/Bucium rent ceiling, parter risk, firm/agency channel, and high all-in cost leave it far below the 5.5% target.
+- Date checked: 2026-09-07
