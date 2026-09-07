@@ -3,15 +3,15 @@
 STATUS: READY
 
 ## Objective
-Run a strict same-day freshness delta scan for above-grade 2-room Cluj-Napoca buy-to-rent listings first posted, reactivated, price-reduced, or materially edited after the prior orchestrator command generated on 2026-09-06 at 08:01 EEST, and surface only candidates that plausibly beat the current Zorilor / Hasdeu benchmark on risk-adjusted economics.
+Run a strict overnight freshness delta scan for above-grade 2-room Cluj-Napoca buy-to-rent listings first posted, reactivated, price-reduced, or materially edited after the prior orchestrator command generated on 2026-09-06 at 19:57 EEST, and surface only candidates that plausibly beat the current Zorilor / Hasdeu benchmark on risk-adjusted economics.
 
 ## Instructions
 - Pull the repository and read `AGENTS.md`, `SEARCH_CRITERIA.md`, `reports/latest.md`, `deals/active.md`, `deals/negotiated.md`, `deals/rejected.md`, `state/property-state.json`, `state/conversation-log.md`, `listings/listings.json`, and relevant negotiation files before acting.
-- Treat 2026-09-06 08:01 EEST as the freshness cutoff. Focus only on inventory or terms that appeared or materially changed after that time through the current 2026-09-06 evening scan; do not re-run the morning delta or re-evaluate unchanged inventory.
+- Treat 2026-09-06 19:57 EEST as the freshness cutoff. Focus only on inventory or terms that appeared or materially changed after that time through the current 2026-09-07 morning scan; do not re-run the Sep 6 evening delta or re-evaluate unchanged inventory.
 - Horea remains demisol and borderline under the existing investment rules. No seller-facing message was sent and no seller reply exists. Do not contact Comitat, make an offer, disclose personal details, or request a viewing.
 - Keep Zorilor / Hasdeu as the current benchmark only. No seller-facing message was sent and no seller reply exists. Do not contact Welt, make an offer, disclose personal details, or request a viewing.
 - Prioritize Gheorgheni, Marasti, Intre Lacuri, Zorilor, Manastur, Central, then other Cluj-Napoca areas only when economics are clearly superior.
-- Prefer above-grade conventional apartments with residential CF, mortgage-compatible legal status, straightforward layouts, strong rental demand, limited renovation needs, and transparent all-in purchase cost. Give extra weight to owner-direct listings, explicit same-day price cuts, urgent-sale signals, stale stock newly repriced, included parking, or other concrete negotiation leverage.
+- Prefer above-grade conventional apartments with residential CF, mortgage-compatible legal status, straightforward layouts, strong rental demand, limited renovation needs, and transparent all-in purchase cost. Give extra weight to owner-direct listings, explicit overnight price cuts, urgent-sale signals, stale stock newly repriced, included parking, or other concrete negotiation leverage.
 - Cross-check `deals/rejected.md` and `listings/listings.json` before treating any candidate as new. Do not re-promote a rejected property without a verified material change in price, legal status, condition, rent evidence, or seller flexibility.
 - For every serious candidate, verify the individual listing page is currently active and record exact URL plus verification date/time. Use current nearby rental comps and calculate asking price, usable area, price per m2, realistic monthly rent, all-in acquisition/refresh/furnishing cost, gross yield on all-in cost, approximate mortgage payment, likely pre-tax cash flow, and key legal/building/liquidity risks.
 - Prefer candidates that plausibly reach >=6% gross yield on realistic all-in cost at asking or through a credible 10-15% negotiation path. Reject candidates below 5.5% unless verified leverage creates a plausible path above the threshold.
@@ -26,7 +26,7 @@ Set `STATUS: NEEDS_DECISION` if:
 - a newly verified candidate appears strong enough that seller contact or an in-person viewing should be considered;
 - a material price reduction or newly verified legal/rent fact changes the ranking of the shortlist.
 
-Set `STATUS: DONE` if the post-08:01 Sep 6 same-day delta space is meaningfully scanned and no candidate clears the threshold for user review.
+Set `STATUS: DONE` if the post-19:57 Sep 6 overnight delta space is meaningfully scanned and no candidate clears the threshold for user review.
 
 Set `STATUS: BLOCKED` only if browser, repository, login, or listing access prevents safe verification.
 
@@ -44,4 +44,4 @@ Set `STATUS: BLOCKED` only if browser, repository, login, or listing access prev
 ChatGPT orchestrator following `ORCHESTRATOR.md`
 
 ## Generated At
-2026-09-06T19:57:39+03:00
+2026-09-07T07:57:44+03:00
