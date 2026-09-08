@@ -3,7 +3,7 @@
 STATUS: READY
 
 ## Objective
-Run a strict evening freshness delta scan for above-grade 2-room Cluj-Napoca buy-to-rent listings first posted, reactivated, price-reduced, or materially edited after 2026-09-07 16:17 EEST, and surface only candidates that plausibly beat the current Zorilor / Hasdeu benchmark on risk-adjusted economics.
+Run a strict freshness delta scan for above-grade 2-room Cluj-Napoca buy-to-rent listings first posted, reactivated, price-reduced, or materially edited after 2026-09-07 16:17 EEST through the evening of 2026-09-08, and surface only candidates that plausibly beat the current Zorilor / Hasdeu benchmark on risk-adjusted economics.
 
 ## Instructions
 - Read `SEARCH_CRITERIA.md`, `reports/latest.md`, all deal-state files, and relevant negotiation files before acting.
@@ -17,7 +17,7 @@ Run a strict evening freshness delta scan for above-grade 2-room Cluj-Napoca buy
 - Do not contact sellers or agencies in this run. If an existing seller response is discovered, stop new-listing work, preserve the exact reply in the relevant negotiation file, and set `state/next-action.md` to `NEEDS_DECISION` rather than replying.
 
 ## Stop Conditions
-- Stop after the post-cutoff delta space is meaningfully screened and materially new candidates are recorded.
+- Stop after the post-cutoff delta space through the evening of 2026-09-08 is meaningfully screened and materially new candidates are recorded.
 - Stop immediately if any seller has accepted, countered, asked for a final offer, proposed a viewing, or otherwise requires a user decision.
 - If no candidate beats the Hasdeu benchmark on risk-adjusted economics, record that clearly and finish without seller-facing action.
 
@@ -33,4 +33,4 @@ Run a strict evening freshness delta scan for above-grade 2-room Cluj-Napoca buy
 ChatGPT Apartment Orchestrator
 
 ## Generated At
-2026-09-07 20:02 EEST
+2026-09-08 20:00 EEST
