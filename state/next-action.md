@@ -3,12 +3,12 @@
 STATUS: READY
 
 ## Objective
-Run a strict freshness delta scan for above-grade 2-room Cluj-Napoca buy-to-rent listings first posted, reactivated, price-reduced, or materially edited after 2026-09-07 16:17 EEST through the evening of 2026-09-09, and surface only candidates that plausibly beat the current Zorilor / Hasdeu benchmark on risk-adjusted economics.
+Run a strict freshness delta scan for above-grade 2-room Cluj-Napoca buy-to-rent listings first posted, reactivated, price-reduced, or materially edited after 2026-09-07 16:17 EEST through the morning of 2026-09-10, and surface only candidates that plausibly beat the current Zorilor / Hasdeu benchmark on risk-adjusted economics.
 
 ## Instructions
 - Read `SEARCH_CRITERIA.md`, `reports/latest.md`, all deal-state files, and relevant negotiation files before acting.
 - Use 2026-09-07 16:17 EEST as the freshness cutoff; do not re-analyze unchanged inventory already screened before that time.
-- Cover the full still-pending delta window through the evening of 2026-09-09; do not narrow the scan in a way that could skip listings from 2026-09-08 or earlier on 2026-09-09.
+- Cover the full still-pending delta window through the morning of 2026-09-10, including any listings from 2026-09-08, 2026-09-09, or early 2026-09-10 that have not yet been screened.
 - Prioritize above-grade units in Gheorgheni, Marasti, Intre Lacuri, Zorilor, Manastur, and Central; consider other Cluj-Napoca areas only when the economics are clearly superior.
 - Verify each individual listing is currently active before promoting it.
 - For each materially new candidate, estimate asking price, plausible negotiated price, realistic rent, total acquisition/renovation/furnishing cost, gross yield, approximate mortgage payment, likely pre-tax cash flow, and key downside risks.
@@ -18,7 +18,7 @@ Run a strict freshness delta scan for above-grade 2-room Cluj-Napoca buy-to-rent
 - Do not contact sellers or agencies in this run. If an existing seller response is discovered, stop new-listing work, preserve the exact reply in the relevant negotiation file, and set `state/next-action.md` to `NEEDS_DECISION` rather than replying.
 
 ## Stop Conditions
-- Stop after the post-cutoff delta space through the evening of 2026-09-09 is meaningfully screened and materially new candidates are recorded.
+- Stop after the post-cutoff delta space through the morning of 2026-09-10 is meaningfully screened and materially new candidates are recorded.
 - Stop immediately if any seller has accepted, countered, asked for a final offer, proposed a viewing, or otherwise requires a user decision.
 - If no candidate beats the Hasdeu benchmark on risk-adjusted economics, record that clearly and finish without seller-facing action.
 
@@ -34,4 +34,4 @@ Run a strict freshness delta scan for above-grade 2-room Cluj-Napoca buy-to-rent
 ChatGPT Apartment Orchestrator
 
 ## Generated At
-2026-09-09 20:00 EEST
+2026-09-10 07:58 EEST
