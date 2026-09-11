@@ -1,6 +1,6 @@
 # Next Action
 
-STATUS: READY
+STATUS: IN_PROGRESS
 
 ## Objective
 Run a strict freshness delta scan for above-grade 2-room Cluj-Napoca buy-to-rent listings first posted, reactivated, price-reduced, or materially edited after 2026-09-07 16:17 EEST through 2026-09-11 07:59 EEST, and surface only candidates that plausibly beat the current Zorilor / Hasdeu benchmark on risk-adjusted economics.
@@ -36,3 +36,6 @@ ChatGPT Apartment Orchestrator
 
 ## Generated At
 2026-09-11 07:59 EEST
+
+## Started At
+2026-09-11 13:42 EEST
