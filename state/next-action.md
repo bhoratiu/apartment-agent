@@ -1,41 +1,37 @@
 # Next Action
 
-STATUS: DONE
+STATUS: READY
 
 ## Objective
-Run a strict freshness delta scan for above-grade 2-room Cluj-Napoca buy-to-rent listings first posted, reactivated, price-reduced, or materially edited after 2026-09-07 16:17 EEST through 2026-09-11 07:59 EEST, and surface only candidates that plausibly beat the current Zorilor / Hasdeu benchmark on risk-adjusted economics.
+Run one strict freshness delta scan for above-grade 2-room Cluj-Napoca buy-to-rent listings first posted, reactivated, price-reduced, or materially edited after 2026-09-11 12:15 EEST through 2026-09-11 20:00 EEST, and surface only candidates that plausibly beat the current Zorilor / Hasdeu benchmark on risk-adjusted economics.
 
-## Result
-- Repository was pulled and required state/deal/report files were read before action.
-- Status was changed from `READY` to `IN_PROGRESS`, committed, and pushed before execution.
-- Current OLX 2-room Cluj-Napoca sorted-newest results under 125,000 EUR, OLX targeted searches, search-indexed exact listing pages, and repository rejected/active history were checked for post-2026-09-07 16:17 EEST inventory/term changes.
-- Storia sorted results timed out in the browser and did not surface dated Sep 8-11 sub-125k candidates through public search.
-- No seller-facing action was taken. No OLX/Storia message, call, email, form submission, offer, viewing request, personal contact disclosure, deposit, contract, or commitment was made.
-- Seven newly surfaced/re-surfaced candidates were recorded as rejected:
-  - Manastur / Ciucas 35 m2 parter at 98,000 EUR, rejected at ~4.5% gross yield.
-  - Manastur / Garbau 35 m2 etaj 4/4 at 99,900 EUR, rejected at ~4.4% gross yield.
-  - Manastur / Primaverii 35 m2 etaj 4/4 at 99,900 EUR, rejected at ~4.4% gross yield.
-  - Manastur / Parang-McDonald's-Minerva 37 m2 etaj 2/4 at 103,000 EUR, rejected at ~4.5% gross yield and likely repost/reactivation.
-  - Floresti / Str. Porii 40.5-50 m2 parter inalt at 85,000 EUR, rejected for location mismatch and ~4.7% yield.
-  - Floresti with underground parking at 79,000 EUR, rejected for location mismatch and ~4.7% yield.
-  - Terra / likely Floresti edge 50 m2 at 109,000 EUR, rejected at ~4.2% yield.
-- Existing Hasdeu / Zorilor demisol 43 m2 at 95,000 EUR remains the benchmark only. No new candidate merits seller contact or viewing review.
+## Instructions
+- Read `SEARCH_CRITERIA.md`, `reports/latest.md`, all deal-state files, and relevant negotiation history before evaluating anything.
+- Search only genuinely new/reactivated/price-reduced/materially edited inventory after the 2026-09-11 12:15 EEST cutoff; do not reprocess unchanged listings already recorded in active/rejected/negotiated state.
+- Prioritize preferred Cluj-Napoca areas and above-grade units. Treat demisol/parter/top-floor or legal/CF irregularities as material risk and require clearly superior economics before promotion.
+- Verify each individual listing page is still active before considering it actionable.
+- For each credible candidate, estimate asking price, realistic negotiated price range, total acquisition/refresh/furnishing cost, realistic rent, gross yield, approximate mortgage payment, likely pre-tax cash flow, and downside risks.
+- Promote a candidate only if there is a credible path to at least the 5.5% target gross yield on realistic all-in cost and it is competitive with the current Hasdeu benchmark after risk adjustment.
+- Record clearly inferior candidates in `deals/rejected.md` so they are not repeatedly reconsidered, and update `reports/latest.md` with the delta result.
+- Do not contact any seller or agency in this run. Do not send an offer, counteroffer, inquiry, call, email, form submission, or personal contact details.
+- If a previously contacted seller has somehow produced a new reply in repository state, stop and set `STATUS: NEEDS_DECISION` rather than continuing the scan.
 
-## Recommendation
-Wait for the next READY instruction. If continuing, scan only inventory or material price/term changes after 2026-09-11 12:15 EEST, or separately create a READY instruction for user-approved remote due diligence on Hasdeu.
+## Stop Conditions
+- Stop seller-facing work immediately if any seller response, counteroffer, final-price request, proposed viewing, reservation request, deposit request, contract step, or other material term appears.
+- Stop and mark `NEEDS_DECISION` if proceeding would require user approval, personal contact disclosure, a viewing decision, or any financial commitment.
+- If no new or materially changed listing clears the risk-adjusted screen, finish the delta scan with `STATUS: DONE` and state that no action is warranted.
 
-## Limits
-- Do not make financial commitments.
-- Do not reveal maximum budget.
-- Do not arrange an in-person viewing without explicit user approval.
-- Do not submit personal contact information through seller or agency forms without explicit approval.
-- Stop if the seller materially changes the terms.
+## Safety Limits
+- Do not make or authorize any viewing.
+- Do not pay or authorize any deposit, reservation fee, or other payment.
+- Do not sign, accept, or authorize any contract.
+- Do not make any binding purchase commitment.
+- Do not disclose the user's maximum budget or sensitive financial/personal information.
+- Do not submit personal contact information through seller or agency forms.
+- Do not make seller-facing contact of any kind in this run.
+
+## Generated By
+ChatGPT Apartment Orchestrator
 
 ## Generated At
-2026-09-11 07:59 EEST
-
-## Started At
-2026-09-11 12:15 EEST
-
-## Completed At
-2026-09-11 12:15 EEST
+2026-09-11 20:00 EEST
