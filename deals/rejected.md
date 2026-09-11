@@ -208,3 +208,66 @@ For every rejection record:
 - Estimated yield: ~3.9% on estimated total cost of ~132,000 EUR
 - Rejection reason: renovated condition is positive, but Manastur/Bucium rent ceiling, parter risk, firm/agency channel, and high all-in cost leave it far below the 5.5% target.
 - Date checked: 2026-09-07
+
+## 2026-09-11 - Manastur / Ciucas - 35 m2 parter - poor yield
+
+- Listing URL: https://www.olx.ro/d/oferta/apartament-2-camere-investitie-35-mpu-zona-ciucas-manastur-IDkWj8J.html
+- Asking price: 98,000 EUR
+- Estimated rent: ~390 EUR/month
+- Estimated yield: ~4.5% on estimated total cost of ~104,000 EUR
+- Rejection reason: parter, agency listing, thermoficare, only 35 m2, and Manastur rent ceiling. Despite the lower headline price, it does not beat Hasdeu and has no plausible path to 5.5%-6% without a very large discount.
+- Date checked: 2026-09-11
+
+## 2026-09-11 - Manastur / Garbau - 35 m2 top floor - poor yield
+
+- Listing URL: https://www.olx.ro/d/oferta/apartament-2-camere-semidecomandat-manastur-etaj-4-4-IDkWhUl.html
+- Asking price: 99,900 EUR
+- Estimated rent: ~390 EUR/month
+- Estimated yield: ~4.4% on estimated total cost of ~106,000 EUR
+- Rejection reason: agency listing, 35 m2, etaj 4/4, thermoficare, and weak rent-to-price ratio. No seller contact recommended.
+- Date checked: 2026-09-11
+
+## 2026-09-11 - Manastur / Primaverii - 35 m2 top floor - poor yield
+
+- Listing URL: https://www.olx.ro/d/oferta/apartament-2-camere-de-vanzare-manastur-zona-strazii-primaverii-IDkWkpb.html
+- Asking price: 99,900 EUR
+- Estimated rent: ~390 EUR/month
+- Estimated yield: ~4.4% on estimated total cost of ~106,000 EUR
+- Rejection reason: virtually same economics as the Garbau top-floor unit: agency, 35 m2, etaj 4/4, thermoficare, and insufficient rent-to-price ratio.
+- Date checked: 2026-09-11
+
+## 2026-09-11 - Manastur / Parang-McDonald's-Minerva - 37 m2 repost - poor yield
+
+- Listing URL: https://www.olx.ro/d/oferta/2-camere-de-vanzare-mutare-imediata-manasturzona-parang-mcdonal-IDkyxBi.html
+- Asking price: 103,000 EUR
+- Estimated rent: ~410 EUR/month
+- Estimated yield: ~4.5% on estimated total cost of ~109,500 EUR
+- Rejection reason: current OLX index resurfaced it after the cutoff, but exact page/mirrors show older listing history. It is above-grade and renovated, but agency channel, thermoficare, 37 m2 area, and price still leave it well below the 5.5% target.
+- Date checked: 2026-09-11
+
+## 2026-09-11 - Floresti / Str. Porii - 40.5-50 m2 parter inalt - location mismatch
+
+- Listing URL: https://www.olx.ro/d/oferta/ap-cu-2-camere-de-vanzare-str-porii-floresti-IDkUklp.html
+- Asking price: 85,000 EUR
+- Estimated rent: ~350 EUR/month
+- Estimated yield: ~4.7% on estimated total cost of ~90,000 EUR
+- Rejection reason: title and description identify Floresti / Str. Porii despite OLX locality label showing Cluj-Napoca. Private seller and parking are positives, but this is outside target Cluj core and the rent-to-price ratio remains below target.
+- Date checked: 2026-09-11
+
+## 2026-09-11 - Floresti with underground parking - 79,000 EUR - location mismatch
+
+- Listing URL: https://www.olx.ro/d/oferta/apartament-de-vanzare-2-camere-cu-parcare-subterana-floresti-IDjQWOz.html
+- Asking price: 79,000 EUR
+- Estimated rent: ~330 EUR/month
+- Estimated yield: ~4.7% on estimated total cost of ~84,000 EUR
+- Rejection reason: current OLX result title says Floresti and underground parking. Exact detail extraction was limited, but non-core location and likely Floresti rent ceiling keep it below target.
+- Date checked: 2026-09-11
+
+## 2026-09-11 - Terra / likely Floresti edge - 50 m2 - poor yield
+
+- Listing URL: https://www.olx.ro/d/oferta/apartament-2-camere-zona-terra-50mp-IDkMhBP.html
+- Asking price: 109,000 EUR
+- Estimated rent: ~400 EUR/month
+- Estimated yield: ~4.2% on estimated total cost of ~115,500 EUR
+- Rejection reason: reactivated in OLX index after cutoff, but older mirrors place the same title in Terra/Floresti-edge stock. Edge-location rent ceiling and high all-in cost make it materially worse than Hasdeu.
+- Date checked: 2026-09-11

@@ -1,10 +1,10 @@
 # Latest Apartment Investment Report
 
-Updated: 2026-09-07 16:17 EEST
+Updated: 2026-09-11 12:15 EEST
 
 ## Best Current Opportunity
 
-No newly surfaced post-2026-09-06 19:57 EEST listing beats the existing **Zorilor / Hasdeu demisol, 43 m2** benchmark.
+No materially new listing from the 2026-09-07 16:17 EEST through 2026-09-11 07:59 EEST delta window beats the existing **Zorilor / Hasdeu demisol, 43 m2** benchmark.
 
 - Benchmark listing: https://www.storia.ro/ro/oferta/apartament-2-camere-situat-in-zorilor-finisat-modern-IDE7iZ
 - Original asking price: 95,000 EUR
@@ -17,34 +17,66 @@ No newly surfaced post-2026-09-06 19:57 EEST listing beats the existing **Zorilo
 - Main risks: demisol legal designation, below-grade exposure, light/window quality, humidity/mold/infiltration history, waterproofing/building condition, agency commission, and rent proof
 - Recommendation: keep as benchmark only; no seller contact in this run.
 
-## Overnight Freshness Delta Scan
+## Freshness Delta Scan
 
-Cutoff used: 2026-09-06 19:57 EEST. Sources checked: current OLX 2-room Cluj-Napoca index, OLX county/proprietar variants, and targeted exact-title searches for sub-125k or otherwise plausible candidates. Seller conversations were not touched because the current instruction forbids seller-facing action unless a material reply is detected.
+Cutoff used: 2026-09-07 16:17 EEST. Scan covered the still-pending delta window through 2026-09-11 07:59 EEST, plus the current visible OLX sorted-newest page on 2026-09-11. Sources checked: the already-open OLX 2-room Cluj-Napoca page sorted newest under 125,000 EUR, targeted OLX searches for Mănăștur/Terra/Florești edge hits, search-indexed exact listing pages, and previously recorded repository rejects. Storia sorted results timed out in the browser and did not produce dated Sep 8-11 sub-125k hits through public search.
 
-New/re-surfaced candidates recorded as rejected:
+No seller-facing action was taken: no OLX/Storia message, call, email, form submission, offer, viewing request, personal-contact disclosure, deposit, contract, or commitment.
 
-- Intre Lacuri, Str. Muresului loft, 34 m2, 115,000 EUR, owner-direct, parking included: https://www.olx.ro/d/oferta/apartament-tip-loft-34-mp-utili-parcare-subterana-intre-lacuri-cluj-napoca-IDkPJQc.html
-  - Rent estimate: ~500 EUR/month.
-  - All-in estimate: ~121,000 EUR.
-  - Gross yield: ~5.0%.
-  - Rejection: tiny loft/open sleeping platform, top floor 4/4, Velux/top-floor liquidity risk, high 3,382 EUR/m2. Does not beat Hasdeu and does not clear 5.5% without an implausible discount.
+Newly recorded rejected candidates:
 
-- Marasti, 38 m2 parter with 30 m2 courtyard, 118,000 EUR, agency: https://www.olx.ro/d/oferta/apartament-2-camere-38-mp-curte-de-30-mp-parcare-zona-marasti-IDkpLag.html
-  - Rent estimate: ~500 EUR/month.
-  - All-in estimate: ~125,500 EUR.
-  - Gross yield: ~4.8%.
-  - Rejection: listing explicitly says bathroom is not registered in CF, plus parter and agency risk. Not mortgage-clean enough and yield is weak.
+- Mănăștur / Ciucaș, 35 m2 parter, 98,000 EUR: https://www.olx.ro/d/oferta/apartament-2-camere-investitie-35-mpu-zona-ciucas-manastur-IDkWj8J.html
+  - Rent estimate: ~390 EUR/month.
+  - All-in estimate: ~104,000 EUR.
+  - Gross yield: ~4.5%.
+  - Rejection: parter, agency listing, thermoficare, small surface, and Mănăștur rent ceiling.
 
-- Manastur / Bucium, parter inalt, 43-44 m2, 124,900 EUR, firm/agency: https://www.olx.ro/d/oferta/apartament-43-mp-utlili-parter-inalt-zona-bucium-manastur-IDkIinz.html
-  - Rent estimate: ~430 EUR/month.
-  - All-in estimate: ~132,000 EUR.
-  - Gross yield: ~3.9%.
-  - Rejection: renovated condition is positive, but parter, Manastur/Bucium rent ceiling, firm/agency channel, and high all-in price miss the yield target badly.
+- Mănăștur / Gârbău, 35 m2 top floor, 99,900 EUR: https://www.olx.ro/d/oferta/apartament-2-camere-semidecomandat-manastur-etaj-4-4-IDkWhUl.html
+  - Rent estimate: ~390 EUR/month.
+  - All-in estimate: ~106,000 EUR.
+  - Gross yield: ~4.4%.
+  - Rejection: etaj 4/4, agency, thermoficare, small area, weak rent-to-price.
 
-Other fresh/re-surfaced index items were screened out without promotion because asking prices were far above yield support: Zorilor/Gheorghe Dima 168k, Iulius/Marasti 149k-175k+, Gheorgheni 138.9k-145k+, Central 176k-196k+, Intre Lacuri 158k-195k+, and similar agency reposts. None had verified price/rent/leverage strong enough to justify contact or viewing review.
+- Mănăștur / Primăverii, 35 m2 top floor, 99,900 EUR: https://www.olx.ro/d/oferta/apartament-2-camere-de-vanzare-manastur-zona-strazii-primaverii-IDkWkpb.html
+  - Rent estimate: ~390 EUR/month.
+  - All-in estimate: ~106,000 EUR.
+  - Gross yield: ~4.4%.
+  - Rejection: same economics as the Gârbău top-floor unit; no path to Hasdeu-level yield without a major discount.
+
+- Mănăștur / Parâng-McDonald's-Minerva, 37 m2 etaj 2/4, 103,000 EUR: https://www.olx.ro/d/oferta/2-camere-de-vanzare-mutare-imediata-manasturzona-parang-mcdonal-IDkyxBi.html
+  - Rent estimate: ~410 EUR/month.
+  - All-in estimate: ~109,500 EUR.
+  - Gross yield: ~4.5%.
+  - Rejection: resurfaced/reposted after cutoff but older page history; renovated and above-grade, yet still below the 5.5% target.
+
+- Florești / Str. Porii, 40.5-50 m2 parter înalt, 85,000 EUR: https://www.olx.ro/d/oferta/ap-cu-2-camere-de-vanzare-str-porii-floresti-IDkUklp.html
+  - Rent estimate: ~350 EUR/month.
+  - All-in estimate: ~90,000 EUR.
+  - Gross yield: ~4.7%.
+  - Rejection: title/description identify Florești despite Cluj-Napoca locality label; outside target area and weak yield.
+
+- Florești with underground parking, 79,000 EUR: https://www.olx.ro/d/oferta/apartament-de-vanzare-2-camere-cu-parcare-subterana-floresti-IDjQWOz.html
+  - Rent estimate: ~330 EUR/month.
+  - All-in estimate: ~84,000 EUR.
+  - Gross yield: ~4.7%.
+  - Rejection: non-core Florești location; exact detail extraction limited, but visible title/location is enough to screen out.
+
+- Terra / likely Florești edge, 50 m2, 109,000 EUR: https://www.olx.ro/d/oferta/apartament-2-camere-zona-terra-50mp-IDkMhBP.html
+  - Rent estimate: ~400 EUR/month.
+  - All-in estimate: ~115,500 EUR.
+  - Gross yield: ~4.2%.
+  - Rejection: edge-location rent ceiling and price make it materially worse than Hasdeu.
+
+Previously recorded or pre-cutoff items not re-promoted:
+
+- Intre Lacuri 34 m2 loft IDkPJQc remained rejected; current OLX page still shows it reactivated at 115,000 EUR, but economics and top-floor/loft risk are unchanged.
+- Terra Gardens low-price units remained rejected because VAT, parking, fit-out, staged payment, and delayed completion keep all-in yield weak.
+- Sopor 43 m2 at 125,000 EUR and 05 Sep listing date was outside the cutoff and below target after all-in costs.
+- Mănăștur Mehedinți 35 m2 private listing at 115,000 EUR is pre-cutoff/06 Sep and below yield support.
+- Higher-priced Gheorgheni, Mărăști/Iulius, Central, Zorilor, Intre Lacuri, and Sopor items remained far above rent-supported pricing.
 
 ## Decision
 
 STATUS: DONE
 
-The post-cutoff overnight delta space was meaningfully scanned. No new candidate clears the 5.5% risk-adjusted screen or appears strong enough to contact. Existing Hasdeu remains the benchmark, with the same demisol caveats.
+The post-2026-09-07 16:17 EEST delta space through 2026-09-11 morning was meaningfully screened. No new candidate clears the 5.5% risk-adjusted screen or deserves seller contact/viewing review. Hasdeu remains the benchmark, with unchanged demisol caveats.
