@@ -240,6 +240,17 @@ Re-checked Horea and Hasdeu leads through Storia/browser-visible facts and publi
 **Context:**
 Scanned post-2026-09-06 19:57 EEST 2-room Cluj-Napoca sale inventory and recorded rejected candidates. No OLX/Storia message, call, email, form submission, viewing request, or commitment was made.
 
+## 2026-09-11 12:15
+
+**Direction:** Us -> Seller
+
+**Message:**
+
+> NO MESSAGE SENT. Freshness delta scan only.
+
+**Context:**
+Scanned post-2026-09-07 16:17 EEST through 2026-09-11 morning 2-room Cluj-Napoca sale inventory and recorded newly rejected candidates. No OLX/Storia message, call, email, form submission, offer, viewing request, or commitment was made.
+
 **Context:**
 Read-only OLX inbox check. Bucegi 8 / Augustin and Iris-Terapia / Vlad still showed our outgoing offers as the latest visible conversation snippets.
 
