@@ -271,3 +271,39 @@ For every rejection record:
 - Estimated yield: ~4.2% on estimated total cost of ~115,500 EUR
 - Rejection reason: reactivated in OLX index after cutoff, but older mirrors place the same title in Terra/Floresti-edge stock. Edge-location rent ceiling and high all-in cost make it materially worse than Hasdeu.
 - Date checked: 2026-09-11
+
+## 2026-09-14 - Manastur / Grigore Alexandrescu - 34 m2 parter - owner-direct but poor yield
+
+- Listing URL: https://www.olx.ro/d/oferta/proprietar-vand-apartament-2-camere-manastur-34mp-IDkWTpF.html
+- Asking price: 102,000 EUR, negotiable
+- Estimated rent: ~390 EUR/month
+- Estimated yield: ~4.35% on estimated total cost of ~107,500 EUR
+- Rejection reason: owner-direct and credit-compatible documents are positives, but it is parter, nedecomandat, only 34 m2, thermoficare, and parking is only available to rent nearby. It does not compete with Hasdeu and would need an implausible discount to reach target yield.
+- Date checked: 2026-09-14
+
+## 2026-09-14 - Cluj-Napoca / Gara-Horea access - 42 m2 etaj 3/3 - poor yield
+
+- Listing URL: https://www.olx.ro/d/oferta/apart-2-camere-decomandat-IDkWT4V.html
+- Asking price: 125,000 EUR
+- Estimated rent: ~470 EUR/month
+- Estimated yield: ~4.3% on estimated total cost of ~131,500 EUR
+- Rejection reason: private seller, decomandat, own gas heating, and courtyard parking are positives, but 125k asking for 42 m2, no balcony, and top floor 3/3 leave the economics far below target.
+- Date checked: 2026-09-14
+
+## 2026-09-14 - Manastur / Mehedinti - 46 m2 parter - poor yield
+
+- Listing URL: https://www.olx.ro/d/oferta/apartament-2-camere-bucatarie-baie-si-balcon-IDk0om7.html
+- Asking price: 120,000 EUR
+- Estimated rent: ~430 EUR/month
+- Estimated yield: ~4.1% on estimated total cost of ~126,500 EUR
+- Rejection reason: parter, Manastur/Mehedinti rent ceiling, and high asking price keep yield very weak despite private seller and parking access.
+- Date checked: 2026-09-14
+
+## 2026-09-14 - Iris / Terapia / Elite Residence - 40 m2 parter - price cut still poor yield
+
+- Listing URL: https://www.olx.ro/d/oferta/ap-40-mp-iris-zona-terapia-in-spate-la-elite-residence-IDkKF2r.html
+- Asking price: 93,500 EUR after reactivation and stated 10,000 EUR reduction
+- Estimated rent: ~410 EUR/month
+- Estimated yield: ~4.9% on estimated total cost of ~100,000 EUR
+- Rejection reason: this is a material price cut from the earlier Iris listing, but the property remains parter, Iris/Terapia, 40 m2, needs light renovation, and previously rejected our 82k anchor while saying there was a 93k client. At the new asking price it still does not reach the 5.5% target or beat Hasdeu risk-adjusted.
+- Date checked: 2026-09-14
