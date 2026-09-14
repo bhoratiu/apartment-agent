@@ -1,38 +1,38 @@
 # Next Action
 
-STATUS: DONE
+STATUS: READY
 
 ## Objective
-Run one strict freshness delta scan for 2-room Cluj-Napoca buy-to-rent listings first posted, reactivated, price-reduced, or materially edited after the last completed report cutoff, covering 2026-09-11 07:59 EEST through 2026-09-14 07:58 EEST, and surface only candidates that plausibly beat the current Zorilor / Hasdeu benchmark on risk-adjusted economics.
+Run one strict freshness delta scan for 2-room Cluj-Napoca buy-to-rent listings first posted, reactivated, price-reduced, or materially edited after the latest completed report, covering 2026-09-14 10:00 EEST through 2026-09-14 19:58 EEST, and surface only candidates that plausibly beat the current Zorilor / Hasdeu benchmark on risk-adjusted economics.
 
-## Result
-- Repository was pulled and required state/deal/report files were read before action.
-- Status was changed from `READY` to `IN_PROGRESS`, committed, and pushed before execution.
-- Current OLX 2-room Cluj-Napoca sorted-newest results under 125,000 EUR, exact OLX detail pages, public Storia/search checks, and repository active/rejected/negotiated history were checked for post-2026-09-11 07:59 EEST inventory/term changes.
-- Storia sorted-results navigation returned a 404/timed out and did not surface dated Sep 11-14 sub-125k candidates worth promoting through public search.
-- No seller-facing action was taken. No OLX/Storia message, call, email, form submission, offer, viewing request, personal contact disclosure, deposit, contract, or commitment was made.
-- Four newly surfaced or materially changed candidates were recorded as rejected:
-  - Manastur / Grigore Alexandrescu 34 m2 parter owner-direct at 102,000 EUR, rejected at ~4.35% gross yield.
-  - Cluj-Napoca with Gara-Horea/UTCN access 42 m2 etaj 3/3 at 125,000 EUR, rejected at ~4.3% gross yield.
-  - Manastur / Mehedinti 46 m2 parter at 120,000 EUR, rejected at ~4.1% gross yield.
-  - Iris / Terapia 40 m2 parter at 93,500 EUR after material price cut, rejected at ~4.9% gross yield.
-- Existing Hasdeu / Zorilor demisol 43 m2 at 95,000 EUR remains the benchmark only. No new candidate merits seller contact or viewing review.
+## Instructions
+- Read `SEARCH_CRITERIA.md`, `reports/latest.md`, all files under `deals/`, this file, and relevant files under `negotiations/` before acting.
+- Treat the completed 2026-09-14 10:00 EEST report as the freshness boundary. Do not re-run or re-promote unchanged inventory already assessed before that boundary.
+- Search current public listing sources for 2-room Cluj-Napoca properties newly posted, reactivated, price-reduced, or materially edited after 2026-09-14 10:00 EEST.
+- Verify each candidate's individual listing page is still active before treating it as actionable.
+- For plausible candidates, estimate realistic all-in acquisition cost, rent, gross yield, mortgage payment, likely cash flow, and material downside risks using the assumptions in `SEARCH_CRITERIA.md`.
+- Compare candidates against the existing Zorilor / Hasdeu 43 m2 demisol benchmark at 95,000 EUR. Promote only a candidate that plausibly clears the >=5.5% gross-yield screen on realistic all-in cost and is competitive on risk-adjusted economics.
+- Record clearly unsuitable new or materially changed candidates in `deals/rejected.md` so they are not repeatedly reconsidered.
+- If a genuinely superior candidate appears, update the appropriate deal-state file and `reports/latest.md` with the evidence and recommendation, but do not contact the seller in this run.
+- If no candidate beats the benchmark, update `reports/latest.md` with the completed delta boundary and concise result.
+- Do not disturb existing active negotiations unless a new seller response is already present in repository state. If such a response accepts, counters, asks for a final offer, or proposes a viewing, stop and set `state/next-action.md` to `NEEDS_DECISION` instead of taking seller-facing action.
 
-## Recommendation
-Wait for the next READY instruction. If continuing, scan only inventory or material price/term changes after 2026-09-14 10:00 EEST, or separately create a READY instruction for user-approved remote due diligence on Hasdeu.
+## Stop Conditions
+- Stop once the post-2026-09-14 10:00 EEST delta through 2026-09-14 19:58 EEST has been meaningfully screened and repository state/reporting reflects the result.
+- Stop immediately for user decision if an existing seller response accepts, counters, asks for a final offer, proposes a viewing, or otherwise materially changes deal terms.
+- Do not manufacture a negotiation action merely because no new listing qualifies.
 
-## Limits
-- Do not make financial commitments.
-- Do not reveal maximum budget.
-- Do not arrange an in-person viewing without explicit user approval.
-- Do not submit personal contact information through seller or agency forms without explicit approval.
-- Stop if the seller materially changes the terms.
+## Safety Limits
+- Do not send any seller-facing message, call, email, form submission, offer, counteroffer, or personal contact information in this run.
+- Do not arrange or authorize a viewing.
+- Do not pay or authorize any deposit, reservation fee, or other payment.
+- Do not reserve a property.
+- Do not sign, accept, or authorize any contract.
+- Do not make or imply a binding purchase commitment.
+- Do not reveal the user's maximum budget or sensitive financial/personal information.
+
+## Generated By
+ChatGPT Apartment Orchestrator
 
 ## Generated At
-2026-09-14 07:58 EEST
-
-## Started At
-2026-09-14 09:51 EEST
-
-## Completed At
-2026-09-14 10:00 EEST
+2026-09-14 19:58 EEST
