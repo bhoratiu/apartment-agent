@@ -3,12 +3,12 @@
 STATUS: READY
 
 ## Objective
-Run one strict freshness delta scan for 2-room Cluj-Napoca buy-to-rent listings first posted, reactivated, price-reduced, or materially edited after the latest completed report, covering the still-unexecuted interval from 2026-09-14 10:00 EEST through 2026-09-21 07:58 EEST, and surface only candidates that plausibly beat the current Zorilor / Hasdeu benchmark on risk-adjusted economics.
+Run one strict freshness delta scan for 2-room Cluj-Napoca buy-to-rent listings first posted, reactivated, price-reduced, or materially edited after the latest completed report, covering the still-unexecuted interval from 2026-09-14 10:00 EEST through 2026-09-21 19:58 EEST, and surface only candidates that plausibly beat the current Zorilor / Hasdeu benchmark on risk-adjusted economics.
 
 ## Instructions
 - Read `SEARCH_CRITERIA.md`, `reports/latest.md`, all files under `deals/`, this file, and relevant files under `negotiations/` before acting.
-- Treat the completed 2026-09-14 10:00 EEST report as the freshness boundary. No newer completed report is present, so preserve the entire still-unexecuted interval and extend it through 2026-09-21 07:58 EEST. Do not re-run or re-promote unchanged inventory already assessed before the boundary.
-- Search current public listing sources for 2-room Cluj-Napoca properties newly posted, reactivated, price-reduced, or materially edited after 2026-09-14 10:00 EEST and through 2026-09-21 07:58 EEST.
+- Treat the completed 2026-09-14 10:00 EEST report as the freshness boundary. No newer completed report is present, so preserve the entire still-unexecuted interval and extend it through 2026-09-21 19:58 EEST. Do not re-run or re-promote unchanged inventory already assessed before the boundary.
+- Search current public listing sources for 2-room Cluj-Napoca properties newly posted, reactivated, price-reduced, or materially edited after 2026-09-14 10:00 EEST and through 2026-09-21 19:58 EEST.
 - Verify each candidate's individual listing page is still active before treating it as actionable.
 - For plausible candidates, estimate realistic all-in acquisition cost, rent, gross yield, mortgage payment, likely cash flow, and material downside risks using the assumptions in `SEARCH_CRITERIA.md`.
 - Compare candidates against the existing Zorilor / Hasdeu 43 m2 demisol benchmark at 95,000 EUR. Promote only a candidate that plausibly clears the >=5.5% gross-yield screen on realistic all-in cost and is competitive on risk-adjusted economics.
@@ -18,7 +18,7 @@ Run one strict freshness delta scan for 2-room Cluj-Napoca buy-to-rent listings 
 - Do not disturb existing active negotiations unless a new seller response is already present in repository state. If such a response accepts, counters, asks for a final offer, or proposes a viewing, stop and set `state/next-action.md` to `NEEDS_DECISION` instead of taking seller-facing action.
 
 ## Stop Conditions
-- Stop once the post-2026-09-14 10:00 EEST delta through 2026-09-21 07:58 EEST has been meaningfully screened and repository state/reporting reflects the result.
+- Stop once the post-2026-09-14 10:00 EEST delta through 2026-09-21 19:58 EEST has been meaningfully screened and repository state/reporting reflects the result.
 - Stop immediately for user decision if an existing seller response accepts, counters, asks for a final offer, proposes a viewing, or otherwise materially changes deal terms.
 - Do not manufacture a negotiation action merely because no new listing qualifies.
 
@@ -35,4 +35,4 @@ Run one strict freshness delta scan for 2-room Cluj-Napoca buy-to-rent listings 
 ChatGPT Apartment Orchestrator
 
 ## Generated At
-2026-09-21 07:58 EEST
+2026-09-21 19:58 EEST
